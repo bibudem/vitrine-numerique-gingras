@@ -1,0 +1,80 @@
+{
+  "id": "collection",
+  "title": "<em>Biographie </em><br/>de claude gingras",
+  "subtitle": "Critique",
+  "section": [
+    {
+      "title": "claude gingras",
+      "text": " <p>Claude Gingras était une personnalité incontournable du journalisme au Québec. Durant plus de 6 décennies, il rédigeait les critiques de musique classique au journal La presse. Durant sa carrière, il a pu croiser de grands noms de la sphère musicale et a été un témoin privilégié de son évolution. Avec son franc-parler, il a su imposer son style inimitable qui a laissé une trace indélébile dans la mémoire de celles et ceux qui l’ont croisé.</p>"
+    },
+    {
+      "title": "musique & journalisme",
+      "text": " <p>M. Gingras (1931- 2018) était un journaliste et critique musical québécois. C’est au pensionnat de son enfance, à Sherbrooke, que le frère Napoléon décèle en lui un talent pour l’écriture et le journalisme. Son amour pour la musique, vient du côté de sa mère pianiste.</p><p class='maj'>“J’ai toujours aimé la musique, j’ai toujours aimé écrire. Je suis devenu critique peut-être parce que les deux se sont rejoints. Je ne sais pas comment c’est venu mais j’ai aimé ça”</p><p class='from'>Claude Gingras<br/>dans <em>Claude Gingras Critique.</em></p><p> Il commence sa carrière au journal La tribune de Sherbrooke et c’est en avril 1953 qu’il entre au journal La Presse comme journaliste de variété. Rapidement, il devient critique de musique classique. Sa plume unique attire l’attention tant des amateurs et amatrices de musique que des professionnel·le·s du milieu.</p>"
+    },
+    {
+      "title": "Le style Gingras",
+      "text": " <p>Certains de ses articles sont réputés pour leur mordant et ravissaient le grand public. Pour autant, ses critiques sont pour la plupart justes et réglées comme du papier à musique. Claude Gingras cultivait le souci d’une écriture précise. Cette exigence transparaît dans sa manière unique qu’il avait de classer, de rassembler et de lire la musique.</p>",
+      "video": [
+        {
+          "video": "video1.webm",
+          "poster": "video1.png",
+          "credit": "bio1"
+        },
+        {
+          "video": "video2.webm",
+          "poster": "video2.png",
+          "credit": "bio2"
+        }
+      ]
+    },
+    {
+      "title": "collectionneur",
+      "text": " <p>L’appartement qu’il occupait au carré Saint-Louis à Montréal avait des airs de musée, des étagères murales, hautes du sol au plafond, débordaient d'œuvres musicales. Pas question de parler de désordre pour M. Gingras, car, partitions, vinyles et autres CD étaient classés avec minutie par sa main. Il était capable de retrouver un élément de sa collection en un claquement de doigt. Des tonnes de documents musicaux reflétant sa personnalité unique et passionnée.</p>",
+      "video": [
+        {
+          "video": "video3.webm",
+          "poster": "video3.png",
+          "credit": "bio3"
+        }
+      ]
+    },
+    {
+      "title": "critique & témoin",
+      "text": " <p>En 2015, il prend sa retraite, point final à une vie professionnelle fournie. En un peu plus de soixante ans de carrière, il a été amené à voyager et à rencontrer les plus célèbres: Pavarotti, La Callas, Leonard Bernstein ou encore Cecilia Bartoli. Mais c’est au Québec, à Montréal, qu’il fut un témoin précieux de la vie musicale. Cette vitrine interactive lui rend hommage.</p>",
+      "images": [
+        {
+          "img": "img1.jpg",
+          "credit": "bio4"
+        },
+        {
+          "img": "img2.jpg",
+          "credit": "bio5"
+        },
+        {
+          "img": "img3.jpg",
+          "credit": "bio6"
+        },
+        {
+          "img": "img4.jpg",
+          "credit": "bio7"
+        },
+        {
+          "img": "img5.jpg",
+          "credit": "bio8"
+        },
+        {
+          "img": "img6.jpg",
+          "credit": "bio9"
+        },
+        {
+          "img": "img7.jpg",
+          "credit": "bio10"
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Claude Gingras : Une plume incontournable de la musique classique",
+    "description": "Portrait de Claude Gingras, critique musical influent, témoin privilégié de la scène musicale québécoise pendant plus de six décennies."
+  }
+}

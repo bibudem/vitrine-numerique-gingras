@@ -1,0 +1,233 @@
+{
+  "id": "rarete",
+  "title": "<span class='italic'>Les</span><br/><span class='upper'>raretés</span>",
+  "subtitle": "La démarche du collectionneur",
+  "cta": "Découvrir",
+  "bgColor": "255, 249, 233",
+  "seo": {
+    "title": "Les trésors musicaux de Claude Gingras",
+    "description": "Découvrez les enregistrements rares et les pièces uniques qui composaient l’impressionnante collection musicale de Claude Gingras."
+  },
+  "listing": {
+    "title": "Les trésors d’une vie",
+    "description": "On trouve dans l'impressionnante collection musicale de Claude Gingras de précieux joyaux dont il prenait grand soin. Ces raretés sont le fruit de dons, de recherches approfondies pour dénicher un enregistrement précis ou encore d’un beau coup de hasard. La valeur des pièces collectionnées par le critique n’est pas seulement liée à leur rareté, mais à l’attachement personnel qu’il leur portait. Chaque pièce, que ce soit un disque méconnu de Menotti ou une interprétation oubliée de l'auteur de la méthode Suzuki, témoigne de son désir de préserver et de partager des moments uniques.",
+    "section": [
+      {
+        "title": "Shin'ichi Suzuki",
+        "objects": [
+          {
+            "title": "La sonate de Franck",
+            "id": "rarete1",
+            "type": "cd",
+            "note": null,
+            "slug": "la-sonate-de-franck",
+            "sound": "sounds/1264154471_Gurlitt_Violin.mp3",
+            "article": "images/1264154471_article.jpg",
+            "pochette_recto": "textures/1264154471_pochette_recto_nouv.jpg",
+            "pochette_verso": "textures/1264154471_pochette_verso_nouv.jpg",
+            "description": "<p>“Ce compact introuvable affiche un nom familier: Suzuki. L'inventeur de la fameuse méthode d'enseignement du violon par imitation, le Japonais Shin'ichi Suzuki, mort centenaire en 1998, fut lui-même violoniste, étudia à Berlin et y grava la Sonate de César Franck, vers 1928, avec Martin Gurlitt au piano. Il joue d'ailleurs assez mal... ce qui ne l'a pas empêché d'être bon pédagogue. Paru sous la marque Symposium, le CD contenait des plages d'autres violonistes: Enesco, Thibaud, Francescatti.”<br><em>La Presse</em>, 1 décembre 2007</p>"
+          }
+        ]
+      },
+      {
+        "title": "Béla Bartók",
+        "objects": [
+          {
+            "title": "Claude Gingras nous parle de Béla Bartók",
+            "id": "rarete2",
+            "slug": "claude-gingras-nous-parle-de-bela-bartok",
+            "type": "video",
+            "article": null,
+            "video": "videos/rarete-extrait1.webm",
+            "poster": "rarete2.png",
+            "description": "<p>“Bartok composa son troisième et dernier Concerto pour piano à l'intention de sa femme, Ditta Pasztory, dont la technique limitée lui inspira ce concerto moins difficile que les deux précédents. Pour des raisons inconnues, c'est György Sandor qui le créa, en 1946, et l'enregistra, d'ailleurs plus d'une fois. En 1964, un autre Hongrois, le chef Tibor Serly, persuada Ditta, alors âgée de 62 ans de confier au disque le concerto qui lui était destiné. Ce qui fut fait à Vienne, pour la marque américaine Musical Heritage. Introuvable ce disque. Des spécialistes eux-mêmes n'en connaissent pas l’existence.”<br><em>La Presse</em>, 1er décembre 2007</p>"
+          },
+          {
+            "title": "The Music of Tibor Serly & Béla Bartók",
+            "id": "rarete3",
+            "type": "vinyl",
+            "note": null,
+            "slug": "the-music-of-tibor-serly-and-bela-bartok",
+            "sound": "sounds/22376531_Bartok_Concerto.mp3",
+            "article": "images/22376531_enregistrements_rarissimes.jpg",
+            "article_scale": 1.5,
+            "pochette_recto": "textures/22376531_pochette_recto_stitch.jpg",
+            "pochette_verso": "textures/22376531_pochette_verso_stitch.jpg",
+            "tranche": "#f5eabd",
+            "description": "<p>“Le disque a paru en 1975. Ditta Pasztory avait a ce moment-là 72 ans. Son interprétation est pleine de tendresse, prudente techniquement à certains endroits, mais certainement très authentique.”<br><em>La Presse</em>, 15 janvier 1983</p>"
+          }
+        ]
+      },
+      {
+        "title": "Menotti, en français",
+        "objects": [
+          {
+            "title": "Claude Gingras nous parle de Menotti",
+            "id": "rarete4",
+            "slug": "claude-gingras-nous-parle-de-menotti",
+            "type": "video",
+            "article": null,
+            "video": "videos/rarete-extrait2.webm",
+            "poster": "rarete4.png",
+            "description": "<p>“Les opéras de Gian Carlo Menotti sont presque tous écrits en anglais et presque toujours chantés dans cette langue, quel que soit le pays. Pourtant, il exista, fin des années 60, et disponible pendant très peu de temps, un coffret RCA Victor France groupant deux des opéras les plus connus de Menotti, <em>The Medium</em> et <em>The Telephone</em>, chanté dans une traduction française de Léon Kochnitzky par Denise Scharley (pour le premier), Liliane Berton et Jean-Christophe Benoît (pour le second). Chantés à la française, bien sûr, assez peu Menotti en fait… mais rare!”<br><em>La Presse</em>, 1er décembre 2007</p>"
+          },
+          {
+            "title": "Le médium, Le téléphone",
+            "id": "rarete5",
+            "type": "vinyl",
+            "note": null,
+            "slug": "le-medium-le-telephone",
+            "sound": "sounds/659085410_Le telephone_Liliane Berton.mp3",
+            "article": "images/659085410_enregistrements_rarissimes.jpg",
+            "article_scale": 1.5,
+            "pochette_recto": "textures/659085410_pochette_recto_stitch.jpg",
+            "pochette_verso": "textures/659085410_pochette_verso_stitch.jpg",
+            "tranche": "#323433",
+            "description": "<p>Un enregistrement rare de Menotti en français, issu de la collection de Claude Gingras.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Dialogues des Carmélites",
+        "objects": [
+          {
+            "title": "Claude Gingras nous parle de Dialogues des Carmélites",
+            "id": "rarete6",
+            "slug": "claude-gingras-nous-parle-de-dialogues-des-carmelites",
+            "type": "video",
+            "article": null,
+            "video": "videos/rarete-extrait3.webm",
+            "poster": "rarete6.png",
+            "description": "<p>“En opéra encore: <em>Dialogues des Carmélites,</em> de Poulenc. Le célèbre enregistrement EMI de 1958 donne l'œuvre dans la version originale française, mais on ignore généralement que, pour des raisons trop longues à expliquer ici, la création mondiale avait eu lieu en italien, l’année précédente, à La Scala de Milan, avec Virginia Zeani, Leyla Gencer et Fiorenza Cossotto, entre autres. Un <em>live</em> de l’une des premières représentations milanaises parut aux États-Unis il y a plusieurs années en un coffret Legendary Recordings de trois microsillons.”<br><em>La Presse</em>, 1er décembre 2007</p>"
+          },
+          {
+            "title": "Poulenc: Dialogues des Carmélites",
+            "id": "rarete7",
+            "type": "vinyl",
+            "note": null,
+            "slug": "poulenc-dialogues-des-carmelites",
+            "sound": "sounds/456326075_Poulenc_Dialogue.mp3",
+            "article": "images/456326075_dialogues_deux_versions.jpg",
+            "pochette_recto": "textures/456326075_pochette_recto_stitch.jpg",
+            "pochette_verso": "textures/456326075_pochette_verso_stitch.jpg",
+            "tranche": "#fff9db",
+            "article_scale": 0.85,
+            "article_offset": 0.3,
+            "description": "<p>“Le pirate de la représentation du 10 février, un très rare coffret Legendary Recordings de trois 33-tours non encore repris en CD, est pour historiens seulement : style trop italien, son très mauvais.”<br><em>La Presse</em>, 11 mars 2000</p>"
+          }
+        ]
+      },
+      {
+        "title": "Yvonne Loriod",
+        "objects": [
+          {
+            "title": "Florilège du Piano",
+            "id": "rarete8",
+            "type": "vinyl",
+            "note": null,
+            "slug": "florilege-du-piano",
+            "sound": "sounds/658504219_Messiaen.mp3",
+            "article": null,
+            "pochette_recto": "textures/658504219_pochette_recto_stitch.jpg",
+            "pochette_verso": "textures/658504219_pochette_verso_stitch.jpg",
+            "tranche": "#7bad94",
+            "description": "<p>Yvonne Loriod (1924-2010) est une pianiste française célèbre pour ses interprétations des œuvres d'Olivier Messiaen, son époux, qui lui compose plusieurs pièces. En plus de sa carrière de concertiste, elle enseigne au Conservatoire de Paris et contribue à préserver l'héritage musical de Messiaen après sa mort.<br>D’après Claude Gingras, ce coffret de deux 33 tours est très rare.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Lynnwood Farnham",
+        "objects": [
+          {
+            "title": "Claude Gingras nous parle de Lynnwood Farnham",
+            "id": "rarete10",
+            "slug": "claude-gingras-nous-parle-de-lynnwood-farnham",
+            "type": "video",
+            "article": null,
+            "video": "videos/rarete-extrait4.webm",
+            "poster": "rarete10.png",
+            "description": "<p>“J'aurais voulu me limiter à cinq enregistrements. Un sixième s'impose absolument car il est aussi relié à Montréal. Le nom de Lynnwood Farnam résonne encore dans le monde fermé de l'orgue. Ce Canadien né à Sutton en 1885, organiste d'église et professeur à Montréal puis à New York où il mourut en 1930, avait poursuivi une importante carrière et était assez connu en Europe pour recevoir des dédicaces comme celle de la sixième Symphonie pour orgue de Vierne. Il existe ici même une Lynnwood Farnam Society dont l’un des membres me confiait un jour: “Nous possédons tout sur lui… tout, sauf un enregistrement. Car il n’en a jamais fait.”<br>Vraiment? Je lui ai montré le vieux 33-tours Classic Editions groupant de petites pièces par Farnam dans ses dernières années et il en a tiré quelques exemplaires en compact.”<br><em>La Presse</em>, 1er décembre 2007</p>"
+          },
+          {
+            "title": "An Organ Recital by Lynnwood Farnam",
+            "id": "rarete11",
+            "type": "vinyl",
+            "note": null,
+            "slug": "an-organ-recital-by-lynnwood-farnam",
+            "sound": "sounds/4426556_Vierne_Carllon.mp3",
+            "article": "images/4426556_enregistrements_rarissimes.jpg",
+            "article_scale": 1.5,
+            "pochette_recto": "textures/4426556_pochette_recto_stitch.jpg",
+            "pochette_verso": "textures/4426556_pochette_verso_stitch.jpg",
+            "tranche": "#1a1c28",
+            "description": "<p>Voici le 33 tours de l’enregistrement rare de Lynnwood Farnam, de la collection de monsieur Gingras.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Alban Berg",
+        "objects": [
+          {
+            "title": "Der Wein",
+            "id": "rarete12",
+            "type": "vinyl",
+            "note": null,
+            "slug": "der-wein",
+            "sound": "sounds/23273277_Berg.mp3",
+            "article": null,
+            "pochette_recto": "textures/23273277_pochette_recto.jpg",
+            "pochette_verso": "textures/23273277_pochette_verso.jpg",
+            "tranche": "#545955",
+            "description": "<p>“Remontons encore dans le temps : Vienne, 1929. Ruzena Herlinger, née Schwartz, soprano tchèque établie dans la capitale autrichienne, alors capitale du monde musical [...] décide un jour de commander une œuvre à Berg, qui l’avait accompagnée au piano l’année précédente [...].”<br>“Herlinger est formelle : elle veut une œuvre qui lui permette de ”briller par-dessus l’orchestre” et pour laquelle elle est prête à payer 5 000 schillings. L’offre est assez alléchante pour que Berg mette de côté la composition de <em>Lulu</em>. Il puise le texte dans <em>Les Fleurs du Mal</em>, de Baudelaire, dans la traduction allemande de Stefan George, et retient trois extraits du poème <em>Le Vin</em>, les reliant pour constituer une œuvre d’environ 15 minutes qu’il intitule <em>Der Wein</em> (c’est à dire ”Le Vin”).”<br><em>La Presse</em>, 9 mai 1992<br>Dans cet article intitulé « Peut-on rêver de disques en prime? » Claude Gingras nous apprend que Ruzena Herlinger, la cantatrice montréalaise d'origine tchèque, n'a jamais enregistré <em>Der Wein</em> pour une maison de disques. Plusieurs chanteuses comme Charlotte Boerner ont enregistré l’œuvre, mais pas Herlinger. Claude Gingras est très attaché à ce disque, probablement le premier enregistrement commercial de <em>Der Wein</em>. C’est sans doute ce qui explique qu’il le montrait à tout le monde qui croisait sa route dans ses dernières années.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Uta Graf",
+        "objects": [
+          {
+            "title": "Frauenliebe und Leben",
+            "id": "rarete13",
+            "type": "vinyl",
+            "note": null,
+            "slug": "frauenliebe-und-leben",
+            "sound": "sounds/9679677_Schumann.mp3",
+            "article": null,
+            "pochette_recto": "textures/9679677_pochette_recto.jpg",
+            "pochette_verso": "textures/9679677_pochette_verso.jpg",
+            "tranche": "#fcdeb2",
+            "description": "<p><em>Frauenliebe und Leben</em> (L’Amour et la vie d’une femme) est un cycle de huit lieder composé par Robert Schumann en 1840, sur des poèmes de Adelbert von Chamisso. Il raconte l’évolution émotionnelle d’une femme, depuis sa rencontre avec son bien-aimé jusqu’à sa mort. C'est une œuvre profondément romantique, emblématique de la période du Liederkreis de Schumann.<br>L’enregistrement d’Uta Graf est apprécié pour son authenticité et sa simplicité. Dans le monde de la musique classique, où certaines interprétations de <em>Frauenliebe und Leben</em> peuvent être grandioses, cet enregistrement se démarque par une approche plus directe, centrée sur l'émotion et la musicalité.<br>Cet enregistrement est très précieux pour Claude Gingras.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Tétralogie de Wagner",
+        "objects": [
+          {
+            "title": "Claude Gingras nous parle de son édition de la Tétralogie de Wagner",
+            "id": "rarete14",
+            "slug": "claude-gingras-nous-parle-de-son-edition-de-la-tetralogie-de-wagner",
+            "type": "video",
+            "article": null,
+            "video": "videos/rarete-extrait5.webm",
+            "poster": "rarete14.png",
+            "description": "<p>Claude Gingras nous présente son édition de la Tétralogie dans le documentaire <em>Claude Gingras critique.</em> Il en est fier, malgré son désamour connu pour Wagner.<br>“Ça c’est extrêmement précieux.”<br>“[…]c’est la plus importante masse musicale du répertoire, ça c’est un fait, ça dure 16 heures.”<br>Claude Gingras dans <em>Claude Gingras critique</em>, 2016</p>"
+          },
+          {
+            "title": "Partitions de poche",
+            "id": "rarete15",
+            "slug": "partitions-de-poche",
+            "type": "book",
+            "article": null,
+            "pochette_recto": "textures/1424960068_recto.jpg",
+            "pochette_verso": "textures/1424960068_verso.jpg",
+            "tranche": "#5d201b",
+            "page_1": "textures/1424960068_page_1.jpg",
+            "page_2": "textures/1424960068_page_2.jpg",
+            "description": "<p>Claude Gingras affectionne grandement ses partitions de poche de la Tétralogie de Wagner, reliées en cuir et datant selon lui d'environ 1925, avec les paroles en allemand, en anglais et en français.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

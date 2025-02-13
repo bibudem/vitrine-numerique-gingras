@@ -1,0 +1,23 @@
+/* TEAM */
+
+Kffein: contact@kffein.com
+Site: https://kffein.com
+Location: 7236 Waverly, #303 Montréal, Québec H2R-0C2 - CANADA
+
+David Guillemin: The nice guy
+--
+Jean-Michel Leroux: Strategy & growth director
+Pascale Desormeaux: Project management officer
+Geneviève Durand: Administrative director
+Anaïs Blanc: Project Manager
+Valentin Arvis: Project Manager
+--
+Louise Margueritat: Art Director
+--
+Joel Lachance: Backend Lead
+--
+Kevin Bastien: Frontend Lead
+Guillaume Tomasi: Innovation Lead
+Gabriel Corbel: Creative technologist
+Mélissa Martin: Creative technologist
+Ravy Chan: Creative technologist

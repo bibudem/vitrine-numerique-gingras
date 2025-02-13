@@ -1,0 +1,184 @@
+{
+  "id": "charles",
+  "title": "<span class='italic'>Charles</span><br/><span class='upper'>Dutoit</span>",
+  "subtitle": "De l’ambition à l’ascension",
+  "cta": "Découvrir",
+  "bgColor": "245, 245, 245",
+  "seo": {
+    "title": "Charles Dutoit et l’OSM : Une révolution symphonique",
+    "description": "Retour sur l’impact de Charles Dutoit sur l’Orchestre symphonique de Montréal et son influence vue par le critique Claude Gingras."
+  },
+  "listing": {
+    "title": "Charles Dutoit et l’OSM : une révolution symphonique",
+    "description": "<p>En 1977, Charles Dutoit dirige son premier concert en tant que chef de l’OSM et marque alors les esprits. Sous sa baguette, l’orchestre évolue rapidement et Claude Gingras observe cette transformation de près. Pour lui, « Dutoit a donné une personnalité à l'OSM. Il a changé la sonorité, il a changé la personnalité de l'orchestre. » En effet, Dutoit insuffle une nouvelle énergie à l'orchestre : il intègre à son effectif de nombreux·ses artistes québécois·es et propose des programmes ambitieux qui mèneront à l’ouverture de l’OSM sur le monde. Chaque concert qu’il dirige devient un événement mémorable, où rigueur et passion s’entremêlent. Gingras décrit régulièrement l'impact du chef, soulignant son charisme et sa capacité à élever l'OSM vers de nouveaux sommets artistiques. Ce lien entre Dutoit et l'orchestre, tel que capté par Gingras, témoigne de cette époque charnière dans l’histoire de l'OSM, où excellence et détermination se conjuguent.</p>",
+    "section": [
+      {
+        "title": "LA RENCONTRE",
+        "objects": [
+          {
+            "title": "Un homme neuf à l’OSM",
+            "id": "charles1",
+            "slug": "un-homme-neuf-a-l-OSM",
+            "type": "article",
+            "article": "images/article_homme_neuf_OSM_stitch.jpg",
+            "description": "<p>“À ce jour, Charles Dutoit n’a dirigé qu’un concert à l’OSM, [...] mais l’impression qu’il créa alors, et ce à tous les niveaux (direction, musiciens, public et critique), fut si forte, si unanime et, en fait, si déterminante, qu’il était facile de prévoir ce qui allait se passer par la suite.”<br>“Mais, souligne-t-il [Charles Dutoit], c’est surtout mon travail ici en février dernier qui a été la grande chose. J’ai eu un énorme plaisir à travailler avec l’orchestre. J’y ai trouvé des musiciens très coopératifs, très disciplinés, très professionnels. Et j’ai été extrêmement impressionné par la tenue de l’orchestre les deux soirs de concert. L’orchestre a une stature internationale, tout à fait. J’aimerais bien maintenir ce niveau et aussi - car c’est toujours l’aspiration suprême - aller le plus loin possible. Car, dans le travail d’un chef d’orchestre, il y a une espèce d’osmose. Chacun prend la personnalité de l’autre. La sonorité change, il y a tout un mélange de facteurs musicaux et humains, une qualité de travail qui se concrétise dans le concert…”<br><em>La Presse</em>, 17 septembre 1977</p>"
+          }
+        ]
+      },
+      {
+        "title": "L’ASCENSION",
+        "objects": [
+          {
+            "title": "Claude Gingras nous parle de Charles Dutoit",
+            "id": "charles2",
+            "type": "video",
+            "slug": "claude-gingras-nous-parle-de-charles-dutoit",
+            "article": null,
+            "video": "videos/charles-extrait1.webm",
+            "poster": "charles2.png",
+            "description": "<p>Il a changé la sonorité, il a changé… il a donné une vraie personnalité à l'orchestre<br>Claude Gingras dans <em>Claude Gingras critique</em>, 2016</p>"
+          }
+        ]
+      },
+      {
+        "title": "L’AMBITION",
+        "objects": [
+          {
+            "title": "“Je vais mettre l’orchestre sur la carte du monde !”",
+            "id": "charles3",
+            "slug": "je-vais-mettre-lorchestre-sur-la-carte-du-monde",
+            "type": "article",
+            "article": "images/article_mettre_orchestre_carte.jpg",
+            "description": "<p>“Charles Dutoit n’a pas fini de bouleverser nos petites habitudes!”<br>“Prenant, à toutes fins utiles, le contrôle de l’OSM, Charles Dutoit a opéré des changements énormes au sein de notre activité symphonique, et ce à tous les niveaux.<br>L’effectif même de l’orchestre a été en grande partie renouvelé, rajeuni, avec le résultat que l’orchestre, d’une façon à peu près habituelle maintenant, joue mieux qu’il n’a jamais joué.”<br>“La direction même de Dutoit, que l’on a vu progresser et s’épanouir comme interprète depuis qu’il dirige ici, son enthousiasme communicatif, son charisme, s’ajoutant aux programmes stimulants qu’il propose, font de chaque concert un événement.”<br><em>La Presse</em>, 8 mars 1980</p>"
+          }
+        ]
+      },
+      {
+        "title": "Les enregistrements",
+        "objects": [
+          {
+            "title": "Ravel: Daphnis et Chloé",
+            "id": "charles4",
+            "type": "vinyl",
+            "note": null,
+            "slug": "ravel-daphnis-et-chloe",
+            "sound": "sounds/869020532_Ravel_Daphnis et Chloe_Lever du jour.mp3",
+            "article": "images/869020532_article_stitch.jpg",
+            "article_scale": 1.5,
+            "tranche": "#2a2416",
+            "pochette_recto": "textures/869020532_pochette_recto_stitch.jpg",
+            "pochette_verso": "textures/869020532_pochette_verso_stitch.jpg",
+            "description": "<p>Dutoit et l’OSM font leur entrée sur le marché mondial de l’enregistrement.<br>“Je le dis sans ambages: ce premier disque, consacré à l’intégrale du ballet Daphnis et Chloé de Ravel […], est un éclatant succès, à tous égards.”<br>“Mais il était important, pour le prestige et l’avenir de l’Orchestre Symphonique de Montréal, de franchir cette grande porte.[…] Charles Dutoit, le seul directeur artistique digne de ce nom que l’OSM ait connu, est l’homme grâce à qui le rêve est devenu réalité.”<br>“[…] il y a dans la version Dutoit - et c’est la première qualité remarquée - une fraîcheur et une jeunesse d’approche incomparables”.<br><em>La Presse</em>, 28 mars 1981</p>"
+          }
+        ]
+      },
+      {
+        "title": "50e de l’OSM",
+        "objects": [
+          {
+            "title": "La Symphonie des Mille par l’OSM",
+            "id": "charles5",
+            "slug": "la-symphonie-des-mille-par-losm",
+            "type": "video",
+            "article": null,
+            "video": "videos/charles-extrait2.webm",
+            "poster": "charles5.png",
+            "description": "<p>C’est au Forum de Montréal que l’OSM fête ses 50 ans avec la Symphonie no 8 (dite des Mille) de Mahler. Un moment inoubliable tant pour les musiciens et musiciennes que pour le public.<br>Claude Gingras en parle dans <em>Claude Gingras critique</em>, 2016</p>"
+          },
+          {
+            "title": "Photographie du Forum de Montréal",
+            "id": "charles6",
+            "slug": "photographie-du-forum-de-montreal",
+            "type": "article",
+            "article": "images/16055249_Forum_8e-symphonie_Mahler.jpg",
+            "description": "<p>Une foule impressionnante assiste à la Symphonie des Mille de Mahler au Forum de Montréal. Trente mille personnes se rassemblent pour souligner le 50e anniversaire de leur orchestre.</p>"
+          },
+          {
+            "title": "Charles Dutoit. Le maître de l'orchestre de Georges Nicholson. ",
+            "id": "charles7",
+            "slug": "charles-dutoit-le-maitre-de-lorchestre-de-georges-nicholson",
+            "type": "book",
+            "pochette_recto": "textures/16055249_1ecouverture.jpg",
+            "pochette_verso": "textures/16055249_4ecouverture.jpg",
+            "page_1": "textures/16055249_page_1.jpg",
+            "page_2": "textures/16055249_page_2.jpg",
+            "tranche": "#413a3b",
+            "description": "<p>Cet exemplaire comprend une coupure de presse mentionnant le livre parmi les suggestions de cadeaux de Noël du 6 décembre 1986, ainsi qu’un communiqué de presse de l’éditeur. On peut y voir les corrections et annotations de Claude Gingras.</p>"
+          }
+        ]
+      },
+      {
+        "title": "Les enregistrements",
+        "objects": [
+          {
+            "title": "Stravinsky: Petrouchka",
+            "id": "charles8",
+            "type": "cd",
+            "note": null,
+            "slug": "stravinsky-petrouchka",
+            "sound": "sounds/423692107_Berlioz_Symphonie_fantastique_op_14 _4e_mouv_Marche_au_supplice.mp3",
+            "article": "images/1135168860_articles.jpg",
+            "article_scale": 1.25,
+            "pochette_recto": "textures/1135168860_pochette_verso_nouv.jpg",
+            "pochette_verso": "textures/1135168860_pochette_recto_nouv.jpg",
+            "description": "<p>“Dutoit dirigea Pétrouchka dès son arrivée à l'OSM, en 1977, et l'y a repris régulièrement depuis. En dix ans, il a approfondi sa vision de l’œuvre, il en a raffiné les timbres. L’OSM est devenu le parfait instrument, virtuose et expressif, qui traduit sa pensée. Écouté aujourd'hui, par le truchement de ce disque compact extrêmement sensible (et sans la stridence des débuts), Pétrouchka, fête foraine assombrie par le drame, prend presque les proportions d'un opéra où les voix seraient celles des instruments de l’orchestre.<br>En effet, Dutoit confère à ce conte populaire une dimension dramatique inhabituelle, qui échappe à beaucoup de chefs, une dimension que lui-même n'avait pas entièrement saisie il y a dix ans [...].”<br>“Le complément de disque est un autre élément qui fait préférer le disque Dutoit-OSM : Les Quatre Études sont des pièces de haute virtuosité orchestrale, Le Chant du rossignol, un tableau oriental extrêmement séduisant, il existe peu d'enregistrements de ces œuvres, et elles sont, selon le cas, brillamment et somptueusement jouées et enregistrées.”<br><em>La Presse</em>, 17 octobre 1987</p>"
+          },
+          {
+            "title": "Debussy: Pelléas et Mélisande",
+            "id": "charles9",
+            "type": "cd",
+            "note": 3,
+            "slug": "debussy-pelleas-et-melisande",
+            "sound": null,
+            "article": "images/869009280_articles_2.jpg",
+            "artcle_scale": 1.5,
+            "pochette_recto": "textures/869009280_livret_recto_nouv.jpg",
+            "pochette_verso": "textures/869009280_coffret_verso_nouv.jpg",
+            "description": "<p>“L’enregistrement de Charles Dutoit et l'Orchestre Symphonique de Montréal de Pelléas et Mélisande, l'unique opéra de Debussy,[…] est une très belle réalisation. Mais ce n'est pas la réussite exceptionnelle que l'on attendait.”<br>“À l'orchestre, on voudrait plus de mystère, Dutoit a choisi la lumière. C'est-à-dire qu'encore une fois, son Debussy fait penser à Ravel. Il a cependant le mérite, rare chez ses collègues, de construire une réelle progression dramatique.”<br>“Le magazine Gramophone a entendu là - et je cite - « certainly the best modern recorded performance » de l'opéra de Debussy. Je suis assez d'accord. La version Dutoit est facilement supérieure aux versions Boulez, Karajan et Jordan, par exemple.”<br><em>La Presse</em>, 13 avril 1991</p>"
+          },
+          {
+            "title": "Berlioz: Symphonie fantastique",
+            "id": "charles10",
+            "type": "cd",
+            "note": 3,
+            "slug": "berlioz-symphonie-fantastique",
+            "sound": null,
+            "article": "images/423692107_article.jpg",
+            "article_scale": 1,
+            "pochette_recto": "textures/423692107_pochette_recto_nouv.jpg",
+            "pochette_verso": "textures/423692107_pochette_verso_nouv.jpg",
+            "description": "<p>“Même si l’OSM a connu bien des changements d’effectifs entre 1984 et 1996, c’est la même sonorité d’orchestre qui, grâce à l’oreille infaillible de Dutoit, se retrouve dans la Fantastique et dans Lélio. Tout a été dit sur cette Fantastique de 1984 qui, encore aujourd’hui, occupe le sommet de la discographie.<br><em>La Presse</em>, 10 novembre 2001</p>"
+          },
+          {
+            "title": "Partitions de Berlioz",
+            "id": "charles11",
+            "type": "book",
+            "slug": "partitions-de-berlioz",
+            "article": null,
+            "pochette_recto": "textures/715389483_1ecouverture.jpg",
+            "pochette_verso": "textures/715389483_4ecouverture.jpg",
+            "page_1": "textures/715389483_page_1.jpg",
+            "page_2": "textures/715389483_page_2.jpg",
+            "tranche": "#FFFFFF",
+            "description": "<p>L’une des nombreuses partitions de Claude Gingras. En effet, le critique assistait toujours aux concerts avec des partitions de poche. Voici celle de la Symphonie fantastique de Berlioz. On y constate le travail qu'il y faisait : annotations, découpages, informations complémentaires compilées.</p>"
+          }
+        ]
+      },
+      {
+        "title": "TATOUÉ SUR LE COEUR",
+        "objects": [
+          {
+            "title": "Charles Dutoit lance un cri d’alarme",
+            "id": "charles12",
+            "type": "article",
+            "note": null,
+            "slug": "charles-dutoit-lance-un-cri-dalarme",
+            "sound": null,
+            "article": "images/article_Charles_Dutoit_cri_alarme.jpg",
+            "description": "<p>“« Je demande à tous, du premier ministre au plus humble citoyen, de m'aider à sauver cet orchestre. » <br>Charles Dutoit montrait un front soucieux que je ne lui connais pas. À peine entré dans son modeste bureau, il attaque.<br>« L'Orchestre Symphonique de Montréal est menacé, très menacé. Il faut ouvrir les yeux de la communauté à tous les échelons. Il n'est pas question de salaires seulement. Cette grève des musiciens est symbolique. Ce sont les meilleurs du Canada et ils doivent être mieux payés. Nous sommes en train de les perdre.[…]»”</p>“« […] L'OSM est le seul grand orchestre du monde à ne pas avoir sa salle. Un scandale. Les pouvoirs publics n'ont pas compris qu'un grand orchestre, c'est une osmose entre une acoustique, un orchestre et son chef. Nous avions un très beau projet de salle. Bousillé par le gouvernement Bourassa. Bousillé par le maire Doré.»”<br>“« […] Nous avons travaillé comme des fous, l'OSM est au sommet... et n'a pas un sou. On nous laisse végéter. Financièrement, c'est le désastre. Je ne veux pas voir la décrépitude de cet orchestre. » ”<br>“[…]« Qu'est-ce que c'est, 98 personnes qui demandent une augmentation, dans une population de six millions ? Qu'est-ce que c'est à côté des 2500 syndiqués d'une manufacture ? Il suffirait aux gouvernements d'injecter quelques millions. Cela assurerait la pérennité de cette qualité que nous avons tous bâtie. […] » ”<br><em>La Presse</em>, 1er octobre 1998</p>"
+          }
+        ]
+      }
+    ]
+  }
+}
