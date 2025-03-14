@@ -1,6 +1,6 @@
 {
   "id": "metier",
-  "title": "<span class='italic'>Métier-rôle</span><br/><span class='upper'>De Critique</span>",
+  "title": "<span class='italic'>Métier et rôle</span><br/><span class='upper'>de critique</span>",
   "subtitle": "Rigueur et authenticité",
   "cta": "Découvrir",
   "bgColor": "249, 255, 238",
@@ -10,55 +10,38 @@
   },
   "listing": {
     "title": "Critique musical : La méthode Gingras",
-    "description": "« La qualité de Claude Gingras, c’est l’authenticité. Il a placé l’authenticité en avant du bon savoir et du bien vivre. C’est un des derniers vrais, dans ce qu’il fait. Il est allé au bout de ce qu’il pouvait faire dans sa carrière. » <br>– Roger D. Landry, éditeur en chef de La Presse, président du conseil d’administration de l’Opéra de Montréal<br>Ses critiques parfois acerbes, souvent justes, n'en sont pas moins le reflet de l'exigence propre à la musique classique. Pour Claude Gingras, être critique implique l’écoute de plusieurs interprétations d’une même œuvre, la consultation des dossiers et de la documentation disponible dans sa collection, dont l’essentielle partition. On retrouve cette rigueur dans sa manière de répertorier sa collection de vinyles, de CD et de partitions dans son appartement du carré Saint-Louis. À titre d’exemple, il découpe sa critique dans le journal et l’insère dans la pochette du disque dont il est question dans son texte. À l'aide d’annotations manuscrites, de notes insérées ou d'étiquettes (nombreuses sont les références d'un élément à un autre dans sa collection), Gingras organise méticuleusement les documents de sa collection de manière à les retrouver avec leurs références. Le tout s’entrecroise méthodiquement.",
+    "description": "<p>«&nbsp;La qualité de Claude Gingras, c’est l’authenticité. Il a placé l’authenticité en avant du bon savoir et du bien vivre. C’est un des derniers vrais, dans ce qu’il fait. Il est allé au bout de ce qu’il pouvait faire dans sa carrière.&nbsp;» <br>– Roger D. Landry, éditeur en chef de La Presse, président du conseil d’administration de l’Opéra de Montréal</p><p> Ses critiques parfois acerbes, souvent justes, n'en sont pas moins le reflet de l'exigence propre à la musique classique. Pour Claude Gingras, être critique implique l’écoute de plusieurs interprétations d’une même œuvre, la consultation des dossiers et de la documentation disponible dans sa collection, dont l’essentielle partition. On retrouve cette rigueur dans sa manière de répertorier sa collection de vinyles, de CD et de partitions dans son appartement du carré Saint-Louis. À titre d’exemple, il découpe sa critique dans le journal et l’insère dans la pochette du disque dont il est question dans son texte. À l'aide d’annotations manuscrites, de notes insérées ou d'étiquettes (nombreuses sont les références d'un élément à un autre dans sa collection), Gingras organise méticuleusement les documents de sa collection de manière à les retrouver avec leurs références. Le tout s’entrecroise méthodiquement.</p>",
     "section": [
       {
-        "title": "Claude parle de son métier",
+        "title": "Claude Gingras parle de son métier",
         "objects": [
           {
-            "title": "Brouillon (non daté) - extrait choisi 1",
+            "title": "Brouillon (non daté)",
             "id": "metier1",
-            "slug": "brouillon-non-date-extrait-choisi-1",
+            "slug": "brouillon-non-date",
             "type": "article",
             "article": [
               "images/Boite-58_brouillons_anciens_page1.jpg",
               "images/Boite-58_brouillons_anciens_page2.jpg",
-              "images/Boite-58_brouillons_anciens_page3.jpg"
-            ],
-            "description": "<p>On retrouve de nombreux écrits de la main de Gingras dans sa collection. Voici son regard sur le rôle de critique :<br>“La critique est une analyse, un bilan. Tout doit y être : les qualités, les défauts, et tout ce qu'il y a entre ces deux extrêmes. Et pour ma part, je ne crois pas qu'il y ait quoi que ce soit d’entièrement parfait et rien qui soit entièrement mauvais. En fait, la critique consiste à peser, à évaluer, à découvrir ce qu'il y a entre ces deux pôles. Et c'est là que se révèle le critique vraiment perspicace : dans les détails. Les bonnes choses et les mauvaises. On me reproche parfois de “chercher la petite bête noire“. Je réponds : Je ne la cherche pas : elle me saute aux yeux. Et j’ajoute : Mais je sais voir aussi la petite bête blanche.”</p>"
-          },
-          {
-            "title": "Brouillon (non daté) - extrait choisi 2",
-            "id": "metier2",
-            "slug": "brouillon-non-date-extrait-choisi-2",
-            "type": "article",
-            "article": [
+              "images/Boite-58_brouillons_anciens_page3.jpg",
               "images/Boite-58_brouillons_anciens_page4.jpg",
               "images/Boite-58_brouillons_anciens_page5.jpg",
-              "images/Boite-58_brouillons_anciens_page6.jpg"
-            ],
-            "description": "<p>On retrouve de nombreux écrits de la main de Gingras dans sa collection. Voici son regard sur le rôle de critique :<br>“L’interprète, tout en faisant sentir sa présence, doit toujours s'efforcer de mettre d'abord en valeur l'oeuvre elle-même. Pas le compositeur parce que l'oeuvre en fait s'est détachée du compositeur, elle ne lui appartient plus. D'ailleurs, je ne crois pas que l'on puisse juger du caractère d'un compositeur à travers ses oeuvres. Mozart a écrit certaines de ses oeuvres les plus tristes dans ses moments de plus grande joie, et vice versa. C'est une idée qui prévalait au siècle du romantisme mais qui heureusement n'a plus cours aujourd'hui.”</p>"
-          },
-          {
-            "title": "Brouillon (non daté) - extrait choisi 3",
-            "id": "metier3",
-            "slug": "brouillon-non-date-extrait-choisi-3",
-            "type": "article",
-            "article": [
+              "images/Boite-58_brouillons_anciens_page6.jpg",
               "images/Boite-58_brouillons_anciens_page7.jpg",
               "images/Boite-58_brouillons_anciens_page8.jpg",
               "images/Boite-58_brouillons_anciens_page9.jpg",
-              "images/Boite-58_brouillons_anciens_page10.jpg"
+              "images/Boite-58_brouillons_anciens_page10.jpg",
+              "images/Boite-58_brouillons_anciens_page11.jpg"
             ],
-            "description": "<p>On retrouve de nombreux écrits de la main de Gingras dans sa collection. Voici son regard sur le rôle de critique :<br>“Il arrive souvent que le critique soit pris, comme le public, par de très grandes interprétations, mais alors le métier exige que le critique fasse, comment dirais-je, “l’analyse de son plaisir“. Au sortir d'un concert ou d'un spectacle, j'entends des gens qui disent “C’était extraordinaire“, ou encore, “C'était pourri“. D'accord, tout le monde peut dire cela. Ça fait bien, dans un groupe. Mais si on demandait à ces gens de dire et d'écrire pourquoi c'est “extraordinaire“ ou pourquoi c'est “pourri“, je pense qu'ils auraient bien du mal à s'expliquer. D'ailleurs, on ne le leur demande pas puisque ce n'est pas leur métier.”</p>"
+            "description": "<p>On retrouve de nombreux écrits de la main de Gingras dans sa collection. Voici son regard sur le rôle de critique :<br/><br/>« La critique est une analyse, un bilan. Tout doit y être : les qualités, les défauts, et tout ce qu'il y a entre ces deux extrêmes. Et pour ma part, je ne crois pas qu'il y ait quoi que ce soit d’entièrement parfait et rien qui soit entièrement mauvais. En fait, la critique consiste à peser, à évaluer, à découvrir ce qu'il y a entre ces deux pôles. Et c'est là que se révèle le critique vraiment perspicace : dans les détails. Les bonnes choses et les mauvaises. On me reproche parfois de \"chercher la petite bête noire\". Je réponds : Je ne la cherche pas : elle me saute aux yeux. Et j’ajoute : Mais je sais voir aussi la petite bête blanche. »<br/><br/>« L’interprète, tout en faisant sentir sa présence, doit toujours s'efforcer de mettre d'abord en valeur l'oeuvre elle-même. Pas le compositeur parce que l'oeuvre en fait s'est détachée du compositeur, elle ne lui appartient plus. D'ailleurs, je ne crois pas que l'on puisse juger du caractère d'un compositeur à travers ses oeuvres. Mozart a écrit certaines de ses oeuvres les plus tristes dans ses moments de plus grande joie, et vice versa. C'est une idée qui prévalait au siècle du romantisme mais qui heureusement n'a plus cours aujourd'hui. »<br/><br/>« Il arrive souvent que le critique soit pris, comme le public, par de très grandes interprétations, mais alors le métier exige que le critique fasse, comment dirais-je, \"l’analyse de son plaisir\". Au sortir d'un concert ou d'un spectacle, j'entends des gens qui disent \"C’était extraordinaire\", ou encore, \"C'était pourri\". D'accord, tout le monde peut dire cela. Ça fait bien, dans un groupe. Mais si on demandait à ces gens de dire et d'écrire pourquoi c'est \"extraordinaire\" ou pourquoi c'est \"pourri\", je pense qu'ils auraient bien du mal à s'expliquer. D'ailleurs, on ne le leur demande pas puisque ce n'est pas leur métier.»</p>"
           }
         ]
       },
       {
-        "title": "Travail de critique: dans la peau de Claude",
+        "title": "Travail de critique&nbsp;: dans la peau de Claude Gingras",
         "objects": [
           {
-            "title": "La partition pour lire la musique",
+            "title": "La partition pour voir et entendre la musique",
             "id": "metier4",
             "type": "book",
             "slug": "la-partition-pour-lire-la-musique",
@@ -75,7 +58,7 @@
             "slug": "programme-de-concert",
             "type": "article",
             "article": "images/Boite-57_programme_annuel_Raymond_Daveluy.jpg",
-            "description": "<p>À titre de critique musical, Claude Gingras est amené à voir plusieurs représentations par semaine. Nous retrouvons dans sa collection de nombreux documents annotés de sa main comme ce programme de concert.</p>"
+            "description": "<p>À titre de critique musical, Claude Gingras va au concert plusieurs fois par semaine. Nous retrouvons dans sa collection de nombreux documents annotés de sa main comme ce programme.</p>"
           },
           {
             "title": "La critique du concert",
@@ -103,7 +86,7 @@
             "description": "<p>En plus de ses critiques musicales, Claude Gingras écrit aussi plusieurs livres. Son premier recueil est publié en 1955 : <em>Les musiciennes de chez nous.</em></p>"
           },
           {
-            "title": "Notes : 60 ans de vie musicale en confidences et anecdotes.",
+            "title": "<em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes</em>",
             "id": "metier8",
             "type": "book",
             "slug": "notes-60-ans-de-vie-musicale-en-confidences-et-anecdotes",
@@ -112,10 +95,10 @@
             "page_1": "textures/865225746_page_1.jpg",
             "page_2": "textures/865225746_page_2.jpg",
             "tranche": "#26374b",
-            "description": "<p>En 2014 est publié <em>Notes : 60 ans de vie musicale en confidences et anecdotes.</em>Présenté sous forme d'abécédaire, l'ouvrage NOTES se veut l'occasion de ramener en scène des événements ou de faire revivre des personnages qui, touchants ou cocasses, ont marqué notre monde musical. Sous le ton de la confidence et avec l'humour caustique qui le caractérise, l'auteur se remémore notamment le passage de Marie Callas à Montréal en 1955, l'engagement de Charles Dutoit comme titulaire de l'Orchestre symphonique de Montréal en 1978 ou sa prise de bec avec le ténor Luciano Pavarotti en 1982.<br>Un accès unique à un univers dont l'auteur à une connaissance profonde, et une ressource inestimable pour tout amateur de musique classique.<br>Résumé de l’éditeur</p>"
+            "description": "<p>En 2014 est publié <em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes.</em></p><p>«&nbsp;Présenté sous forme d'abécédaire, l'ouvrage <em>Notes</em> se veut l'occasion de ramener en scène des événements ou de faire revivre des personnages qui, touchants ou cocasses, ont marqué notre monde musical. Sous le ton de la confidence et avec l'humour caustique qui le caractérise, l'auteur se remémore notamment le passage de Marie Callas à Montréal en 1955, l'engagement de Charles Dutoit comme titulaire de l'Orchestre symphonique de Montréal en 1978 ou sa prise de bec avec le ténor Luciano Pavarotti en 1982.<br>Un accès unique à un univers dont l'auteur a une connaissance profonde, et une ressource inestimable pour tout amateur de musique classique.&nbsp;»<br>Résumé de l’éditeur</p>"
           },
           {
-            "title": "Auditions",
+            "title": "<em>Auditions : j'ai rencontré les plus grands</em>",
             "id": "metier9",
             "type": "book",
             "slug": "auditions",
@@ -123,8 +106,8 @@
             "pochette_verso": "textures/319743143_couverture_verso.jpg",
             "page_1": "textures/319743143_couverture_page_1.jpg",
             "page_2": "textures/319743143_couverture_page_2.jpg",
-            "tranche":"#eae6e3",
-            "description": "<p>En 2017 est publié <em>Auditions</em><br>Dans ce livre unique en son genre, Claude Gingras nous présente plus de 80 rencontres qu'il a faites avec des artistes majeurs de notre époque. En effet, avant de se consacrer à la musique classique, il a oeuvré au début de sa carrière, dans les domaines les plus variés : chanson, ballet, jazz, etc. Ce qui lui a permis de rencontrer, entre autres, Brel, Béjart, Fernandel et Liberace ainsi que Callas, Bernstein, Rubinstein et Tebaldi.<br>Anecdotes savoureuses, traits d'esprit mordants, analyses fines et confessions surprenantes :<em>Auditions</em> est à l'image de son auteur et constitue un témoignage inestimable sur plus d'un demi-siècle de culture.<br>Résumé de l’éditeur</p>"
+            "tranche": "#eae6e3",
+            "description": "<p>En 2017 est publié <em>Auditions.</em></p><p>«&nbsp;Dans ce livre unique en son genre, Claude Gingras nous présente plus de 80 rencontres qu'il a faites avec des artistes majeurs de notre époque. En effet, avant de se consacrer à la musique classique, il a oeuvré au début de sa carrière, dans les domaines les plus variés : chanson, ballet, jazz, etc. Ce qui lui a permis de rencontrer, entre autres, Brel, Béjart, Fernandel et Liberace ainsi que Callas, Bernstein, Rubinstein et Tebaldi.<br>Anecdotes savoureuses, traits d'esprit mordants, analyses fines et confessions surprenantes&nbsp;: <em>Auditions</em> est à l'image de son auteur et constitue un témoignage inestimable sur plus d'un demi-siècle de culture.&nbsp;»<br>Résumé de l’éditeur</p>"
           }
         ]
       },
@@ -132,20 +115,25 @@
         "title": "Encyclopédie de la musique au Canada",
         "objects": [
           {
-            "title": "9 avril 1983: La première encyclopédie de la musique au Canada",
+            "title": "9 avril 1983&nbsp;: «&nbsp;La première encyclopédie de la musique au Canada&nbsp;»",
             "id": "metier10",
             "slug": "9-avril-1983-la-premiere-encyclopedie-de-la-musique-au-canada",
             "type": "article",
             "article": "images/319743143_articles.jpg",
-            "description": "<p>“Il y a quelques mois paraissait l'<em>Encyclopedia of Music in Canada</em>, la première encyclopédie digne de ce nom — c'est-à-dire «ouvrage qui traite de tous les aspects d'une seule science» — consacrée à la vie musicale canadienne. Maintenant parait l'édition française.”<br>“A la lecture, on observe en premier lieu que la musique dite « classique» n'y est pas la seule représentée jazz, pop, rock, chansonnette, folklore, fanfares, bref tout ce qui est musique, de quelque genre que ce soit, y trouve place.”<br>“L'ordre alphabétique fait que les biographies de musiciens alternent avec les articles sur les conservatoires, orchestres, compagnies d'opéra, choeurs, quatuors à cordes, groupes rock, concours, festivals, camps musicaux, fabricants de pianos, de violons et d'orgues, grandes familles de musiciens (les Gagnier, les Masella), maisons d'édition musicale, compagnies d'enregistrement, grands magasins de musique, radios et télévisions, salles de concert et de spectacle musical, et quoi encore, sans oublier les grands événements de notre histoire musicale tels que le Festival mondial d'Expo 67.”<br>“Bref, Il n'y manque à peu près rien. En quelques jours de lecture, Je n’ai vu aucune faute de typographie, ce qui est presque incroyable. Les erreurs de fait et inexactitudes sont rares.”<br>– <em>La Presse</em>, 9 avril 1983</p>"
+            "description": "<p>«&nbsp;Il y a quelques mois paraissait l'<em>Encyclopedia of Music in Canada</em>, la première encyclopédie digne de ce nom — c'est-à-dire “ouvrage qui traite de tous les aspects d'une seule science” — consacrée à la vie musicale canadienne. Maintenant parait l'édition française.&nbsp;»<br>«&nbsp;A la lecture, on observe en premier lieu que la musique dite “classique” n'y est pas la seule représentée&nbsp;: jazz, pop, rock, chansonnette, folklore, fanfares, bref tout ce qui est musique, de quelque genre que ce soit, y trouve place.&nbsp;»<br>«&nbsp;L'ordre alphabétique fait que les biographies de musiciens alternent avec les articles sur les conservatoires, orchestres, compagnies d'opéra, choeurs, quatuors à cordes, groupes rock, concours, festivals, camps musicaux, fabricants de pianos, de violons et d'orgues, grandes familles de musiciens (les Gagnier, les Masella), maisons d'édition musicale, compagnies d'enregistrement, grands magasins de musique, radios et télévisions, salles de concert et de spectacle musical, et quoi encore, sans oublier les grands événements de notre histoire musicale tels que le Festival mondial d'Expo 67.&nbsp;»<br>«&nbsp;Bref, Il n'y manque à peu près rien. En quelques jours de lecture, Je n’ai vu aucune faute de typographie, ce qui est presque incroyable. Les erreurs de fait et inexactitudes sont rares.&nbsp;»<br>– <em>La Presse</em>, 9 avril 1983</p>"
           },
           {
-            "title": "Claude Gingras dans l’Encyclopédie",
+            "title": "Claude Gingras dans l’<em>Encyclopédie</em>",
             "id": "metier11",
-            "type": "article",
-            "article": "images/319743143_articles.jpg",
+            "type": "book",
+            "article": null,
+            "pochette_recto": "textures/319743143_recto.jpg",
+            "pochette_verso": "textures/319743143_verso.jpg",
+            "page_1": "textures/319743143_page_1.jpg",
+            "page_2": "textures/319743143_page_2.jpg",
+            "tranche": "#c4ae7f",
             "slug": "claude-gingras-dans-lencyclopedie",
-            "description": "<p>Dans l'<em>Encyclopédie de la musique au Canada,</em> on trouve la notice biographique de Claude Gingras : <br>“Gingras, Claude. Critique, auteur (Sherbrooke, Québec, 1er juillet 1931). Il débuta comme journaliste au quotidien <em>La Tribune</em> de sa ville natale en 1952. Il a subséquemment collaboré au <em>Quartier latin</em> puis au quotidien <em>La Presse</em> de Montréal où, depuis la fin des années 1950, il est critique musical et titulaire de la chronique discographique. Il est l'auteur de <em>Musiciennes de chez nous</em> (Montréal 1955), une collection de courtes biographies, et a été dir. de la rédaction du <em>Dictionnaire de vos vedettes</em> (Montréal 1958). Il a collaboré à plusieurs publications, dont <em>High Fidelity</em>, les <em>*Cahiers canadiens de musique</em>, <em>*Musicanada</em>.<br>Selon Claude Gingras, le rôle du critique “en est essentiellement un d'intermédiaire entre celui qui donne et celui qui reçoit... il doit d'abord aimer passionnément le domaine où il oeuvre..., posséder une connaissance complète de son sujet, un goût absolument sûr, un jugement parfaitement sain et, en même temps, il doit posséder une objectivité totale, être complètement indépendant des amitiés et des intimités. En somme, il doit posséder des qualités estimatives qui, forcément, manquent aux autres, de part et d’autre de la rampe” (<em>Guide du spectacle et du disque</em>, Québec 1978).”</p>"
+            "description": "<p>Dans l'<em>Encyclopédie de la musique au Canada,</em> on trouve la notice biographique de Claude Gingras : <br>«&nbsp;Gingras, Claude. Critique, auteur (Sherbrooke, Québec, 1er juillet 1931). Il débuta comme journaliste au quotidien <em>La Tribune</em> de sa ville natale en 1952. Il a subséquemment collaboré au <em>Quartier latin</em> puis au quotidien <em>La Presse</em> de Montréal où, depuis la fin des années 1950, il est critique musical et titulaire de la chronique discographique. Il est l'auteur de <em>Musiciennes de chez nous</em> (Montréal 1955), une collection de courtes biographies, et a été dir. de la rédaction du <em>Dictionnaire de vos vedettes</em> (Montréal 1958). Il a collaboré à plusieurs publications, dont <em>High Fidelity</em>, les <em>*Cahiers canadiens de musique</em>, <em>*Musicanada</em>.<br>Selon Claude Gingras, le rôle du critique “en est essentiellement un d'intermédiaire entre celui qui donne et celui qui reçoit... il doit d'abord aimer passionnément le domaine où il oeuvre..., posséder une connaissance complète de son sujet, un goût absolument sûr, un jugement parfaitement sain et, en même temps, il doit posséder une objectivité totale, être complètement indépendant des amitiés et des intimités. En somme, il doit posséder des qualités estimatives qui, forcément, manquent aux autres, de part et d’autre de la rampe” (<em>Guide du spectacle et du disque</em>, Québec 1978).&nbsp;»</p>"
           }
         ]
       },
@@ -170,7 +158,8 @@
               "images/869068501_renvoi_carton1.jpg",
               "images/869068501_renvoi_carton2.jpg",
               "images/869068501_renvoi_carton3.jpg",
-              "images/869068501_renvoi_carton4.jpg"
+              "images/869068501_renvoi_carton4.jpg",
+              "images/869068501_recto_stitch.jpg"
             ],
             "description": "<p>Claude Gingras met sur pied sa propre méthode de classement des éléments de sa collection. Son système dévoile de nombreuses références croisées. Par exemple, des intercalaires sont placés entre des objets faisant référence à un même sujet. Ci-contre, un exemple de quatre cartons de « références croisées » insérés dans la collection de vinyles de Claude Gingras, tous liés à un disque commun.</p>"
           },
@@ -194,7 +183,7 @@
             "page_1": "textures/1424869359_1ecouverture_page_1.jpg",
             "page_2": "textures/1424869359_1ecouverture_page_2.jpg",
             "tranche": "#e9a55c",
-            "description": "<p>Toujours en quête de nouveaux enregistrements, Claude Gingras se sert de ce livre pour répertorier ceux qu'il possède et lister ceux qu'il convoite.</p>"
+            "description": "<p>Toujours en quête de nouveaux enregistrements, Claude Gingras s'est servi de ce livre pour répertorier ceux qu'il possédait et lister ceux qu'il convoitait.</p>"
           }
         ]
       },
@@ -210,7 +199,7 @@
             "description": "<p>La notoriété du critique est telle que des compagnies de disques, comme la prestigieuse Deutsche Grammophon, mettent en valeur les coups de cœur de Claude Gingras dans leur publicité.</p>"
           },
           {
-            "title": "Le Grand Prix canadien du Disque Classique",
+            "title": "Le Grand Prix canadien du disque classique",
             "id": "metier17",
             "slug": "le-grand-prix-canadien-du-disque-classique",
             "type": "article",
@@ -219,7 +208,7 @@
               "images/Boite55_feuille_de_pointage_ma_copie.jpg",
               "images/Boite55_feuille_de_pointage.jpg"
             ],
-            "description": "<p>Monsieur Gingras est membre du jury du Grand Prix canadien du disque classique en 1976.<br>“Quant au Grand Prix canadien du Disque classique, il englobe, comme le nom le précise les enregistrements de production étrangère (la presque totalité forcément) ou canadienne fabriqués ou distribués au Canada et lancés ici au cours de l'année écoulée.<br>Dans le cas du Grand Prix 1976 qui sera décerné le 1er juin prochain, les enregistrements considérés sont ceux qui auront paru sur le marché canadien entre le 1er janvier et le 31 décembre 1975.<br>[...] Au total, 42 enregistrements ont été soumis.<br>Le jury, formé de huit spécialistes canadiens du disque classique dont les noms seront dévoilés au moment de l'attribution du prix, procède par pointage. Les juges ne se consultent pas et déposent leurs résultats à la Bibliothèque Nationale du Canada. Un seul enregistrement (celui qui aura récolté le plus grand nombre de points) sera primé.”<br><em>La Presse,</em> 3 avril 1976</p>"
+            "description": "<p>Monsieur Gingras est membre du jury du Grand Prix canadien du disque classique en 1976.<br>«&nbsp;Quant au Grand Prix canadien du Disque classique, il englobe, comme le nom le précise les enregistrements de production étrangère (la presque totalité forcément) ou canadienne fabriqués ou distribués au Canada et lancés ici au cours de l'année écoulée.<br>Dans le cas du Grand Prix 1976 qui sera décerné le 1er juin prochain, les enregistrements considérés sont ceux qui auront paru sur le marché canadien entre le 1er janvier et le 31 décembre 1975.<br>[...] Au total, 42 enregistrements ont été soumis.<br>Le jury, formé de huit spécialistes canadiens du disque classique dont les noms seront dévoilés au moment de l'attribution du prix, procède par pointage. Les juges ne se consultent pas et déposent leurs résultats à la Bibliothèque Nationale du Canada. Un seul enregistrement (celui qui aura récolté le plus grand nombre de points) sera primé.&nbsp;»<br><em>La Presse,</em> 3 avril 1976</p>"
           }
         ]
       }

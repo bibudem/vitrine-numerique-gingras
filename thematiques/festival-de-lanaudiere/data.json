@@ -1,11 +1,11 @@
 {
   "id": "festival",
-  "title": "<span class='italic'>Festival</span><br/><span class='upper'>De Lanaudière</span>",
+  "title": "<span class='italic'>Festival</span><br/><span class='upper'>de Lanaudière</span>",
   "subtitle": "Le rendez-vous musical",
   "cta": "Découvrir",
   "bgColor": "241, 251, 255",
   "seo": {
-    "title": "Festival de Lanaudière : Un rendez-vous incontournable pour Claude Gingras",
+    "title": "Festival de Lanaudière&nbsp;: Un rendez-vous incontournable pour Claude Gingras",
     "description": "Claude Gingras raconte ses moments marquants au Festival de Lanaudière, un événement phare pour la musique classique au Québec."
   },
   "listing": {
@@ -16,20 +16,20 @@
         "title": "Soirée d’ouverture de l’Amphithéâtre",
         "objects": [
           {
-            "title": "L’Amphithéatre de Lanaudière: une réussite sur tous les plans",
+            "title": "L’Amphithéatre de Lanaudière&nbsp;: une réussite sur tous les plans",
             "id": "festival1",
             "slug": "lamphitheatre-de-lanaudiere-une-reussite-sur-tous-les-plans",
             "type": "article",
             "article": "images/Boite_archives_non_identifie_-Amphitheatre_Lanaudiere_reussite.jpg",
-            "description": "<Une>“C’est le sujet de conversation de la semaine chez les amateurs de musique, c’est l'événement de l'été, c'est peut-être même l'événement de l'année: le nouvel Amphithéâtre de Lanaudière.<br>Une réussite sur tous les plans.”<br>“L'Amphithéâtre lui-même est simple, équilibré, fonctionnel, moderne sans froideur.<br>Mais le miracle [...] c'est l'acoustique.<br>Dans l'espace couvert, elle est exactement ce qu'on souhaitait qu'elle fût (mais ce qu'elle est hélas! rarement): parfaitement <em>naturelle</em>. Sans amplification, sans artifice. Voix et instruments sont précis, riches, bien découpés. Et l'on est comme assis dans une salle de concert.”<br>“Le chef, Semyon Vekshtein a sa grande part dans le succès de la soirée. Il a d'ailleurs vanté sans réserve l'acoustique de Lanaudière.<br>«Je n'en croyais pas mes oreilles, m'a-t-il confié. J'ai dirigé ou entendu des concerts dans tous les grands amphithéâtres en plein air du continent: Saratoga, Tanglewood, Ravinia, le Hollywood Bowl, le Mann Music Center de Philadelphie et Great Woods, au Rhode Island. Lanaudière est supérieur et même très supérieur!»”<br><em>La Presse</em>, 22 juillet 1989</p>"
+            "description": "<p>«&nbsp;C’est le sujet de conversation de la semaine chez les amateurs de musique, c’est l'événement de l'été, c'est peut-être même l'événement de l'année: le nouvel Amphithéâtre de Lanaudière.<br>Une réussite sur tous les plans.&nbsp;»<br>«&nbsp;L'Amphithéâtre lui-même est simple, équilibré, fonctionnel, moderne sans froideur.<br>Mais le miracle [...] c'est l'acoustique.<br>Dans l'espace couvert, elle est exactement ce qu'on souhaitait qu'elle fût (mais ce qu'elle est hélas! rarement): parfaitement <em>naturelle</em>. Sans amplification, sans artifice. Voix et instruments sont précis, riches, bien découpés. Et l'on est comme assis dans une salle de concert.&nbsp;»<br>«&nbsp;Le chef, Semyon Vekshtein a sa grande part dans le succès de la soirée. Il a d'ailleurs vanté sans réserve l'acoustique de Lanaudière.<br>“Je n'en croyais pas mes oreilles, m'a-t-il confié. J'ai dirigé ou entendu des concerts dans tous les grands amphithéâtres en plein air du continent: Saratoga, Tanglewood, Ravinia, le Hollywood Bowl, le Mann Music Center de Philadelphie et Great Woods, au Rhode Island. Lanaudière est supérieur et même très supérieur!”&nbsp;»<br><em>La Presse</em>, 22 juillet 1989</p>"
           }
         ]
       },
       {
-        "title": "Des oeuvres à découvrir: Tournemine",
+        "title": "Des œuvres à découvrir&nbsp;: Tournemire",
         "objects": [
           {
-            "title": "Une découverte : la sixième Symphonie de Tournemire",
+            "title": "Une découverte : la <em>Sixième symphonie</em> de Tournemire",
             "id": "festival2",
             "type": "cd",
             "note": null,
@@ -38,15 +38,15 @@
             "article": "images/517695848_articles.jpg",
             "pochette_recto": "textures/517695848_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/517695848_pochette_verso_nouv.jpg",
-            "description": "<p>“C'est ainsi que nous avons dès à présent la révélation de la colossale sixième Symphonie, avec choeur, ténor et orgue. Seule des huit Symphonies à faire intervenir les voix, elle fut composée en 1917-18 et manifestement inspirée par la Première Guerre mondiale.”<br>“On retrouve ici, en effet, plusieurs des composantes de l'univers mahlérien: les mêmes masses chorales, divisées cette fois en six parties, certaines formules d'écriture, la même liberté dans la structure (ici, deux grandes parties subdivisées et totalisant 53 minutes) et, surtout, la même démesure dans l’orchestration [...].”<br><em>La Presse</em>, 10 août 1996</p>"
+            "description": "<p>«&nbsp;C'est ainsi que nous avons dès à présent la révélation de la colossale sixième Symphonie, avec choeur, ténor et orgue. Seule des huit Symphonies à faire intervenir les voix, elle fut composée en 1917-18 et manifestement inspirée par la Première Guerre mondiale.&nbsp;»<br>«&nbsp;On retrouve ici, en effet, plusieurs des composantes de l'univers mahlérien: les mêmes masses chorales, divisées cette fois en six parties, certaines formules d'écriture, la même liberté dans la structure (ici, deux grandes parties subdivisées et totalisant 53 minutes) et, surtout, la même démesure dans l’orchestration [...].&nbsp;»<br><em>La Presse</em>, 10 août 1996</p>"
           },
           {
-            "title": "Tournemine, un génie !",
+            "title": "Tournemire, un génie !",
             "id": "festival3",
-            "slug": "tournemine-un-genie",
+            "slug": "Tournemire-un-genie",
             "type": "article",
             "article": "images/Tournemire_genie.jpg",
-            "description": "<p>Dans un article daté du 11 juillet 1998, Claude Gingras suggère l’écoute de cet enregistrement unique de la <em>Symphonie No 6</em> de Tournemire, œuvre qui fait trembler le sol de Lanaudière le 25 juillet de la même année. <br>“L’un des événements les plus attendus de notre été musical est l’exécution de la colossale sixième Symphonie de Charles Tournemire ce soir, 20 h, à l’Amphithéâtre de Lanaudière par l’Orchestre Symphonique de Montréal augmenté à 108 musiciens et un chœur de 200 voix, sous la direction de Charles Dutoit.”<br>“La partition est énorme : 257 pages, en très grand format car elle comporte notamment six cors, sept trompettes, quatre harpes et un choeur à six parties. Elle requiert un lutrin spécialement construit pour l'occasion et n'est disponible qu'en location, chez Max Eschig, à Paris.<br>Tournemire n'entendit jamais son oeuvre.”<br>“Antoine Reboulot sera dans l'assistance. L'organiste aveugle de 83 ans, Montréalais depuis 30 ans et l'un des derniers témoins de la période dite des « symphonistes français », connut Tournemire de 1934 à sa mort en 1939. [...] « C’était un génie… avec tous les défauts d’un génie. Il était fou… oui, fou. Alors, vive la folie ! »”<br><em>La Presse</em>, 25 juillet 1998</p>"
+            "description": "<p>Dans un article daté du 11 juillet 1998, Claude Gingras suggère l’écoute de cet enregistrement unique de la <em>Symphonie No 6</em> de Tournemire, œuvre qui fera trembler le sol de Lanaudière le 25 juillet de la même année.</p><p>«&nbsp;L’un des événements les plus attendus de notre été musical est l’exécution de la colossale sixième Symphonie de Charles Tournemire ce soir, 20 h, à l’Amphithéâtre de Lanaudière par l’Orchestre Symphonique de Montréal augmenté à 108 musiciens et un chœur de 200 voix, sous la direction de Charles Dutoit.&nbsp;»<br>«&nbsp;La partition est énorme : 257 pages, en très grand format car elle comporte notamment six cors, sept trompettes, quatre harpes et un choeur à six parties. Elle requiert un lutrin spécialement construit pour l'occasion et n'est disponible qu'en location, chez Max Eschig, à Paris.<br>Tournemire n'entendit jamais son oeuvre.&nbsp;»<br>«&nbsp;Antoine Reboulot sera dans l'assistance. L'organiste aveugle de 83 ans, Montréalais depuis 30 ans et l'un des derniers témoins de la période dite des “symphonistes français”, connut Tournemire de 1934 à sa mort en 1939. [...] “C’était un génie… avec tous les défauts d’un génie. Il était fou… oui, fou. Alors, vive la folie !”&nbsp;»<br><em>La Presse</em>, 25 juillet 1998</p>"
           }
         ]
       },
@@ -59,7 +59,7 @@
             "slug": "ewa-podles-stupefiant-et-troublant",
             "type": "article",
             "article": "images/Boite_archives_54_Ewa_Poddles_stupefiant_troublant.jpg",
-            "description": "<p>“Le nom d'Ewa Podles s'ajoute aux expériences les plus bouleversantes que Lanaudière nous a fait vivre en 20 ans. Je connaissais cette voix par le disque. Hier soir, dans l'acoustique de l'Amphithéâtre qui reproduit tout, jusqu'au moindre détail, cette voix s'est révélée plus envoûtante encore: plus riche, plus colorée, plus nerveuse, et d'une extraordinaire puissance.<br>Mais il y a d'abord, chez la chanteuse polonaise dans la quarantaine avancée, une prodigieuse présence et un métier fou. Solide comme le roc, elle se place devant l'orchestre et lance l'un après l'autre ses récitatifs et airs avec précision et musicalité. La virtuosité est stupéfiante mais elle reste toujours expressive, parce qu'au départ la chanteuse comprend le sens des mots; les sons tenus pendant de longues secondes ont la force d'une trompette. Je ne me rappelle pas avoir assisté à un tel déploiement d'art vocal.”<br><em>La Presse</em>, 25 juillet 1998</p>"
+            "description": "<p>«&nbsp;Le nom d'Ewa Podles s'ajoute aux expériences les plus bouleversantes que Lanaudière nous a fait vivre en 20 ans. Je connaissais cette voix par le disque. Hier soir, dans l'acoustique de l'Amphithéâtre qui reproduit tout, jusqu'au moindre détail, cette voix s'est révélée plus envoûtante encore: plus riche, plus colorée, plus nerveuse, et d'une extraordinaire puissance.<br>Mais il y a d'abord, chez la chanteuse polonaise dans la quarantaine avancée, une prodigieuse présence et un métier fou. Solide comme le roc, elle se place devant l'orchestre et lance l'un après l'autre ses récitatifs et airs avec précision et musicalité. La virtuosité est stupéfiante mais elle reste toujours expressive, parce qu'au départ la chanteuse comprend le sens des mots; les sons tenus pendant de longues secondes ont la force d'une trompette. Je ne me rappelle pas avoir assisté à un tel déploiement d'art vocal.&nbsp;»<br><em>La Presse</em>, 25 juillet 1998</p>"
           },
           {
             "title": "Ewa Podles, immense, unique",
@@ -71,25 +71,28 @@
             "article": "images/1343015393_articles.jpg",
             "pochette_recto": "textures/1343015393_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/1343015393_pochette_verso_nouv.jpg",
-            "description": "<p>“[...] cette voix à la fois très large et très agile, ces intervalles à couper le souffle (le nôtre, pas le sien!), ces couleurs audacieuses et même étranges, ce grave qui est presque celui d'une voix d'homme, bref cette immense et unique personnalité.”<br><em>La Presse</em>, 23 octobre 2004<br>Voici un enregistrement de Rossini réalisé deux semaines après la performance de Podleś à Lanaudière, lors d'un récital en Pologne au cours duquel l’artiste lyrique chante le même programme.</p>"
+            "description": "<p>«&nbsp;[...] cette voix à la fois très large et très agile, ces intervalles à couper le souffle (le nôtre, pas le sien!), ces couleurs audacieuses et même étranges, ce grave qui est presque celui d'une voix d'homme, bref cette immense et unique personnalité.&nbsp;»<br><em>La Presse</em>, 23 octobre 2004</p><p>Voici un enregistrement de Rossini réalisé deux semaines après la performance de Podleś à Lanaudière, lors d'un récital en Pologne au cours duquel l’artiste lyrique chante le même programme.</p>"
           },
           {
-            "title": "Lanaudière : belle fin de saison",
+            "title": "Lanaudière&nbsp;: belle fin de saison",
             "id": "festival6",
             "slug": "lanaudiere-belle-fin-de-saison",
             "type": "article",
-            "article": "images/Lanaudiere_belle_fin_de_saison.jpg",
-            "description": "<p>“À une époque où les véritables grands chanteurs sont si rares, où la vulgarité caractérise si souvent le monde de l'opéra, qu'il est réconfortant de voir et d'entendre une Gwyneth Jones!<br>La distinction, l'élégance, le charme, le sourire, et tout cela avec le plus grand naturel… Déjà, un climat est établi.<br>Et la voix? Encore très impressionnante. Bien sûr, la chanteuse britannique est en fin de carrière. De toute façon, cette voix a toujours été marquée par une certaine dureté et certains problèmes d'intonation, auxquels s'ajoutaient hier soir des notes hautes plus criées que chantées, et qu'accentuait l'acoustique fort réverbérée de la vaste et magnifique église de Saint-Jacques-de-Montcalm. On sait aussi que Gwyneth Jones n'est pas une chanteuse de l'école italienne et que ses Verdi et ses Puccini sont un peu froids.<br>Et pourtant, grâce à la présence et au professionnalisme de cette artiste humble, sincère, au métier extraordinaire, ce fut là une fort impressionnante fin de saison au Festival de Lanaudière. Il y avait là quelque mille personnes qui ont fait à Gwyneth Jones une ovation des après son tout premier air.”<br><em>La Presse</em>, 24 août 1988</p>"
+            "article": [
+              "images/Lanaudiere_belle_fin_de_saison.jpg",
+              "images/Lanaudiere_belle_fin_de_saison_2.jpg"
+            ],
+            "description": "<p>«&nbsp;À une époque où les véritables grands chanteurs sont si rares, où la vulgarité caractérise si souvent le monde de l'opéra, qu'il est réconfortant de voir et d'entendre une Gwyneth Jones!<br>La distinction, l'élégance, le charme, le sourire, et tout cela avec le plus grand naturel… Déjà, un climat est établi.<br>Et la voix? Encore très impressionnante. Bien sûr, la chanteuse britannique est en fin de carrière. De toute façon, cette voix a toujours été marquée par une certaine dureté et certains problèmes d'intonation, auxquels s'ajoutaient hier soir des notes hautes plus criées que chantées, et qu'accentuait l'acoustique fort réverbérée de la vaste et magnifique église de Saint-Jacques-de-Montcalm. On sait aussi que Gwyneth Jones n'est pas une chanteuse de l'école italienne et que ses Verdi et ses Puccini sont un peu froids.<br>Et pourtant, grâce à la présence et au professionnalisme de cette artiste humble, sincère, au métier extraordinaire, ce fut là une fort impressionnante fin de saison au Festival de Lanaudière. Il y avait là quelque mille personnes qui ont fait à Gwyneth Jones une ovation dès après son tout premier air.&nbsp;»<br><em>La Presse</em>, 24 août 1988</p>"
           },
           {
-            "title": "Des cadeaux d’ici en video",
+            "title": "Des cadeaux d’ici en vidéo",
             "id": "festival9",
             "slug": "des-cadeaux-dici-en-video",
             "type": "video",
             "article": null,
             "video": "videos/festival-extrait1.webm",
             "poster": "festival9.png",
-            "description": "<p>“Commençons par les vidéos. Il y en a deux : les concerts que donnaient les célèbres sopranos Renata Scotto et Gwyneth Jones en 1986 et 1988, respectivement, au Festival international de Lanaudière. D’abord diffusées aux <em>Beaux Dimanches</em> de la télévision, les deux bandes sont maintenant commercialisées par la marque américaine VAI. Scotto chantait à la Cathédrale de Joliette, Jones à l’église de Saint-Jacques-de-Montcalm (c’était avant l’Amphithéâtre), et toutes deux avec l’Orchestre Symphonique de Québec dirigé tour à tour par Raffi Armenian et Simon Streatfeild.<br>On a omis quelques pages d’orchestre, mais toute la partie vocale<br>est là, y compris les rappels. Scotto fait uniquement de l’italien ; Jones,<br>de l’allemand, de l’italien et du léger. Bien que venues à Lanaudière<br>en fin de carrière, les deux divas offrent là de remarquables prestations. Quelques aigus difficiles chez Scotto<br> et une certaine dureté vocale chez Jones sont compensés, chez l’une et l’autre, par présence et élégance”<br><em>La Presse</em>, 18 décembre 1999</p>"
+            "description": "<p>«&nbsp;Commençons par les vidéos. Il y en a deux : les concerts que donnaient les célèbres sopranos Renata Scotto et Gwyneth Jones en 1986 et 1988, respectivement, au Festival international de Lanaudière. D’abord diffusées aux <em>Beaux Dimanches</em> de la télévision, les deux bandes sont maintenant commercialisées par la marque américaine VAI. Scotto chantait à la Cathédrale de Joliette, Jones à l’église de Saint-Jacques-de-Montcalm (c’était avant l’Amphithéâtre), et toutes deux avec l’Orchestre Symphonique de Québec dirigé tour à tour par Raffi Armenian et Simon Streatfeild.<br>On a omis quelques pages d’orchestre, mais toute la partie vocale<br>est là, y compris les rappels. Scotto fait uniquement de l’italien ; Jones, de l’allemand, de l’italien et du léger. Bien que venues à Lanaudière en fin de carrière, les deux divas offrent là de remarquables prestations. Quelques aigus difficiles chez Scotto et une certaine dureté vocale chez Jones sont compensés, chez l’une et l’autre, par présence et élégance.&nbsp;»<br><em>La Presse</em>, 18 décembre 1999<br/><br/>Dans cette vidéo, découvrez Renata Scotto suivie de Gwyneth Jones en concert.</p>"
           }
         ]
       },
@@ -106,7 +109,7 @@
             "article": "images/1017532532_articles.jpg",
             "pochette_recto": "textures/1017532532_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/1017532532_pochette_verso_nouv.jpg",
-            "description": "<p>“Chaque année, le Festival nous vaut au moins une découverte. Ceux qui ont eu la curiosité de se déplacer pour tel nom inconnu ont souvent eu droit à une révélation, consacrée peu de temps après par le public international. Ce fut le cas du jeune pianiste Leif Ove Andsnes dont on a retenu le tumultueux premier mouvement de la Sonate op.35 de Chopin enregistrée à l’église de Sainte-Julienne le 1er juillet 1989.<br>La présence du Quatuor Wilanow s'imposait également, le réputé ensemble polonais étant venu à Lanaudière cinq étés consécutifs. On l'entend - en fait, trois des membres, avec l'excellent pianiste Szabolcs Esztenyi - dans le séduisant Scherzo du Quatuor avec piano op. 8 d'un obscur compositeur polonais, Zygmunt Noskowski.<br>Les artistes d'ici ont leur part de ce disque, comme ils l'ont toujours à Lanaudière. Le choix est d'ailleurs heureux: Bouchard et Morisset, pleins de brio et de charme dans deux (et non une seule) <em>Danses slaves</em> pour piano à quatre mains de Dvorak; Raoul Sosa, vertigineux dans sa propre transcription pour la main gauche de la <em>Fantaisie chromatique</em> de Bach (amputée ici de sa fugue pourtant jouée ce soir-là); le Quatuor Morency, très inspiré par Marc-André Hamelin dans le troisième mouvement du Quintette de Franck; enfin, le guitariste Alvaro Pierri, magnifique dans un Villa-Lobos.”<br>“Au total, le disque nous permet donc de revivre l'émotion de huit concerts, dans une prise de son très présente, y compris certains bruits d'auditoire qui ajoutent à l’ambiance.”<br>“Un disque fort réussi en soi, donc, mais qui en appelle un deuxième, puis un troisième…”<br><em>La Presse</em>, 6 juillet 1991</p>"
+            "description": "<p>«&nbsp;Chaque année, le Festival nous vaut au moins une découverte. Ceux qui ont eu la curiosité de se déplacer pour tel nom inconnu ont souvent eu droit à une révélation, consacrée peu de temps après par le public international. Ce fut le cas du jeune pianiste Leif Ove Andsnes dont on a retenu le tumultueux premier mouvement de la Sonate op.35 de Chopin enregistrée à l’église de Sainte-Julienne le 1er juillet 1989.<br>La présence du Quatuor Wilanow s'imposait également, le réputé ensemble polonais étant venu à Lanaudière cinq étés consécutifs. On l'entend - en fait, trois des membres, avec l'excellent pianiste Szabolcs Esztenyi - dans le séduisant Scherzo du Quatuor avec piano op. 8 d'un obscur compositeur polonais, Zygmunt Noskowski.<br>Les artistes d'ici ont leur part de ce disque, comme ils l'ont toujours à Lanaudière. Le choix est d'ailleurs heureux: Bouchard et Morisset, pleins de brio et de charme dans deux (et non une seule) <em>Danses slaves</em> pour piano à quatre mains de Dvorak; Raoul Sosa, vertigineux dans sa propre transcription pour la main gauche de la <em>Fantaisie chromatique</em> de Bach (amputée ici de sa fugue pourtant jouée ce soir-là); le Quatuor Morency, très inspiré par Marc-André Hamelin dans le troisième mouvement du Quintette de Franck; enfin, le guitariste Alvaro Pierri, magnifique dans un Villa-Lobos.&nbsp;»<br>«&nbsp;Au total, le disque nous permet donc de revivre l'émotion de huit concerts, dans une prise de son très présente, y compris certains bruits d'auditoire qui ajoutent à l’ambiance.&nbsp;»<br>«&nbsp;Un disque fort réussi en soi, donc, mais qui en appelle un deuxième, puis un troisième…&nbsp;»<br><em>La Presse</em>, 6 juillet 1991</p>"
           }
         ]
       },
@@ -123,9 +126,17 @@
             "article": "images/761859120_article_stitch.jpg",
             "pochette_recto": "textures/761859120_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/761859120_pochette_verso_stitch.jpg",
-            "article_scale":1.5,
-            "tranche":"#6e4a32",
-            "description": "<p>“Le Père Fernand Lindsay, le fondateur du Festival, a assisté à tous ces concerts, ou presque. À part, bien sûr, l'ouverture tant attendue de l'Amphithéâtre, quels sont ses plus beaux souvenirs ? <br> «Je pense que c'est l'Academy of St. Martin-in-the-Fields, avec Sir Neville Marriner, en 1987, à la Cathédrale - donc avant l'Amphithéâtre. C'était la première fois que l'Academy venait en Amérique en grande formation de 60 musiciens, et non plus en détachements de musique de chambre. Trois ans plus tôt, au cours d'un voyage à Londres, nous avions obtenu que l'Academy inscrive Lanaudière dans cette première tournée sur notre continent et l'itinéraire a voulu que cette tournée commence chez nous. Ce fut un très beau concert mais, aussi, une réalisation dont je suis particulièrement fier. »”<br><em>La Presse</em>, 28 juin 1997<br>“La soirée la plus attendue était celle du 16 juillet : Sir Neville Marriner et son Academy of St. Martin-in-the-Fields, dans leur premier concert en Amérique - à Joliette! Et le hasard veut que leur dernier enregistrement soit de la Symphonie pastorale, de Beethoven, œuvre «d'été» s'il en est. On y entend, comme à Joliette, la «grande formation» de 60 musiciens, dans l'une des très belles versions actuelles de l'œuvre, en fait plus paisible et plus aérée que nombre d'autres [...]“<br><em>La Presse</em>, 5 septembre 1987</p>"
+            "article_scale": 1.5,
+            "tranche": "#6e4a32",
+            "description": "<p>«&nbsp;Le Père Fernand Lindsay, le fondateur du Festival, a assisté à tous ces concerts, ou presque. À part, bien sûr, l'ouverture tant attendue de l'Amphithéâtre, quels sont ses plus beaux souvenirs ? <br> “Je pense que c'est l'Academy of St. Martin-in-the-Fields, avec Sir Neville Marriner, en 1987, à la Cathédrale - donc avant l'Amphithéâtre. C'était la première fois que l'Academy venait en Amérique en grande formation de 60 musiciens, et non plus en détachements de musique de chambre. Trois ans plus tôt, au cours d'un voyage à Londres, nous avions obtenu que l'Academy inscrive Lanaudière dans cette première tournée sur notre continent et l'itinéraire a voulu que cette tournée commence chez nous. Ce fut un très beau concert mais, aussi, une réalisation dont je suis particulièrement fier.”&nbsp;»<br><em>La Presse</em>, 28 juin 1997</p><p>«&nbsp;La soirée la plus attendue était celle du 16 juillet : Sir Neville Marriner et son Academy of St. Martin-in-the-Fields, dans leur premier concert en Amérique - à Joliette! Et le hasard veut que leur dernier enregistrement soit de la Symphonie pastorale, de Beethoven, œuvre “d'été” s'il en est. On y entend, comme à Joliette, la “grande formation” de 60 musiciens, dans l'une des très belles versions actuelles de l'œuvre, en fait plus paisible et plus aérée que nombre d'autres [...]&nbsp;»<br><em>La Presse</em>, 5 septembre 1987</p>"
+          },
+          {
+            "title": "Billet du Festival, le 16 juillet 1987",
+            "id": "festival12",
+            "slug": "billet-du-festival-le-16-juillet-1987",
+            "type": "article",
+            "article": "images/761859120_billet_de_concert.png",
+            "description": "<p>Billet d’entrée daté du 16 juillet 1987 donnant accès à une soirée du Festival d’été de Lanaudière, qui a lieu à la Cathédrale de Joliette.</p>"
           }
         ]
       },
@@ -133,15 +144,7 @@
         "title": "Claude Gingras, un habitué du festival",
         "objects": [
           {
-            "title": "Billet du festival, le 16 juillet 1987",
-            "id": "festival12",
-            "slug": "billet-du-festival-le-16-juillet-1987",
-            "type": "article",
-            "article": "images/761859120_billet_de_concert.png",
-            "description": "<p>Billet d’entrée daté du 16 juillet 1987 donnant accès à une soirée du Festival d’été de Lanaudière, qui a lieu à la Cathédrale de Joliette.</p>"
-          },
-          {
-            "title": "Laissez-passer du festival",
+            "title": "Laissez-passer du Festival",
             "id": "festival13",
             "slug": "laissez-passer-du-festival",
             "type": "article",
@@ -151,9 +154,9 @@
             ],
             "noZoom": [
               true,
-              false
+              true
             ],
-            "description": "<p>Laissez-passer de Claude Gingras pour l’amphithéâtre de Lanaudière.</p>"
+            "description": "<p>Laissez-passer de Claude Gingras pour l’Amphithéâtre de Lanaudière.</p>"
           },
           {
             "title": "Carnet de notes",

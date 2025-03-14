@@ -5,12 +5,12 @@
   "cta": "Découvrir",
   "bgColor": "239, 254, 247",
   "seo": {
-    "title": "Maria Callas : Une admiration sans bornes",
+    "title": "Maria Callas&nbsp;: Une admiration sans bornes",
     "description": "Claude Gingras retrace sa rencontre avec Maria Callas et son admiration pour cette artiste légendaire à travers ses critiques et souvenirs."
   },
   "listing": {
     "title": "L’admiration d’une légende",
-    "description": "<p>En 1955, deux ans seulement après son arrivée à <em>La Presse</em>, Claude Gingras démontre sa détermination et son ingéniosité en obtenant un entretien exclusif avec Maria Callas, alors en transit à Montréal à la suite du tumulte du scandale des huissiers de Chicago. Il cerne immédiatement la complexité de cette artiste hors du commun. L’admiration de Claude Gingras envers Maria Callas l’amène à suivre sa carrière de près, documentant ses triomphes, mais aussi les moments plus difficiles de sa vie.<br>Le 13 mai 1974, la Divina revient à Montréal dans le contexte de sa tournée mondiale d'adieux. La cantatrice n’avait alors plus la même puissance vocale, mais Gingras voit au-delà. Il met en lumière son incroyable intensité dramatique, son dévouement à l’art et cette capacité unique à donner vie à chaque mot. Le critique considère Callas comme une véritable comédienne qui marque d’une émotion incomparable chacune de ses représentations</p>",
+    "description": "<p>En 1955, deux ans seulement après son arrivée à <em>La Presse</em>, Claude Gingras démontre sa détermination et son ingéniosité en obtenant un entretien exclusif avec Maria Callas, alors en transit à Montréal à la suite du tumulte engendré par le du scandale des huissiers de Chicago. Il cerne immédiatement la complexité de cette artiste hors du commun. L’admiration de Claude Gingras envers Maria Callas l’amène à suivre sa carrière de près, documentant ses triomphes, mais aussi les moments plus difficiles de sa vie.<br>Le 13 mai 1974, la Divina revient à Montréal dans le contexte de sa tournée mondiale d'adieux. La cantatrice ne possédait plus la même agilité et précision vocale, mais Gingras voit au-delà. Il met en lumière son incroyable intensité dramatique, son dévouement à l’art et cette capacité unique à donner vie à chaque mot. Le critique considère Callas comme une véritable comédienne qui marque d’une émotion incomparable chacune de ses représentations</p>",
     "section": [
       {
         "title": "Une première rencontre marquante",
@@ -21,12 +21,12 @@
             "slug": "claude-gingras-raconte-maria-callas",
             "type": "video",
             "article": null,
-            "video": "maria-extrait1.webm",
+            "video": "videos/Maria-extrait1.webm",
             "poster": "maria1.png",
             "description": "<p>Le critique a une admiration sans bornes pour la cantatrice.</p>"
           },
           {
-            "title": "“Una voce poco fa“",
+            "title": "<em>Una voce poco fa</em>",
             "id": "maria2",
             "type": "vinyl",
             "note": null,
@@ -36,7 +36,7 @@
             "pochette_recto": "textures/3867769_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/3867769_pochette_verso_stitch.jpg",
             "tranche": "#32343b",
-            "description": "<p>En 1955, Claude Gingras souhaite obtenir une interview de Madame Callas. Dans son livre <em>Notes</em>, il raconte : <br>“J'habitais alors tout à côté, rue Crescent. Tout près de mon téléphone, en arrière-plan et comme par hasard, un disque de Callas tournait... Et comme par hasard, elle chantait le « Una voce poco fa » de Rosina dans Il Barbiere di Siviglia. <br>« Une voix a résonné dans mon cœur », dit la traduction. C'est à dessein que j'avais tiré cette plage de <em>Coloratura Lyric</em> d'Angel, enregistré en 1954, l'un des rares disques de Callas alors sur le marché. À ce moment-là, elle commençait seulement à être connue.<br>Me disant qu'elle ne raccrochera certainement pas sur sa propre voix, je compose le numéro du Ritz et demande, tout bonnement, la chambre 616. Une voix de femme répond. Je sais que c'est elle. Pour ne rien gâter, je glisse un « Is this Madame Callas's secretary ? » La voix répond, un peu sèchement : « Yes. » Je me présente. « Oui, Mme Callas vous accordera une brève interview, à 10 h. Oui, il sera possible de prendre une photo. »”<br>Claude Gingras dans <em>Notes : 60 ans de vie musicale en confidences et anecdotes.</em></p>"
+            "description": "<p>En 1955, Claude Gingras souhaite obtenir une interview de Madame Callas. Dans son livre <em>Notes</em>, il raconte&nbsp;: <br>«&nbsp;J'habitais alors tout à côté, rue Crescent. Tout près de mon téléphone, en arrière-plan et comme par hasard, un disque de Callas tournait... Et comme par hasard, elle chantait le “Una voce poco fa” de Rosina dans Il Barbiere di Siviglia. <br>“Une voix a résonné dans mon cœur”, dit la traduction. C'est à dessein que j'avais tiré cette plage de <em>Coloratura Lyric</em> d'Angel, enregistré en 1954, l'un des rares disques de Callas alors sur le marché. À ce moment-là, elle commençait seulement à être connue.<br>Me disant qu'elle ne raccrochera certainement pas sur sa propre voix, je compose le numéro du Ritz et demande, tout bonnement, la chambre 616. Une voix de femme répond. Je sais que c'est elle. Pour ne rien gâter, je glisse un “Is this Madame Callas's secretary ?” La voix répond, un peu sèchement&nbsp;: “Yes.” Je me présente. “Oui, Mme Callas vous accordera une brève interview, à 10 h. Oui, il sera possible de prendre une photo.”&nbsp;»<br>Claude Gingras dans <em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes.</em></p>"
           },
           {
             "title": "Une photo avec Maria Callas",
@@ -52,31 +52,31 @@
             "slug": "la-photo-avec-un-huissier",
             "type": "article",
             "article": "images/Maria_Callas_Huissier_1955.jpg",
-            "description": "<p>“Les deux passages en transit [de Maria Callas] suivaient les deux plus médiatisés parmi les nombreux incidents hors scène qui marquèrent la carrière de l'impétueuse cantatrice. Le premier se déroula en deux jours : les vendredi 18 et samedi 19 novembre 1955. Le jeudi 17, Callas chantait <em>Madama Butterfly</em> à l'Opéra de Chicago. En sortant de scène, elle est interpellée par huit huissiers venus lui signifier des procédures intentées par un avocat new-yorkais qui lui réclame 300 000 $, prétendant qu'elle s'était engagée à lui verser un pourcentage de ses cachets pendant un certain nombre d'années. Tous les détails sur cette affaire se trouvent dans les nombreuses biographies de Callas.<br>Résumons. L'un des huissiers tente de la toucher avec le document - geste qui, aux États-Unis, constitue la signification. Callas lui hurle des « Don't touch me ! » et d'autres invectives. Curieux hasard, un photographe est sur les lieux et croque la scène: le huissier « numéro un » au premier plan, Callas derrière, en costume de Butterfly, la bouche grande ouverte, le regard en feu. Callas et son mari, Giambattista Meneghini, un millionnaire véronais, manufacturier de briques, qui est aussi son manager, cherchent à sortir du pays le plus vite possible pour rentrer en Italie.”<br>Claude Gingras dans <em>Notes: 60 ans de vie musicale en confidences et anecdotes.</em></p>"
+            "description": "<p>«&nbsp;Les deux passages en transit [de Maria Callas] suivaient les deux plus médiatisés parmi les nombreux incidents hors scène qui marquèrent la carrière de l'impétueuse cantatrice. Le premier se déroula en deux jours&nbsp;: les vendredi 18 et samedi 19 novembre 1955. Le jeudi 17, Callas chantait <em>Madama Butterfly</em> à l'Opéra de Chicago. En sortant de scène, elle est interpellée par huit huissiers venus lui signifier des procédures intentées par un avocat new-yorkais qui lui réclame 300 000 $, prétendant qu'elle s'était engagée à lui verser un pourcentage de ses cachets pendant un certain nombre d'années. Tous les détails sur cette affaire se trouvent dans les nombreuses biographies de Callas.<br>Résumons. L'un des huissiers tente de la toucher avec le document - geste qui, aux États-Unis, constitue la signification. Callas lui hurle des “Don't touch me !” et d'autres invectives. Curieux hasard, un photographe est sur les lieux et croque la scène: le huissier “numéro un” au premier plan, Callas derrière, en costume de Butterfly, la bouche grande ouverte, le regard en feu. Callas et son mari, Giambattista Meneghini, un millionnaire véronais, manufacturier de briques, qui est aussi son manager, cherchent à sortir du pays le plus vite possible pour rentrer en Italie.&nbsp;»<br>Claude Gingras dans <em>Notes: 60 ans de vie musicale en confidences et anecdotes.</em></p>"
           },
           {
-            "title": "“Lisez La Presse!”",
+            "title": "«&nbsp;Lisez La Presse!&nbsp;»",
             "id": "maria5",
             "slug": "lisez-la-presse",
             "type": "article",
             "article": "images/757666904_articles_2.jpg",
-            "description": "<p>«La fois où la Diva a presque dit “Lisez La Presse »”<br>La Presse, 20 novembre 1955<br>Dans son livre <em>Notes</em>, Claude Gingras revient sur les événements:<br> “Bien des années plus tard, je trouve dans une boutique de disques d'occasion un compact annonçant <em>Maria Callas - The Unknown Recordings, vol. 1</em>. Le livret contient plusieurs photos dont une montrant, ô surprise, Callas exactement comme je l'ai vue dans le hall du Ritz ce matin du samedi 19 novembre 1955 : même chapeau-assiette, même large sac à main, mêmes deux livres sous le bras - en fait, deux de ces partitions chant-piano avec lesquelles les chanteurs travaillent. <br>Bref, je crois revivre la scène. Et pour cause : la photo a été prise à la descente d'avion à l'aéroport de Milan, le dimanche matin 20 novembre. (Le texte indique erronément 18 novembre. Le 18 novembre, elle arrivait à Montréal !) Mieux encore, le disque contient quelques très brèves interviews dont une en italien, de 48 secondes, où un journaliste lui demande ce qui s'est passé à Chicago. Elle répond évasivement et conclut : « Lisez les journaux de Montréal ! » <br>Autrement dit : « Lisez <em>La Presse</em> ! » Car cet exemplaire que je lui avais remis, avec à la une la photo de l'incident de Chicago, Callas en avait manifestement pris connaissance dans l'avion.”<br>Claude Gingras dans <em>Notes : 60 ans de vie musicale en confidences et anecdotes.</em></p>"
+            "description": "<p>«&nbsp;La fois où la Diva a presque dit “Lisez La Presse”&nbsp;»<br><em>La Presse</em>, 20 novembre 1955<br></p><p>Dans son livre <em>Notes</em>, Claude Gingras revient sur les événements&nbsp;:<br> «&nbsp;Bien des années plus tard, je trouve dans une boutique de disques d'occasion un compact annonçant <em>Maria Callas - The Unknown Recordings, vol. 1</em>. Le livret contient plusieurs photos dont une montrant, ô surprise, Callas exactement comme je l'ai vue dans le hall du Ritz ce matin du samedi 19 novembre 1955&nbsp;: même chapeau-assiette, même large sac à main, mêmes deux livres sous le bras - en fait, deux de ces partitions chant-piano avec lesquelles les chanteurs travaillent. <br>Bref, je crois revivre la scène. Et pour cause&nbsp;: la photo a été prise à la descente d'avion à l'aéroport de Milan, le dimanche matin 20 novembre. (Le texte indique erronément 18 novembre. Le 18 novembre, elle arrivait à Montréal !) Mieux encore, le disque contient quelques très brèves interviews dont une en italien, de 48 secondes, où un journaliste lui demande ce qui s'est passé à Chicago. Elle répond évasivement et conclut&nbsp;: “Lisez les journaux de Montréal !” <br>Autrement dit&nbsp;: “Lisez <em>La Presse</em> !” Car cet exemplaire que je lui avais remis, avec à la une la photo de l'incident de Chicago, Callas en avait manifestement pris connaissance dans l'avion.&nbsp;»<br>Claude Gingras dans <em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes.</em></p>"
           }
         ]
       },
       {
-        "title": "Maria Callas: ses meilleurs enregistrements",
+        "title": "Maria Callas&nbsp;: ses meilleurs enregistrements",
         "objects": [
           {
-            "title": "Tout Callas en 5 enregistrements",
+            "title": "«&nbsp;Tout Callas en 5 enregistrements&nbsp;»",
             "id": "maria6",
             "slug": "tout-callas-en-5-enregistrements",
             "type": "article",
             "article": "images/659029593_articles.jpg",
-            "description": "<p>“LA DISCOGRAPHIE de Callas est énorme et complexe. Pour certains opéras, il existe d’elle jusqu'à huit versions différentes, enregistrées en studio ou captées en public. Ses quatre grands rôles furent tous extrêmement tragiques : Tosca, Norma, Lucia, Medea. Tragiques comme l’était son propre personnage.<br>Aucun enregistrement de Callas n'est absolument irréprochable sur le plan strictement vocal, mais, en revanche, on retrouve dans chacun cette intensité dévorante donnant l'impression qu'elle interprète le plus grand rôle du répertoire et qu'elle l'interprète pour la dernière fois. Car tel est le miracle chez Callas : faire servir à des fins expressives une voix imparfaite.”<br>“[...] J'ai retenu ceux des premières années, où la voix est à son meilleur et le sens dramatique, déjà absolu.”<br><em>La Presse</em>, 21 septembre 2002</p>"
+            "description": "<p>«&nbsp;LA DISCOGRAPHIE de Callas est énorme et complexe. Pour certains opéras, il existe d’elle jusqu'à huit versions différentes, enregistrées en studio ou captées en public. Ses quatre grands rôles furent tous extrêmement tragiques&nbsp;: Tosca, Norma, Lucia, Medea. Tragiques comme l’était son propre personnage.<br>Aucun enregistrement de Callas n'est absolument irréprochable sur le plan strictement vocal, mais, en revanche, on retrouve dans chacun cette intensité dévorante donnant l'impression qu'elle interprète le plus grand rôle du répertoire et qu'elle l'interprète pour la dernière fois. Car tel est le miracle chez Callas&nbsp;: faire servir à des fins expressives une voix imparfaite.&nbsp;»<br>«&nbsp;[...] J'ai retenu ceux des premières années, où la voix est à son meilleur et le sens dramatique, déjà absolu.&nbsp;»<br><em>La Presse</em>, 21 septembre 2002</p>"
           },
           {
-            "title": "Tosca, de Puccini, dir. Victor de Sabata (1953)",
+            "title": "<em>Tosca</em>, de Puccini, dirigé par Victor de Sabata (1953)",
             "id": "maria7",
             "type": "cd",
             "note": null,
@@ -85,22 +85,22 @@
             "article": null,
             "pochette_recto": "textures/1343014678_livret_recto_nouv.jpg",
             "pochette_verso": "textures/1343014678_boitier_verso.jpg",
-            "description": "<p>“De Puccini, la première Tosca de Maria Callas est un coup de génie.”<br><em>La Presse</em>, 3 novembre 1990</p>"
+            "description": "<p>«&nbsp;De Puccini, la première Tosca de Maria Callas est un coup de génie.&nbsp;»<br><em>La Presse</em>, 3 novembre 1990</p>"
           },
           {
-            "title": "Norma, de Bellini, dir. Tullio Serafin (1954)",
+            "title": "<em>Norma</em>, de Bellini, dirigé par Tullio Serafin (1954)",
             "id": "maria8",
             "type": "cd",
             "note": null,
             "slug": "norma-de-bellini-dir-tullio-serafin-1954",
             "sound": "sounds/659250572_Bellini.mp3",
-            "article": null,
+            "article": "images/659250572_articles.jpg",
             "pochette_recto": "textures/659250572_livret_recto_nouv.jpg",
             "pochette_verso": "textures/659250572_boitier_verso_nouv.jpg",
-            "description": "<p>“La discographie de <em>Norma</em> présente d'intéressants cas de doublons et « chaises musicales ».“<br>“De toutes ces versions, dont certaines sont très satisfaisantes, celle qui réunit le plus de qualités vocales et dramatiques, de prise de son aussi, est la première de Callas, de 1954.”<em>La Presse</em>, 17 septembre 2005</p>"
+            "description": "<p>«&nbsp;La discographie de <em>Norma</em> présente d'intéressants cas de doublons et “chaises musicales”.&nbsp;»<br>«&nbsp;De toutes ces versions, dont certaines sont très satisfaisantes, celle qui réunit le plus de qualités vocales et dramatiques, de prise de son aussi, est la première de Callas, de 1954.&nbsp;»<br/><em>La Presse</em>, 17 septembre 2005</p>"
           },
           {
-            "title": "Lucia Di Lammermoor (1955)",
+            "title": "<em>Lucia di Lammermoor</em>, de Donizetti, dirigé par Herbert von Karajan (1955)",
             "id": "maria9",
             "type": "vinyl",
             "note": null,
@@ -110,10 +110,10 @@
             "pochette_recto": "textures/1057072788_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/1057072788_pochette_verso_stitch.jpg",
             "tranche": "#b9c771",
-            "description": "<p>“(Cet enregistrement “live”, maintenant publié en disques, était considéré par Callas comme «le plus parfait» de tous les documents sonores existant sur elle: c'est du moins ce qu'elle avait répondu lorsque je lui posai la question en conférence de presse, à New York, en 1974)”<br><em>La presse</em>, 4 décembre 1982</p>"
+            "description": "<p>«&nbsp;(Cet enregistrement “live”, maintenant publié en disques, était considéré par Callas comme “le plus parfait” de tous les documents sonores existant sur elle: c'est du moins ce qu'elle avait répondu lorsque je lui posai la question en conférence de presse, à New York, en 1974)&nbsp;»<br><em>La Presse</em>, 4 décembre 1982</p>"
           },
           {
-            "title": "Lucia di Lammermoor, de Donizetti, dir. Tullio Serafin (1953)",
+            "title": "<em>Lucia di Lammermoor</em>, de Donizetti, dirigé par Tullio Serafin (1953)",
             "id": "maria10",
             "type": "cd",
             "note": null,
@@ -123,7 +123,7 @@
             "article_scale": 1,
             "pochette_recto": "textures/659029593_coffret_recto_nouv.jpg",
             "pochette_verso": "textures/659029593_coffret_verso_nouv.jpg",
-            "description": "<p>“La plus grande version de <em>Lucia di Lammermoor</em> reste la première de Maria Callas, celle de 1953, où les voix ont encore, quarante ans plus tard, une présence quasi palpable (EMI).”<br><em>La Presse,</em> 6 mars 1993</p>"
+            "description": "<p>«&nbsp;La plus grande version de <em>Lucia di Lammermoor</em> reste la première de Maria Callas, celle de 1953, où les voix ont encore, quarante ans plus tard, une présence quasi palpable (EMI).&nbsp;»<br><em>La Presse,</em> 6 mars 1993</p>"
           }
         ]
       },
@@ -136,20 +136,24 @@
             "type": "article",
             "note": null,
             "slug": "claude-gingras-interviewe-maria-callas",
-            "sound": "",
+            "sound": "sounds/Cassette_Face_B_Callas_1974.mp3",
             "article": [
               "images/Callas_Interview_New_York_7_fevrier_1974_recto.png",
               "images/Callas_Interview_New_York_7_fevrier_1974_verso.png"
             ],
-            "description": "<p>Obtenir l’audio et sélectionner l’extrait. Il semble y avoir des moments cocasses de cette conférence de presse. <br>Un des rares enregistrements, parmi les nombreux réalisés par Claude Gingras dans le cadre de son travail, à avoir été conservé.<br>7 février 1974</p>"
+            "noZoom": [
+              true,
+              true
+            ],
+            "description": "<p>Un des rares enregistrements, parmi les nombreux réalisés par Claude Gingras dans le cadre de son travail, à avoir été conservé.<br>7 février 1974</p>"
           },
           {
-            "title": "“Chère Maria Callas...“",
+            "title": "«&nbsp;Chère Maria Callas...&nbsp;»",
             "id": "maria12",
             "slug": "chere-maria-callas",
             "type": "article",
             "article": "images/Boite_archives_38_Lettre_ouverte_Maria_Callas_stitch.jpg",
-            "description": "<p>Lettre ouverte de Claude Gingras à Maria Callas. Finalement le concert a eu lieu le 13 mai.<br>“À New York l'autre jour, je vous ai trouvée inquiète, peu sûre de vous-même, tourmentée. Et tellement différente de ce matin de novembre 1955 alors qu'après votre fameuse algarade de “Butterfly“ à Chicago, vous vous retrouviez à Montréal pour quelques heures et m'accordiez, encore fière de votre triomphe, une brève interview à votre hôtel de la rue Sherbrooke.<br>[…]<br>Je n'ai pu vous le dire l'autre jour à cette conférence de presse. Je le fais aujourd'hui. Votre apport à la musique a été immense et votre nom restera à jamais gravé dans les annales de l'opéra comme celui de la plus grande figure vocale depuis Caruso.<br>[…]<br>C'est vous encore qui avez ressuscité tant d'opéras oubliés de Rossini, Donizetti, Bellini et Verdi.<br>[…]<br>Avec des moyens vocaux limités au départ, mais avec beaucoup de science, de goût et de détermination, vous avez opéré des miracles. Vous avez démontré que la voix seule ne suffit pas, qu'il faut l'utiliser avec intelligence et sensibilité, que même une voix qui n'est pas naturellement belle peut être transformée en un instrument merveilleux et, dans votre cas, un instrument immédiatement reconnaissable.<br>[…]<br>Rien de ce que vous avez fait est indifférent. La médiocrité est un mot qu'on ne trouve pas dans votre vocabulaire.<br>Quoi qu'il en soit, sachez, chère Maria Callas, que peu de musiciens ont apporté à leur métier la connaissance musicale et la conscience professionnelle dont vous avez fait preuve. Même avec certaines faiblesses, vous demeurez fascinante, incomparable, unique.<br>[…]<br>Et même absente pendant tant d'années, vous êtes demeurée éminemment présente.<br>Et vous le serez encore longtemps.<br>Addio, senza rancor!”<br><em>La Presse,</em> 23 mars 1974</p>"
+            "description": "<p>Lettre ouverte de Claude Gingras à Maria Callas. Finalement le concert a eu lieu le 13 mai.<br></p><p>«&nbsp;À New York l'autre jour, je vous ai trouvée inquiète, peu sûre de vous-même, tourmentée. Et tellement différente de ce matin de novembre 1955 alors qu'après votre fameuse algarade de “Butterfly“ à Chicago, vous vous retrouviez à Montréal pour quelques heures et m'accordiez, encore fière de votre triomphe, une brève interview à votre hôtel de la rue Sherbrooke.<br>[…]<br>Je n'ai pu vous le dire l'autre jour à cette conférence de presse. Je le fais aujourd'hui. Votre apport à la musique a été immense et votre nom restera à jamais gravé dans les annales de l'opéra comme celui de la plus grande figure vocale depuis Caruso.<br>[…]<br>C'est vous encore qui avez ressuscité tant d'opéras oubliés de Rossini, Donizetti, Bellini et Verdi.<br>[…]<br>Avec des moyens vocaux limités au départ, mais avec beaucoup de science, de goût et de détermination, vous avez opéré des miracles. Vous avez démontré que la voix seule ne suffit pas, qu'il faut l'utiliser avec intelligence et sensibilité, que même une voix qui n'est pas naturellement belle peut être transformée en un instrument merveilleux et, dans votre cas, un instrument immédiatement reconnaissable.<br>[…]<br>Rien de ce que vous avez fait est indifférent. La médiocrité est un mot qu'on ne trouve pas dans votre vocabulaire.<br>Quoi qu'il en soit, sachez, chère Maria Callas, que peu de musiciens ont apporté à leur métier la connaissance musicale et la conscience professionnelle dont vous avez fait preuve. Même avec certaines faiblesses, vous demeurez fascinante, incomparable, unique.<br>[…]<br>Et même absente pendant tant d'années, vous êtes demeurée éminemment présente.<br>Et vous le serez encore longtemps.<br>Addio, senza rancor!&nbsp;»<br><em>La Presse,</em> 23 mars 1974</p>"
           },
           {
             "title": "Le live à Montreal",
@@ -161,7 +165,7 @@
             "article": null,
             "pochette_recto": "textures/1006709488_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/1006709488_pochette_verso_nouv.jpg",
-            "description": "<p>“Montréal, ainsi que les documents l’ont maintenant établi, fut la dernière ville de l’hémisphère occidental où chanta Maria Callas. C’était le 13 mai 1974, salle Wilfrid-Pelletier de la Place des Arts.”<br>“Plusieurs des récitals de cette tournée firent l'objet d'enregistrements pirates dont quelques-uns ont trouvé le chemin des disquaires. [...] Pour sa part, la petite marque québécoise Fonovox [...] a mis la main sur un pirate réalisé lors du récital montréalais du 13 mai 1974 et vient de le publier intégralement.”<br><em>La Presse</em>, 28 octobre 1995</p>"
+            "description": "<p>«&nbsp;Montréal, ainsi que les documents l’ont maintenant établi, fut la dernière ville de l’hémisphère occidental où chanta Maria Callas. C’était le 13 mai 1974, salle Wilfrid-Pelletier de la Place des Arts.&nbsp;»<br>«&nbsp;Plusieurs des récitals de cette tournée firent l'objet d'enregistrements pirates dont quelques-uns ont trouvé le chemin des disquaires. [...] Pour sa part, la petite marque québécoise Fonovox [...] a mis la main sur un pirate réalisé lors du récital montréalais du 13 mai 1974 et vient de le publier intégralement.&nbsp;»<br><em>La Presse</em>, 28 octobre 1995</p>"
           },
           {
             "title": "Programme de concert 1974",
@@ -172,7 +176,7 @@
               "images/Programme_concert_Montreal_13-mai-1974.jpg",
               "images/Programme_concert_Montreal_13-mai-1974_pagescentrales.jpg"
             ],
-            "description": "<p>“Sur le plan de l'interprétation, il est clair que nous sommes devant deux artistes à leur déclin, surtout du point de vue vocal (elle, 50 ans ; lui, 53 [Giuseppe di Stefano]). On note chez l'un et chez l'autre des problèmes d'intonation à tous les paliers, surtout chez Callas. La voix est souvent chevrotante, parfois elle n'a même plus de couleur, parfois on sent que la chanteuse veut exprimer quelque chose que la voix ne transmet plus. Mais, par contre, on admire encore chez elle la musicalité, le sérieux, le style, l'amour de l'art et, bien sûr, cette incomparable intensité dramatique qui passe dans la voix et cet extraordinaire sens du théâtre qui redonne à chaque mot toute sa signification. Les airs et duos sont d'ailleurs joués, c'est-à-dire accompagnés des mouvements, gestes et expressions du visage qui révèlent la comédienne née.”<br><em>La Presse</em>, 14 mai 1974</p>"
+            "description": "<p>«&nbsp;Sur le plan de l'interprétation, il est clair que nous sommes devant deux artistes à leur déclin, surtout du point de vue vocal (elle, 50 ans ; lui, 53 [Giuseppe di Stefano]). On note chez l'un et chez l'autre des problèmes d'intonation à tous les paliers, surtout chez Callas. La voix est souvent chevrotante, parfois elle n'a même plus de couleur, parfois on sent que la chanteuse veut exprimer quelque chose que la voix ne transmet plus. Mais, par contre, on admire encore chez elle la musicalité, le sérieux, le style, l'amour de l'art et, bien sûr, cette incomparable intensité dramatique qui passe dans la voix et cet extraordinaire sens du théâtre qui redonne à chaque mot toute sa signification. Les airs et duos sont d'ailleurs joués, c'est-à-dire accompagnés des mouvements, gestes et expressions du visage qui révèlent la comédienne née.&nbsp;»<br><em>La Presse</em>, 14 mai 1974</p>"
           }
         ]
       },
@@ -192,15 +196,15 @@
             "pochette_recto": "textures/22886652_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/22886652_pochette_verso_stitch.jpg",
             "tranche": "#d2d5da",
-            "description": "<p>“La documentation sonore de Callas inclut jusqu'à sa toute dernière apparition en public: Sapporo, Japon, 11 novembre 1974, avec Di Stefano et un pianiste. Un disque de Historical Recording Enterprises (HRE 323-1) contient l'enregistrement de ce récital. Ceux qui ont entendu Callas (et Di Stefano) à Montréal six mois plus tôt, jour pour jour, dans un programme identique, sont préparés au choc: Callas n'a presque plus de voix, elle oublie ses mots dans <em>Carmen</em>.”<br><em>La Presse</em>, 16 avril 1988<br>Cet album est très rare car très peu d'exemplaires sont répertoriés en Occident.</p>"
+            "description": "<p>«&nbsp;La documentation sonore de Callas inclut jusqu'à sa toute dernière apparition en public: Sapporo, Japon, 11 novembre 1974, avec Di Stefano et un pianiste. Un disque de Historical Recording Enterprises (HRE 323-1) contient l'enregistrement de ce récital. Ceux qui ont entendu Callas (et Di Stefano) à Montréal six mois plus tôt, jour pour jour, dans un programme identique, sont préparés au choc: Callas n'a presque plus de voix, elle oublie ses mots dans <em>Carmen</em>.&nbsp;»<br><em>La Presse</em>, 16 avril 1988<br></p><p>Cet album est très rare car très peu d'exemplaires sont répertoriés en Occident.</p>"
           }
         ]
       },
       {
-        "title": "Biographie: Le livre du souvenir",
+        "title": "Biographie&nbsp;: Le livre du souvenir",
         "objects": [
           {
-            "title": "Le livre du souvenir",
+            "title": "<em>Le livre du souvenir</em>",
             "id": "maria16",
             "type": "book",
             "slug": "le-livre-du-souvenir",
@@ -217,12 +221,12 @@
             "slug": "lavis-du-critique",
             "type": "article",
             "article": "images/articles.jpg",
-            "description": "<p>“Le livre n'en reste pas moins passionnant à lire, malgré les nombreuses erreurs dans l'orthographe des noms («Rudolph» Bing, Giuseppe di «Stephano»), les fautes de français («il lui prédisit..»), d'autres erreurs encore (le «ténor» Sordello, qui est baryton) et quelques photos mal identifiées (le visage de Victor de Sabata avec le nom de Toscanini). De même, quelques omissions et irrégularités dans la volumineuse section contenant les dates, lieux et distributions de toutes les représentations de Callas et la liste des enregistrements pirates tirés de ces représentations (en plus, bien sûr, des enregistrements commerciaux). Pour <em>Lucia di Lammermoor,</em> par exemple, la liste des enregistrements contient le pirate du 8 décembre 1956, à New York, mais, curieusement, la liste même des représentations ignore les <em>Lucia</em> new-yorkaises de Callas à cette époque, notamment la représentation du 14 décembre. J'y étais, et j'ai conservé le programme... J’ai l’air de trouver le livre mauvais. Pas du tout.”<br><em>La Presse</em>, 14 décembre 1985</p>"
+            "description": "<p>«&nbsp;Le livre n'en reste pas moins passionnant à lire, malgré les nombreuses erreurs dans l'orthographe des noms (“Rudolph” Bing, Giuseppe di “Stephano”), les fautes de français (“il lui prédisit..”), d'autres erreurs encore (le “ténor” Sordello, qui est baryton) et quelques photos mal identifiées (le visage de Victor de Sabata avec le nom de Toscanini). De même, quelques omissions et irrégularités dans la volumineuse section contenant les dates, lieux et distributions de toutes les représentations de Callas et la liste des enregistrements pirates tirés de ces représentations (en plus, bien sûr, des enregistrements commerciaux). Pour <em>Lucia di Lammermoor,</em> par exemple, la liste des enregistrements contient le pirate du 8 décembre 1956, à New York, mais, curieusement, la liste même des représentations ignore les <em>Lucia</em> new-yorkaises de Callas à cette époque, notamment la représentation du 14 décembre. J'y étais, et j'ai conservé le programme... J’ai l’air de trouver le livre mauvais. Pas du tout.&nbsp;»<br><em>La Presse</em>, 14 décembre 1985</p>"
           }
         ]
       },
       {
-        "title": "Biographie: <em>Marias Callas: d’art et d’amour</em>",
+        "title": "Biographie&nbsp;: Marias Callas&nbsp;: d’art et d’amour",
         "objects": [
           {
             "title": "Un livre important",
@@ -234,7 +238,7 @@
             "page_1": "textures/1135108614_page_1.jpg",
             "page_2": "textures/1135108614_page_2.jpg",
             "tranche": "#1d1e20",
-            "description": "<p>Fasciné par Maria Callas, Claude Gingras possède 23 livres sur la Divina ; les plus importantes à ses yeux sont les deux éditions écrites par Jacques Lorcey, en 1977 et en 1983.</p>"
+            "description": "<p>Fasciné par Maria Callas, Claude Gingras possédait 23 livres sur la Divina ; l'un des plus importants à ses yeux était celui écrit par Jacques Lorcey, publié en 1977 et réédité en 1983.</p>"
           },
           {
             "title": "Une réédition augmentée",
@@ -242,7 +246,7 @@
             "slug": "une-reedition-augmentee",
             "type": "article",
             "article": "images/1135108614_articles.jpg",
-            "description": "<p>“Une autre réédition augmentée: celle d'un livre publié en 1977 et vite épuisé. Ce passionné de Callas ajoute, à son témoignage déjà lu et relu, le récit des réactions qui suivirent la mort de la chanteuse, ainsi qu'une critique plus complète encore de ses enregistrements (commerciaux et pirates). Plusieurs nouvelles photos également.”<br><em>La Presse</em>, 10 décembre 1983</p>"
+            "description": "<p>«&nbsp;Une autre réédition augmentée: celle d'un livre publié en 1977 et vite épuisé. Ce passionné de Callas ajoute, à son témoignage déjà lu et relu, le récit des réactions qui suivirent la mort de la chanteuse, ainsi qu'une critique plus complète encore de ses enregistrements (commerciaux et pirates). Plusieurs nouvelles photos également.&nbsp;»<br><em>La Presse</em>, 10 décembre 1983</p>"
           }
         ]
       }

@@ -1,7 +1,7 @@
 {
   "id": "art",
-  "title": "<span class='italic'>Oeuvres</span><br/><span class='upper'>Préférées</span>",
-  "subtitle": "Claude Gingras en 10 oeuvres",
+  "title": "<span class='italic'>Œuvres</span><br/><span class='upper'>Préférées</span>",
+  "subtitle": "Claude Gingras en 10 œuvres",
   "cta": "Découvrir",
   "bgColor": "248, 244, 238",
   "seo": {
@@ -9,14 +9,14 @@
     "description": "Plongez dans les 10 œuvres musicales qui ont marqué la vie et la carrière du critique Claude Gingras, de Chostakovitch à Verdi."
   },
   "listing": {
-    "title": "Les Œuvres Préférées de Claude Gingras : sa vie en 10 oeuvres",
-    "description": "Âgé d’à peine 17 ans, Claude Gingras découvre Chostakovitch. C’est grâce à l’œuvre de ce compositeur russe que Claude Gingras tombe en amour avec la musique classique. La 5e symphonie de Chostakovitch éveille en lui une quête : retrouver dans d’autres œuvres cette intensité émotionnelle. Tout au long de sa carrière, cette recherche va dépasser les simples classiques du répertoire. Les 10 pièces qui suivent représentent pour lui des moments de pure émotion et de beauté artistique. Ces morceaux choisis reflètent l’histoire d’un homme passionné, exigeant et amoureux de la musique.",
+    "title": "Les Œuvres Préférées de Claude Gingras : sa vie en 10 œuvres",
+    "description": "Âgé d’à peine 17 ans, Claude Gingras découvre Chostakovitch. C’est grâce à l’œuvre de ce compositeur russe que Claude Gingras tombe en amour avec la musique classique. La Cinquième symphonie de Chostakovitch éveille en lui une quête : retrouver dans d’autres œuvres cette intensité émotionnelle. Tout au long de sa carrière, cette recherche va dépasser les simples classiques du répertoire. Les 10 pièces qui suivent représentent pour lui des moments de pure émotion et de beauté artistique. Ces morceaux choisis reflètent l’histoire d’un homme passionné, exigeant et amoureux de la musique.",
     "section": [
       {
-        "title": "Chostakovitch, 5e Symphonie",
+        "title": "Chostakovitch, Cinquième symphonie",
         "objects": [
           {
-            "title": "La cinquième Symphonie par Bernstein",
+            "title": "La <em>Cinquième symphonie</em> par Bernstein",
             "id": "art1",
             "slug": "la-cinquieme-symphonie-par-bernstein",
             "type": "vinyl",
@@ -27,7 +27,7 @@
             "tranche": "#f3e0a4",
             "article": "images/20120547_article.jpg",
             "article_scale": 1.5,
-            "description": "<p>“Ainsi, la version de 1959 de la cinquième Symphonie de Shostakovich de Bernstein […], réécoutée aujourd’hui, possède encore, après plus de vingt ans, une grandeur tragique que les nombreuses interprétations venues par après n’ont pas dépassée.”<br><em>La Presse</em>, 3 avril 1982</p>"
+            "description": "<p>«&nbsp;Ainsi, la version de 1959 de la cinquième Symphonie de Shostakovich de Bernstein […], réécoutée aujourd’hui, possède encore, après plus de vingt ans, une grandeur tragique que les nombreuses interprétations venues par après n’ont pas dépassée.&nbsp;»<br><em>La Presse</em>, 3 avril 1982</p>"
           },
           {
             "title": "Le meilleur enregistrement d’après Claude Gingras",
@@ -37,10 +37,10 @@
             "article": null,
             "video": "videos/art-extrait1.webm",
             "poster": "art2.png",
-            "description": "<p>D’après Claude Gingras, le meilleur enregistrement est celui du Philharmonique de Leningrad avec Mravinski, enregistré en 1938.<br>C'est une oeuvre que je ne me fatigue pas d'écouter [...]<br>“Les meilleurs enregistrements de ça, c'est des orchestres soviétiques, les orchestres russes maintenant, soviétiques à l’époque, ils ont la couleur que personne d'autre n'a. Et les chefs aussi. [...] ceux des Russes sont encore insurpassables.”<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
+            "description": "<p>D’après Claude Gingras, le meilleur enregistrement est celui du Philharmonique de Leningrad avec Mravinski, enregistré en 1938.<br>«&nbsp;C'est une œuvre que je ne me fatigue pas d'écouter [...]&nbsp;»<br>«&nbsp;Les meilleurs enregistrements de ça, c'est des orchestres soviétiques, les orchestres russes maintenant, soviétiques à l’époque, ils ont la couleur que personne d'autre n'a. Et les chefs aussi. [...] ceux des Russes sont encore insurpassables.&nbsp;»<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
           },
           {
-            "title": "Chostakovitch: partition annotée par Claude Gingras",
+            "title": "Chostakovitch&nbsp;: partition annotée par Claude Gingras",
             "id": "art3",
             "slug": "chostakovitch-partition-annotee-par-claude-gingras",
             "type": "book",
@@ -58,15 +58,16 @@
         "title": "Debussy, Pelléas et Mélisande",
         "objects": [
           {
-            "title": "Pelléas et Mélisande - Roger Desormière",
+            "title": "<em>Pelléas et Mélisande</em> par Roger Desormière",
             "id": "art4",
             "type": "cd",
             "note": null,
             "slug": "pelleas-et-melisande-roger-desormiere",
-            "article": null,
+            "article": "images/869206660_articles.jpg",
+            "sound": "sounds/869206660_Debussy.mp3",
             "pochette_recto": "textures/869206660_boitier_recto_nouv.jpg",
             "pochette_verso": "textures/869206660_boitier_verso_nouv.jpg",
-            "description": "<p>“<em>Pelléas et Mélisande</em>, le chef-d’oeuvre de Debussy, a connu une vingtaine d’enregistrements depuis celui, devenu légendaire, de 1941 réunissant Jacques Jansen et Irène Joachim sous la direction de Roger Desormière. Rééditée en trois compacts EMI, cette toute première intégrale de l’opéra en cinq actes est demeurée inégalée [...].”<br><em>La Presse</em>, 12 octobre 2002</p>"
+            "description": "<p>«&nbsp;<em>Pelléas et Mélisande</em>, le chef-d’œuvre de Debussy, a connu une vingtaine d’enregistrements depuis celui, devenu légendaire, de 1941 réunissant Jacques Jansen et Irène Joachim sous la direction de Roger Desormière. Rééditée en trois compacts EMI, cette toute première intégrale de l’opéra en cinq actes est demeurée inégalée [...].&nbsp;»<br><em>La Presse</em>, 12 octobre 2002</p>"
           },
           {
             "title": "L’opéra préféré de Claude Gingras",
@@ -76,7 +77,7 @@
             "article": null,
             "video": "videos/art-extrait2.webm",
             "poster": "art6.png",
-            "description": "<p>”C'est une œuvre qui se situe à un niveau tellement haut. On ne parle plus d'émotion, c'est le raffinement qu'il y a là-dedans. [...]”<br>“C'est l'opéra que je préfère le plus. [...]”<br>“Pour moi toute la musique française est là-dedans. Je ne l'écrirais pas, mais je le dis. [...]”<br>“Le plus beau, c'est celui qui a été fait en 1941, sous l’occupation allemande.”<br>“[...] et en 1904, Debussy lui-même au piano a enregistré la scène des cheveux […] c’est un document irremplaçable”<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
+            "description": "<p>«&nbsp;C'est une œuvre qui se situe à un niveau tellement haut. On ne parle plus d'émotion, c'est le raffinement qu'il y a là-dedans. [...]&nbsp;»<br>«&nbsp;C'est l'opéra que je préfère le plus. [...]&nbsp;»<br>«&nbsp;Pour moi toute la musique française est là-dedans. Je ne l'écrirais pas, mais je le dis. [...]&nbsp;»<br>«&nbsp;Le plus beau, c'est celui qui a été fait en 1941, sous l’occupation allemande.&nbsp;»<br>«&nbsp;[...] et en 1904, Debussy lui-même au piano a enregistré la scène des cheveux […] c’est un document irremplaçable&nbsp;»<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
           }
         ]
       },
@@ -84,33 +85,34 @@
         "title": "Beethoven, Sonate no 29, op. 106 (Hammerklavier)",
         "objects": [
           {
-            "title": "Les sonates pour piano par Louis Lortie",
+            "title": "<em>Les sonates pour piano</em> par Louis Lortie",
             "id": "art7",
             "type": "cd",
             "note": null,
+            "sound": "sounds/833475172_Beethoven.mp3",
             "slug": "les-sonates-pour-piano-par-louis-lortie",
             "article": "images/833475172_articles.jpg",
             "pochette_recto": "textures/833475172_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/833475172_pochette_verso_nouv.jpg",
-            "description": "<p>“Le pianiste s'engage dans les chefs-d'oeuvre de la fin et aborde immédiatement ce sommet redouté entre tous, la monumentale <em>Hammerklavier</em> [...].”<br>“La réussite est très impressionnante. Lortie nous donne une <em>Hammerklavier</em> sur laquelle on pourrait apposer plusieurs grands noms d'interprètes. Je dirais même que ce cinquième disque est le plus entièrement satisfaisant de la série en cours, par la dimension pianistique et expressive et par la qualité de la prise de son”<br><em>La Presse</em>, 23 mars 1996</p>"
+            "description": "<p>«&nbsp;Le pianiste s'engage dans les chefs-d'oeuvre de la fin et aborde immédiatement ce sommet redouté entre tous, la monumentale <em>Hammerklavier</em> [...].&nbsp;»<br>«&nbsp;La réussite est très impressionnante. Lortie nous donne une <em>Hammerklavier</em> sur laquelle on pourrait apposer plusieurs grands noms d'interprètes. Je dirais même que ce cinquième disque est le plus entièrement satisfaisant de la série en cours, par la dimension pianistique et expressive et par la qualité de la prise de son.&nbsp;»<br><em>La Presse</em>, 23 mars 1996</p>"
           },
           {
-            "title": "La plus grande oeuvre de piano selon Claude Gingras",
+            "title": "La plus grande œuvre de piano selon Claude Gingras",
             "id": "art8",
             "slug": "la-plus-grande-oeuvre-de-piano-selon-claude-gingras",
             "type": "video",
             "article": null,
             "video": "videos/art-extrait3.webm",
             "poster": "art8.png",
-            "description": "<p>“C’est la sonate la plus longue et la plus difficile […] Elle peut durer jusqu'à trois quarts d’heure.”<br>“Wagner [...] il parlait de l'Himalaya du piano, l'injouable [...]<br>”Pour moi, c'est le sommet, non seulement des sonates de Beethoven, le sommet du piano, c'est la plus grande oeuvre de piano, à mon avis, à mon goût. [...]“<br>“L'œuvre la plus difficile à jouer, de toutes les sonates de Beethoven. [...]“<br>“J'aime cette oeuvre-là à la folie.“<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
+            "description": "<p>«&nbsp;C’est la sonate la plus longue et la plus difficile […] Elle peut durer jusqu'à trois quarts d’heure.&nbsp;»<br>«&nbsp;Wagner [...] il parlait de l'Himalaya du piano, l'injouable [...]&nbsp;»<br>«&nbsp;Pour moi, c'est le sommet, non seulement des sonates de Beethoven, le sommet du piano, c'est la plus grande oeuvre de piano, à mon avis, à mon goût. [...]&nbsp;»<br>«&nbsp;L'œuvre la plus difficile à jouer, de toutes les sonates de Beethoven. [...]&nbsp;»<br>«&nbsp;J'aime cette œuvre-là à la folie.&nbsp;»<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
           }
         ]
       },
       {
-        "title": "Schumann, Fantaisie en do majeur op.17",
+        "title": "Schumann, Fantaisie en do majeur op. 17",
         "objects": [
           {
-            "title": "To the Distant Beloved - Louis Lortie",
+            "title": "<em>To the Distant Beloved</em> par Louis Lortie",
             "id": "art9",
             "type": "cd",
             "note": 3,
@@ -119,7 +121,7 @@
             "article": "images/1131234464_articles.jpg",
             "pochette_recto": "textures/1131234464_pochette_verso_nouv.jpg",
             "pochette_verso": "textures/1131234464_pochette_recto_nouv.jpg",
-            "description": "<p>“Finalement, le meilleur de ce disque se trouve dans la seule pièce originale, la Fantaisie op. 17 de Schumann, vaste sonate en trois mouvements et sommet de la littérature de piano, qui occupe plus de la moitié du disque, soit 33 minutes. Si Lortie aborde les transcriptions en musicien convaincu de leur valeur, c'est dans l'immense Fantaisie qu'il peut enfin donner sa pleine mesure d'interprète. Tour à tour passionnée et méditative, et pourtant d'une parfaite unité comme d'un très haut niveau pianistique, sa vision rejoint celle des plus grands. Pour ces 33 minutes, on accepte le reste !”<br><em>La Presse</em>, 26 février 2000</p>"
+            "description": "<p>«&nbsp;Finalement, le meilleur de ce disque se trouve dans la seule pièce originale, la Fantaisie op. 17 de Schumann, vaste sonate en trois mouvements et sommet de la littérature de piano, qui occupe plus de la moitié du disque, soit 33 minutes. Si Lortie aborde les transcriptions en musicien convaincu de leur valeur, c'est dans l'immense Fantaisie qu'il peut enfin donner sa pleine mesure d'interprète. Tour à tour passionnée et méditative, et pourtant d'une parfaite unité comme d'un très haut niveau pianistique, sa vision rejoint celle des plus grands. Pour ces 33 minutes, on accepte le reste !&nbsp;»<br><em>La Presse</em>, 26 février 2000</p>"
           }
         ]
       },
@@ -127,7 +129,7 @@
         "title": "Saint-Saëns, Concerto pour piano no 2 en sol mineur op. 22",
         "objects": [
           {
-            "title": "Les œuvres complètes pour piano et orchestre",
+            "title": "<em>Les œuvres complètes pour piano et orchestre</em>",
             "id": "art10",
             "type": "cd",
             "note": 3,
@@ -137,10 +139,10 @@
             "article_scale": 0.95,
             "pochette_recto": "textures/77361239_pochette_verso_nouv.jpg",
             "pochette_verso": "textures/77361239_coffret_verso.jpg",
-            "description": "<p>“Pour les concertos, même phénomène qu'en opéra: des interprètes qui, sans être de culture française, servent avec une chaleureuse précision la musique qui en est issue.<br>L'intégrale des cinq Concertos pour piano de Saint-Saëns à posséder est désormais celle de Stephen Hough et le City of Birmingham Symphony Orchestra dirigé par le Finlandais Sakari Oramo. Un piano tour à tour scintillant, tapageur, ironique et tendre; un orchestre toujours présent et détaillé. En plus-value: les quatre petites pièces qui complètent le catalogue piano-orchestre du vénérable compositeur.”<br><em>La Presse</em>, 28 décembre 2002</p>"
+            "description": "<p>«&nbsp;Pour les concertos, même phénomène qu'en opéra: des interprètes qui, sans être de culture française, servent avec une chaleureuse précision la musique qui en est issue.<br>L'intégrale des cinq Concertos pour piano de Saint-Saëns à posséder est désormais celle de Stephen Hough et le City of Birmingham Symphony Orchestra dirigé par le Finlandais Sakari Oramo. Un piano tour à tour scintillant, tapageur, ironique et tendre; un orchestre toujours présent et détaillé. En plus-value: les quatre petites pièces qui complètent le catalogue piano-orchestre du vénérable compositeur.&nbsp;»<br><em>La Presse</em>, 28 décembre 2002</p>"
           },
           {
-            "title": "La partition du 2ème concerto",
+            "title": "La partition du Deuxième concerto",
             "id": "art11",
             "slug": "la-partition-du-2eme-concerto",
             "type": "book",
@@ -150,7 +152,7 @@
             "tranche": "#f7e1a7",
             "page_1": "textures/872634591_couvertures_page_1.jpg",
             "page_2": "textures/872634591_couvertures_page_2.jpg",
-            "description": "<p>Claude Gingras avait une partition du 2ème concerto dans sa collection.</p>"
+            "description": "<p>Claude Gingras avait une partition du Deuxième concerto dans sa collection.</p>"
           },
           {
             "title": "Claude Gingras nous parle du Concerto pour piano nº2",
@@ -160,7 +162,7 @@
             "article": null,
             "video": "videos/art-extrait4.webm",
             "poster": "art12.png",
-            "description": "<p>“J'adore ça. [...] mais on dirait qu'on est un peu gêné d'aimer ça parce que c'est tellement kitsch, mais c'est tellement bien écrit. D'abord, c'est d'une difficulté épouvantable. Et c'est tellement bien écrit pour le piano et l'orchestre [...]“<br>“Ça commence comme du Bach et ça finit comme du Offenbach.“<br>“[...] c'est une bonne porte d'entrée à quelqu’un qui veut s'initier à la musique classique.“<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
+            "description": "<p>«&nbsp;J'adore ça. [...] mais on dirait qu'on est un peu gêné d'aimer ça parce que c'est tellement kitsch, mais c'est tellement bien écrit. D'abord, c'est d'une difficulté épouvantable. Et c'est tellement bien écrit pour le piano et l'orchestre [...]&nbsp;»<br>«&nbsp;Ça commence comme du Bach et ça finit comme du Offenbach.&nbsp;»<br>«&nbsp;[...] c'est une bonne porte d'entrée à quelqu’un qui veut s'initier à la musique classique.&nbsp;»<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
           }
         ]
       },
@@ -168,7 +170,7 @@
         "title": "Liszt, Sonate en si mineur",
         "objects": [
           {
-            "title": "La sonate pour piano de Liszt par Marc-André Hamelin",
+            "title": "<em>La sonate pour piano de Liszt par Marc-André Hamelin</em>",
             "id": "art13",
             "type": "cd",
             "note": 5,
@@ -177,7 +179,7 @@
             "article": "images/777937583_articles.jpg",
             "pochette_recto": "textures/777937583_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/777937583_pochette_verso_nouv.jpg",
-            "description": "<p>“Hamelin a centré son disque sur la célèbre Sonate en si mineur, dont l'unique mouvement de quelque 30 minutes se déploie dans une réalisation d'une étonnante envergure. Hamelin rejoint ici les plus grands, en technique mais aussi en pensée.”<br><em>La Presse</em>, 7 mai 2011</p>"
+            "description": "<p>«&nbsp;Hamelin a centré son disque sur la célèbre Sonate en si mineur, dont l'unique mouvement de quelque 30 minutes se déploie dans une réalisation d'une étonnante envergure. Hamelin rejoint ici les plus grands, en technique mais aussi en pensée.&nbsp;»<br><em>La Presse</em>, 7 mai 2011</p>"
           }
         ]
       },
@@ -185,7 +187,7 @@
         "title": "Bruch - Concerto pour violon no 1 en sol mineur op. 26",
         "objects": [
           {
-            "title": "Le concerto pour violon no 1 op. 26 en sol mineur de Bruch",
+            "title": "<em>Le concerto pour violon no 1 op. 26 en sol mineur</em> de Bruch",
             "id": "art14",
             "type": "vinyl",
             "note": 5,
@@ -196,7 +198,7 @@
             "tranche": "#e36d69",
             "pochette_recto": "textures/869595134_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/869595134_pochette_verso_stitch.jpg",
-            "description": "<p>“Pour ma part, j'ai toujours conservé une certaine affection pour le Bruch de Jascha Heifetz, qui a enregistré deux fois le Concerto op. 26 et deux fois la Fantaisie écossaise. Réécoutées aujourd'hui (elles sont actuellement offertes en différents regroupements), ces exécutions me frappent avant tout par leur perfection technique et l’étrange beauté du son.”<br><em>La Presse</em>, 17 mars 1979</p>"
+            "description": "<p>«&nbsp;Pour ma part, j'ai toujours conservé une certaine affection pour le Bruch de Jascha Heifetz, qui a enregistré deux fois le Concerto op. 26 et deux fois la Fantaisie écossaise. Réécoutées aujourd'hui (elles sont actuellement offertes en différents regroupements), ces exécutions me frappent avant tout par leur perfection technique et l’étrange beauté du son.&nbsp;»<br><em>La Presse</em>, 17 mars 1979</p>"
           }
         ]
       },
@@ -204,17 +206,17 @@
         "title": "Tchaïkovski, Trio en la mineur pour piano, violon et violoncelle, op. 50",
         "objects": [
           {
-            "title": "Claude Gingras nous parle du trio de Tchaïkovski",
+            "title": "Claude Gingras nous parle du Trio de Tchaïkovski",
             "id": "art15",
             "slug": "claude-gingras-nous-parle-du-trio-de-tchaikovski",
             "type": "video",
             "article": null,
             "video": "videos/art-extrait5.webm",
             "poster": "art15.png",
-            "description": "<p>“Ça peut être un choix surprenant, un choix même scandaleux.”<br>“[...] mais j'aime ça le trio de Tchaïkovsky, d'abord c'est bien écrit et c'est plein de mélodies. [...] C'est extrêmement bien écrit pour le trio comme tel et pour les instruments qui s'imbriquent les uns dans les autres. Chacun a son solo. Il y a des variations, il y a une fugue là-dedans. C'est plein de mélodies, c'est très riche.”<br>“[...] mais c'est très accessible. Et si quelqu’un qui veut s'initier à la musique de chambre et qui n'a pas beaucoup de préparation, il ne peut pas résister. [...]”<br>“C'est généreux, ça chante et ça sonne bien et c'est bien écrit.”<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
+            "description": "<p>«&nbsp;Ça peut être un choix surprenant, un choix même scandaleux.&nbsp;»<br>«&nbsp;[...] mais j'aime ça le trio de Tchaïkovsky, d'abord c'est bien écrit et c'est plein de mélodies. [...] C'est extrêmement bien écrit pour le trio comme tel et pour les instruments qui s'imbriquent les uns dans les autres. Chacun a son solo. Il y a des variations, il y a une fugue là-dedans. C'est plein de mélodies, c'est très riche.&nbsp;»<br>«&nbsp;[...] mais c'est très accessible. Et si quelqu’un qui veut s'initier à la musique de chambre et qui n'a pas beaucoup de préparation, il ne peut pas résister. [...]&nbsp;»<br>«&nbsp;C'est généreux, ça chante et ça sonne bien et c'est bien écrit.&nbsp;»<br>Claude Gingras dans <em>Le monde de Claude Gingras</em>, 2009</p>"
           },
           {
-            "title": "Le trio pour piano en la mineur op. 50 de Piotr Ilitch Tchaïkovski par le Trio Borodine",
+            "title": "<em>Le Trio pour piano en la mineur op. 50</em> de Piotr Ilitch Tchaïkovski par le Trio Borodine",
             "id": "art16",
             "type": "vinyl",
             "note": null,
@@ -224,10 +226,10 @@
             "tranche": "#e98338",
             "pochette_recto": "textures/658136710_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/658136710_pochette_verso_stitch.jpg",
-            "description": "<p>”Le Trio Borodine excelle dans la musique russe et son interprétation du Trio op.50 de Tchaikovsky est l'une des plus senties qui soit. Le groupe souligne la sentimentalité de l'oeuvre [...] et s'amuse au pittoresque de certaines sections [...]. Étrangement [...] il omet la variation 7 (plutôt que la variation 8 une fugue, tel qu'autorisé dans la partition) et coupe largement dans les ”Variazione Finale e Coda” (où les coupures suggérées sont différentes). L'audition n'en reste pas moins très substantielle et, pour les fervents de Tchaïkovsky, irrésistible.”<br><em>La Presse</em>, 3 mars 1984</p>"
+            "description": "<p>«&nbsp;Le Trio Borodine excelle dans la musique russe et son interprétation du Trio op.50 de Tchaikovsky est l'une des plus senties qui soit. Le groupe souligne la sentimentalité de l'œuvre [...] et s'amuse au pittoresque de certaines sections [...]. Étrangement [...] il omet la variation 7 (plutôt que la variation 8 une fugue, tel qu'autorisé dans la partition) et coupe largement dans les “Variazione Finale e Coda” (où les coupures suggérées sont différentes). L'audition n'en reste pas moins très substantielle et, pour les fervents de Tchaïkovsky, irrésistible.&nbsp;»<br><em>La Presse</em>, 3 mars 1984</p>"
           },
           {
-            "title": "La partition du trio de Tchaïkovski",
+            "title": "La partition du Trio de Tchaïkovski",
             "id": "art17",
             "slug": "la-partition-du-trio-de-tchaikovski",
             "type": "book",
@@ -256,7 +258,7 @@
             "pochette_verso": "textures/15150454_pochette_verso_stitch.jpg",
             "tranche": "#f9f3f6",
             "article_scale": 1.5,
-            "description": "<p>“Les enregistrements de Toscanini, Serafin, de Sabata, Giulini et plus récemment Muti montrent, mieux que toute analyse, la dimension que peut atteindre cette oeuvre tour à tour émouvante et terrifiante. Le Requiem de Verdi appartient indiscutablement aux chefs italiens.<br>[...] Et je suis retourné à l'enregistrement pirate de 1949. Actuellement retiré du catalogue Discocorp, ce document devrait y être rétabli. Karajan n'était pas encore la vedette que l'on sait; surtout, il ne s'adonnait pas encore à la dissection des partitions. Il était, tout simplement, un humble serviteur de la musique… Ce Requiem de 1949, dépourvu de tout maniérisme, est habité d'une spiritualité qu'on sent même à travers l'ancienneté de la prise de son.”<br>“[…] Zadek, Klose, Roswaenge et Christoff possédaient de grandes voix, comme il n'y en a presque plus, et ils possédaient une sincérité qu'aujourd'hui on juge démodée. Quelques faiblesses ici et là, mais excusables au concert. Une certaine grandiloquence dans le style, mais aucun mauvais goût.”<br><em>La Presse</em>, 19 avril 1986</p>"
+            "description": "<p>«&nbsp;Les enregistrements de Toscanini, Serafin, de Sabata, Giulini et plus récemment Muti montrent, mieux que toute analyse, la dimension que peut atteindre cette oeuvre tour à tour émouvante et terrifiante. Le Requiem de Verdi appartient indiscutablement aux chefs italiens.<br>[...] Et je suis retourné à l'enregistrement pirate de 1949. Actuellement retiré du catalogue Discocorp, ce document devrait y être rétabli. Karajan n'était pas encore la vedette que l'on sait; surtout, il ne s'adonnait pas encore à la dissection des partitions. Il était, tout simplement, un humble serviteur de la musique… Ce <em>Requiem</em> de 1949, dépourvu de tout maniérisme, est habité d'une spiritualité qu'on sent même à travers l'ancienneté de la prise de son.&nbsp;»<br>«&nbsp;[…] Zadek, Klose, Roswaenge et Christoff possédaient de grandes voix, comme il n'y en a presque plus, et ils possédaient une sincérité qu'aujourd'hui on juge démodée. Quelques faiblesses ici et là, mais excusables au concert. Une certaine grandiloquence dans le style, mais aucun mauvais goût.&nbsp;»<br><em>La Presse</em>, 19 avril 1986</p>"
           },
           {
             "title": "La version pirate de Toscanini",
@@ -270,10 +272,10 @@
             "tranche": "#50555c",
             "pochette_recto": "textures/7165320_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/7165320_pochette_verso_stitch.jpg",
-            "description": "<p>Claude Gingras nous parle d’un enregistrement « pirate ».<br>“Pour l'instant, je veux signaler une autre réalisation ERR: le “Requiem” de Verdi enregistré en concert à la Scala de Milan en 1950 avec Renata Tebaldi, Cloe Elmo […], Giacinto Prandelli […] et la célèbre basse Cesare Siepi, sous la direction de Toscanini.<br>Il s'agit d'un document très important. Toscanini dirigea en 1946 la cérémonie de réouverture de la Scala, bombardée pendant la guerre, et, à cette occasion, avait invité une jeune chanteuse italienne de 24 ans encore inconnue, du nom de Renata Tebaldi… Quatre ans plus tard, il y dirigeait le “Requiem” de Verdi, de nouveau avec la jeune Tebaldi, entourée cette fois des trois chanteurs déjà mentionnés.<br>Un tel enregistrement ne s'écoute pas tout à fait comme un autre. On fait abstraction de la prise de son défectueuse, des bruits étranges qui interviennent ici et là et même de certaines difficultés comme en rencontrent couramment les chanteurs pendant un concert. Plutôt, on écoute l'écho d'un événement. La vie musicale de Milan n'a repris que depuis quatre ans et se ressent encore de la guerre; l'oeuvre est entre les mains d'un chef qui fut un ami de Verdi; on y entend une jeune artiste dont le nom est destiné à faire le tour du monde…<br>J'ai toujours regretté, pour ma part, que Tebaldi n'ait pas signé un enregistrement commercial du “Requiem”. Eh bien! cet enregistrement, réalisé dans des conditions visiblement difficiles, nous permet de l'entendre dans cette oeuvre célèbre, et dans la splendeur de ses 28 ans. Malgré les problèmes de son, la voix passe étonnamment bien. Et son “Libera me” révèle déjà un fort talent dramatique.<br><em>La Presse</em>, 3 janvier 1976”</p>"
+            "description": "<p>Claude Gingras nous parle d’un enregistrement « pirate ».</p><p>«&nbsp;Pour l'instant, je veux signaler une autre réalisation ERR: le “Requiem” de Verdi enregistré en concert à la Scala de Milan en 1950 avec Renata Tebaldi, Cloe Elmo […], Giacinto Prandelli […] et la célèbre basse Cesare Siepi, sous la direction de Toscanini.<br>Il s'agit d'un document très important. Toscanini dirigea en 1946 la cérémonie de réouverture de la Scala, bombardée pendant la guerre, et, à cette occasion, avait invité une jeune chanteuse italienne de 24 ans encore inconnue, du nom de Renata Tebaldi… Quatre ans plus tard, il y dirigeait le “Requiem” de Verdi, de nouveau avec la jeune Tebaldi, entourée cette fois des trois chanteurs déjà mentionnés.<br>Un tel enregistrement ne s'écoute pas tout à fait comme un autre. On fait abstraction de la prise de son défectueuse, des bruits étranges qui interviennent ici et là et même de certaines difficultés comme en rencontrent couramment les chanteurs pendant un concert. Plutôt, on écoute l'écho d'un événement. La vie musicale de Milan n'a repris que depuis quatre ans et se ressent encore de la guerre; l'oeuvre est entre les mains d'un chef qui fut un ami de Verdi; on y entend une jeune artiste dont le nom est destiné à faire le tour du monde…<br>J'ai toujours regretté, pour ma part, que Tebaldi n'ait pas signé un enregistrement commercial du “Requiem”. Eh bien! cet enregistrement, réalisé dans des conditions visiblement difficiles, nous permet de l'entendre dans cette oeuvre célèbre, et dans la splendeur de ses 28 ans. Malgré les problèmes de son, la voix passe étonnamment bien. Et son “Libera me” révèle déjà un fort talent dramatique.&nbsp;»<br><em>La Presse</em>, 3 janvier 1976”</p>"
           },
           {
-            "title": "La partition du Requiem de Verdi",
+            "title": "La partition du <em>Requiem</em> de Verdi",
             "id": "art20",
             "slug": "la-partition-du-requiem-de-verdi",
             "type": "book",
@@ -291,7 +293,7 @@
         "title": "Bruckner - Symphonie no4 en mi bémol majeur (Romantique)",
         "objects": [
           {
-            "title": "Anton Bruckner: Stanisław Skrowaczewski",
+            "title": "Anton Bruckner&nbsp;: Stanisław Skrowaczewski",
             "id": "art21",
             "type": "cd",
             "note": null,
@@ -301,10 +303,10 @@
             "article_scale": 1.25,
             "pochette_recto": "textures/936899971_coffret_recto.jpg",
             "pochette_verso": "textures/936899971_coffret_verso.jpg",
-            "description": "<p>“Le sommet des sommets: l'intégrale des Symphonies de Bruckner par Stanislaw Skrowaczewski et l'Orchestre Symphonique de la Radio de Sarrebruck. Aux neuf symphonies numérotées s'ajoutent ici les deux «Nullte» du début. Total, donc : onze symphonies. D'un orchestre qui n'est pourtant pas le plus parfait au monde, le chef polonais tire une expression plus profonde et plus sincère que tout ce qu'on a entendu jusqu'à présent.”<br><em>La Presse</em>, 29 décembre 2001</p>"
+            "description": "<p>«&nbsp;Le sommet des sommets: l'intégrale des Symphonies de Bruckner par Stanislaw Skrowaczewski et l'Orchestre Symphonique de la Radio de Sarrebruck. Aux neuf symphonies numérotées s'ajoutent ici les deux “Nullte” du début. Total, donc : onze symphonies. D'un orchestre qui n'est pourtant pas le plus parfait au monde, le chef polonais tire une expression plus profonde et plus sincère que tout ce qu'on a entendu jusqu'à présent.&nbsp;»<br><em>La Presse</em>, 29 décembre 2001</p>"
           },
           {
-            "title": "Bruckner 4 - Yannick Nézet-Séguin",
+            "title": "<em>Bruckner 4</em> par Yannick Nézet-Séguin",
             "id": "art22",
             "type": "cd",
             "note": 5,
@@ -313,7 +315,7 @@
             "article": "images/865062018_articles.jpg",
             "pochette_recto": "textures/865062018_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/865062018_pochette_verso_nouv.jpg",
-            "description": "<p>“Le Bruckner [...] de Nézet-Séguin vient du coeur et fait vibrer à chaque instant. Cette <em>Romantique</em> que j’ai entendue je ne sais plus combien de fois, j’ai le sentiment de la découvrir [...].”<br>“Part ailleurs, à l’engagement total du chef s’ajoute au Métropolitain, la réponse immédiate et entière de l’orchestre. Toutes les sections, et en particulier les cuivres, très sollicités, sont du plus haut niveau. À la fois puissant et souple, l’OM rejoint ici les plus grandes formations brucknériennes du disque.<br><em>La Presse</em>, 18 décembre 2011”</p>"
+            "description": "<p>«&nbsp;Le Bruckner [...] de Nézet-Séguin vient du coeur et fait vibrer à chaque instant. Cette <em>Romantique</em> que j’ai entendue je ne sais plus combien de fois, j’ai le sentiment de la découvrir [...].&nbsp;»<br>«&nbsp;Part ailleurs, à l’engagement total du chef s’ajoute au Métropolitain, la réponse immédiate et entière de l’orchestre. Toutes les sections, et en particulier les cuivres, très sollicités, sont du plus haut niveau. À la fois puissant et souple, l’OM rejoint ici les plus grandes formations brucknériennes du disque.&nbsp;»<br><em>La Presse</em>, 18 décembre 2011</p>"
           }
         ]
       }
