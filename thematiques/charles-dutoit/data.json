@@ -5,12 +5,12 @@
   "cta": "Découvrir",
   "bgColor": "245, 245, 245",
   "seo": {
-    "title": "Charles Dutoit et l’OSM : Une révolution symphonique",
+    "title": "Charles Dutoit et l’OSM&nbsp;: Une révolution symphonique",
     "description": "Retour sur l’impact de Charles Dutoit sur l’Orchestre symphonique de Montréal et son influence vue par le critique Claude Gingras."
   },
   "listing": {
-    "title": "Charles Dutoit et l’OSM : une révolution symphonique",
-    "description": "<p>En 1977, Charles Dutoit dirige son premier concert en tant que chef de l’OSM et marque alors les esprits. Sous sa baguette, l’orchestre évolue rapidement et Claude Gingras observe cette transformation de près. Pour lui, «&nbsp;Dutoit a donné une personnalité à l'OSM. Il a changé la sonorité, il a changé la personnalité de l'orchestre.&nbsp;» En effet, Dutoit insuffle une nouvelle énergie à l'orchestre : il intègre à son effectif de nombreux·ses artistes québécois·es et propose des programmes ambitieux qui mèneront l’OSM à s’ouvrir sur le monde. Chaque concert qu’il dirige devient un événement mémorable, où rigueur et passion s’entremêlent. Gingras décrit régulièrement l'impact du chef, soulignant son charisme et sa capacité à élever l'OSM vers de nouveaux sommets artistiques. Ce lien entre Dutoit et l'orchestre, tel que capté par Gingras, témoigne de cette époque charnière dans l’histoire de l'OSM, où excellence et détermination se conjuguent.</p>",
+    "title": "Charles Dutoit et l’OSM&nbsp;: une révolution symphonique",
+    "description": "<p>En 1977, Charles Dutoit dirige son premier concert en tant que chef de l’OSM et marque alors les esprits. Sous sa baguette, l’orchestre évolue rapidement et Claude Gingras observe cette transformation de près. Pour lui, «&nbsp;Dutoit a donné une personnalité à l'OSM. Il a changé la sonorité, il a changé la personnalité de l'orchestre.&nbsp;» <br>En effet, Dutoit insuffle une nouvelle énergie à l'orchestre&nbsp;: il intègre à son effectif de nombreux·ses artistes québécois·es et propose des programmes ambitieux qui mèneront l’OSM à s’ouvrir sur le monde. Chaque concert qu’il dirige devient un événement mémorable, où rigueur et passion s’entremêlent. Gingras décrit régulièrement l'impact du chef, soulignant son charisme et sa capacité à élever l'OSM vers de nouveaux sommets artistiques. Ce lien entre Dutoit et l'orchestre, tel que capté par Gingras, témoigne de cette époque charnière dans l’histoire de l'OSM, où excellence et détermination se conjuguent.</p>",
     "section": [
       {
         "title": "LA RENCONTRE",
@@ -57,14 +57,14 @@
         "title": "50e de l’OSM",
         "objects": [
           {
-            "title": "La Symphonie des mille par l’OSM",
+            "title": "La <em>Symphonie des mille</em> par l’OSM",
             "id": "charles5",
             "slug": "la-symphonie-des-mille-par-losm",
             "type": "video",
             "article": null,
             "video": "videos/charles-extrait2.webm",
             "poster": "charles5.png",
-            "description": "<p>C’est au Forum de Montréal que l’OSM fête ses 50 ans avec la Symphonie no 8 (dite « des mille ») de Mahler. Un moment inoubliable tant pour les musiciens et musiciennes que pour le public.<br>Claude Gingras en parle dans <em>Claude Gingras critique</em>, 2016</p>"
+            "description": "<p>C’est au Forum de Montréal que l’OSM fête ses 50 ans avec la <em>Symphonie no&nbsp;8</em> (dite « des mille ») de Mahler. Un moment inoubliable tant pour les musiciens et musiciennes que pour le public.<br>Claude Gingras en parle dans <em>Claude Gingras critique</em>, 2016</p>"
           },
           {
             "title": "Photographie du Forum de Montréal",
@@ -72,10 +72,10 @@
             "slug": "photographie-du-forum-de-montreal",
             "type": "article",
             "article": "images/16055249_Forum_8e-symphonie_Mahler.jpg",
-            "description": "<p>Une foule impressionnante assiste à la Symphonie des mille de Mahler au Forum de Montréal. Trente mille personnes se rassemblent pour souligner le 50e anniversaire de leur orchestre.</p>"
+            "description": "<p>Une foule impressionnante assiste à la <em>Symphonie des mille</em> de Mahler au Forum de Montréal. Trente mille personnes se rassemblent pour souligner le 50e anniversaire de leur orchestre.</p>"
           },
           {
-            "title": "Charles Dutoit. <em>Le maître de l'orchestre</em> de Georges Nicholson. ",
+            "title": "<em>Charles Dutoit. Le maître de l'orchestre</em> de Georges Nicholson. ",
             "id": "charles7",
             "slug": "charles-dutoit-le-maitre-de-lorchestre-de-georges-nicholson",
             "type": "book",
@@ -170,7 +170,7 @@
             "slug": "charles-dutoit-lance-un-cri-dalarme",
             "sound": null,
             "article": "images/article_Charles_Dutoit_cri_alarme.jpg",
-            "description": "<p>«&nbsp;“Je demande à tous, du premier ministre au plus humble citoyen, de m'aider à sauver cet orchestre.” <br>Charles Dutoit montrait un front soucieux que je ne lui connais pas. À peine entré dans son modeste bureau, il attaque.<br>“L'Orchestre Symphonique de Montréal est menacé, très menacé. Il faut ouvrir les yeux de la communauté à tous les échelons. Il n'est pas question de salaires seulement. Cette grève des musiciens est symbolique. Ce sont les meilleurs du Canada et ils doivent être mieux payés. Nous sommes en train de les perdre.[…]”&nbsp;»</p>«&nbsp;“[…] L'OSM est le seul grand orchestre du monde à ne pas avoir sa salle. Un scandale. Les pouvoirs publics n'ont pas compris qu'un grand orchestre, c'est une osmose entre une acoustique, un orchestre et son chef. Nous avions un très beau projet de salle. Bousillé par le gouvernement Bourassa. Bousillé par le maire Doré.”&nbsp;»<br>«&nbsp;“[…] Nous avons travaillé comme des fous, l'OSM est au sommet... et n'a pas un sou. On nous laisse végéter. Financièrement, c'est le désastre. Je ne veux pas voir la décrépitude de cet orchestre.”&nbsp;»<br>«&nbsp;“[…]Qu'est-ce que c'est, 98 personnes qui demandent une augmentation, dans une population de six millions ? Qu'est-ce que c'est à côté des 2500 syndiqués d'une manufacture ? Il suffirait aux gouvernements d'injecter quelques millions. Cela assurerait la pérennité de cette qualité que nous avons tous bâtie. […]”&nbsp;»<br><em>La Presse</em>, 1er octobre 1998</p>"
+            "description": "«&nbsp;“Je demande à tous, du premier ministre au plus humble citoyen, de m'aider à sauver cet orchestre.” <br>Charles Dutoit montrait un front soucieux que je ne lui connais pas. À peine entré dans son modeste bureau, il attaque.<br>“L'Orchestre Symphonique de Montréal est menacé, très menacé. Il faut ouvrir les yeux de la communauté à tous les échelons. Il n'est pas question de salaires seulement. Cette grève des musiciens est symbolique. Ce sont les meilleurs du Canada et ils doivent être mieux payés. Nous sommes en train de les perdre. […]”&nbsp;» «&nbsp;“[…] L'OSM est le seul grand orchestre du monde à ne pas avoir sa salle. Un scandale. Les pouvoirs publics n'ont pas compris qu'un grand orchestre, c'est une osmose entre une acoustique, un orchestre et son chef. Nous avions un très beau projet de salle. Bousillé par le gouvernement Bourassa. Bousillé par le maire Doré.”&nbsp;»<br>«&nbsp;“[…] Nous avons travaillé comme des fous, l'OSM est au sommet... et n'a pas un sou. On nous laisse végéter. Financièrement, c'est le désastre. Je ne veux pas voir la décrépitude de cet orchestre.”&nbsp;»<br>«&nbsp;“[…] Qu'est-ce que c'est, 98 personnes qui demandent une augmentation, dans une population de six millions ? Qu'est-ce que c'est à côté des 2500 syndiqués d'une manufacture ? Il suffirait aux gouvernements d'injecter quelques millions. Cela assurerait la pérennité de cette qualité que nous avons tous bâtie. […]”&nbsp;»<br><em>La Presse</em>, 1er octobre 1998</p>"
           }
         ]
       }

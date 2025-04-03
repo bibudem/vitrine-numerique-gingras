@@ -13,11 +13,11 @@
               "sources": [
                 {
                   "type": "Photographie",
-                  "text": "Photo représentant Claude Gingras dans son bureau, prise en 2014 par Annik MH de Carufel (Le Devoir)."
+                  "text": "Photo représentant Claude Gingras dans son bureau, prise en 2014 par Annik MH de Carufel (<em>Le Devoir</em>)."
                 },
                 {
                   "type": "Ambiance sonore",
-                  "text": "<em>Symphonie no 5 en ré mineur op. 47</em> (extrait du <em>2e mouvement</em>), Dmitri Chostakovitch, interprétée par le Leningrad Symphony Orchestra sous la direction d'Alexander Dmitriev, extrait de la piste 2 (0:42), extrait de l'album paru en 1991 sous l'étiquette Linn Records (numéro d'éditeur&nbsp;: CKD 004)."
+                  "text": "<em>Symphonie no&nbsp;5 en ré mineur op.&nbsp;47</em> (extrait du <em>2e mouvement</em>), Dmitri Chostakovitch, interprétée par le Leningrad Symphony Orchestra sous la direction d'Alexander Dmitriev, extrait de la piste 2 (0:42), extrait de l'album paru en 1991 sous l'étiquette Linn Records (numéro d'éditeur&nbsp;: CKD 004)."
                 }
               ]
             }
@@ -60,7 +60,7 @@
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             }
@@ -74,7 +74,7 @@
               "sources": [
                 {
                   "type": "Portrait de Claude Gingras 1",
-                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, 1960-1970, photographie prise par Antoine Desilets"
+                  "text": "<em>Claude Gingras, 1931-2018, journaliste, 1966-1993, BAnQ Vieux-Montréal, Fonds La Presse</em>, (06M,P833,S2,D2286), Michel Gravel"
                 }
               ]
             },
@@ -83,7 +83,7 @@
               "sources": [
                 {
                   "type": "Portrait de Claude Gingras 2",
-                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, 1960-1970, photographie prise par Antoine Desilets"
+                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, BAnQ Vieux-Montréal, Fonds Antoine Desilets, (06M,P697,S1,SS1,SSS18,D48), Antoine Desilets."
                 }
               ]
             },
@@ -92,7 +92,7 @@
               "sources": [
                 {
                   "type": "Portrait de Claude Gingras 3",
-                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, 1960-1970, photographie prise par Antoine Desilets"
+                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, BAnQ Vieux-Montréal, Fonds Antoine Desilets, (06M,P697,S1,SS1,SSS18,D48), Antoine Desilets."
                 }
               ]
             },
@@ -101,7 +101,7 @@
               "sources": [
                 {
                   "type": "Portrait de Claude Gingras 4",
-                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, 1960-1970, photographie prise par Antoine Desilets"
+                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, BAnQ Vieux-Montréal, Fonds Antoine Desilets, (06M,P697,S1,SS1,SSS18,D48), Antoine Desilets."
                 }
               ]
             },
@@ -110,7 +110,7 @@
               "sources": [
                 {
                   "type": "Portrait de Claude Gingras 5",
-                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, 1960-1970, photographie prise par Antoine Desilets"
+                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, BAnQ Vieux-Montréal, Fonds Antoine Desilets, (06M,P697,S1,SS1,SSS18,D48), Antoine Desilets."
                 }
               ]
             },
@@ -119,7 +119,7 @@
               "sources": [
                 {
                   "type": "Portrait de Claude Gingras 6",
-                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, 1960-1970, photographie prise par Antoine Desilets"
+                  "text": "<em>Claude Gingras, journaliste au journal La Presse</em>, BAnQ Vieux-Montréal, Fonds Antoine Desilets, (06M,P697,S1,SS1,SSS18,D48), Antoine Desilets."
                 }
               ]
             },
@@ -128,7 +128,7 @@
               "sources": [
                 {
                   "type": "Portrait de Claude Gingras 7",
-                  "text": "<em>Claude Gingras, 1931-2018, journaliste</em>, 1966, photographie prise par Paul Henri Talbot, Fonds La Presse"
+                  "text": "<em>Claude Gingras, 1931-2018, journaliste, 1966-1993, BAnQ Vieux-Montréal, Fonds La Presse, (06M,P833,S2,D2286), Paul Henri Talbot"
                 }
               ]
             }
@@ -148,7 +148,7 @@
               "sources": [
                 {
                   "type": "Photographie",
-                  "text": "Photo représentant Claude Gingras dans son bureau, prise en 2014 par Annik MH de Carufel (Le Devoir)."
+                  "text": "Photo représentant un pan de la collection de Claude Gingras à son domicile, prise en 2017 par la Direction des bibliothèques de l'Université de Montréal."
                 }
               ]
             }
@@ -196,7 +196,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Les enfants de la Chapelle&nbsp;», Claude Gingras, publié le 23 mars 1996 dans La Presse"
+                  "text": "«&nbsp;Les enfants de la Chapelle&nbsp;», Claude Gingras, publié le 23 mars 1996 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -206,7 +206,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Triomphe à Nézet-Séguin&nbsp;», Claude Gingras, publié le 17 novembre 1998 dans La Presse"
+                  "text": "«&nbsp;Triomphe à Nézet-Séguin&nbsp;», Claude Gingras, publié le 17 novembre 1998 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -241,7 +241,7 @@
               "sources": [
                 {
                   "type": "Titres d'articles",
-                  "text": "«&nbsp;Requiem génial de Nézet-Séguin&nbsp;», Claude Gingras, publié le 12 juin 1999 dans La Presse<br/>«&nbsp;Nézet-Séguin et l'OMGM gagnent encore!&nbsp;», Claude Gingras, publié le 19 mars 2002 dans La Presse<br/>«&nbsp;Nézet-Séguin&nbsp;: un autre coup de génie&nbsp;», Claude Gingras, publié le 10 septembre 2002 dans La Presse<br/> «&nbsp;Yannick Nézet-Séguin&nbsp;: à la conquête du monde&nbsp;», Claude Gingras, publié le 24 décembre 2004 dans La Presse<br/>«&nbsp;Nézet et l'OM éclipsent leurs solistes&nbsp;», Claude Gingras, publié le 24 octobre 2007 dans La Presse"
+                  "text": "«&nbsp;Requiem génial de Nézet-Séguin&nbsp;», Claude Gingras, publié le 12 juin 1999 dans <em>La Presse</em><br/>«&nbsp;Nézet-Séguin et l'OMGM gagnent encore!&nbsp;», Claude Gingras, publié le 19 mars 2002 dans <em>La Presse</em><br/>«&nbsp;Nézet-Séguin&nbsp;: un autre coup de génie&nbsp;», Claude Gingras, publié le 10 septembre 2002 dans <em>La Presse</em><br/> «&nbsp;Yannick Nézet-Séguin&nbsp;: à la conquête du monde&nbsp;», Claude Gingras, publié le 24 décembre 2004 dans <em>La Presse</em><br/>«&nbsp;Nézet et l'OM éclipsent leurs solistes&nbsp;», Claude Gingras, publié le 24 octobre 2007 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -267,7 +267,7 @@
           "object": [
             {
               "id": "yns7",
-              "title": "Oeuvres de Nino Rota",
+              "title": "Œuvres de Nino Rota",
               "sources": [
                 {
                   "type": "Disque",
@@ -275,7 +275,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Un succès, ce premier CD de Nézet-Séguin et l'OMGM&nbsp;», Claude Gingras, publié le 8 février 2003 dans La Presse"
+                  "text": "«&nbsp;Un succès, ce premier CD de Nézet-Séguin et l'OMGM&nbsp;», Claude Gingras, publié le 8 février 2003 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -285,11 +285,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Symphonie no 4 en sol majeur (début du 3e mouvement)</em>, Gustav Mahler, interprétée par l'Orchestre métropolitain du Grand-Montréal sous la direction de Yannick Nézet-Séguin, extrait de la piste 3 (8:16), extrait de l'album <em>Mahler 4</em> paru en 2004 sous l'étiquette ATMA Classique (numéro d'éditeur&nbsp;: ACD 2 2306)"
+                  "text": "<em>Symphonie no&nbsp;4 en sol majeur (début du 3e mouvement)</em>, Gustav Mahler, interprétée par l'Orchestre métropolitain du Grand-Montréal sous la direction de Yannick Nézet-Séguin, extrait de la piste 3 (8:16), extrait de l'album <em>Mahler 4</em> paru en 2004 sous l'étiquette ATMA Classique (numéro d'éditeur&nbsp;: ACD 2 2306)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;À entendre, le Mahler de Nézet-Séguin&nbsp;», Claude Gingras, publié le 7 février 2004 dans La Presse"
+                  "text": "«&nbsp;À entendre, le Mahler de Nézet-Séguin&nbsp;», Claude Gingras, publié le 7 février 2004 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -303,7 +303,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;La mer de Nézet&nbsp;: comme si on y était!&nbsp;», Claude Gingras, publié le 21 octobre 2007 dans La Presse"
+                  "text": "«&nbsp;La mer de Nézet&nbsp;: comme si on y était!&nbsp;», Claude Gingras, publié le 21 octobre 2007 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -367,7 +367,7 @@
               "sources": [
                 {
                   "type": "Animation",
-                  "text": "<em>Daphnis et Chloé (Lever du jour)</em>, Maurice Ravel, interprété par l'Orchestre symphonique de Montréal sous la direction de Charles Dutoit, extrait de la face 2 (6:01), extrait de l'album paru en 1981 sous l'étiquette London (numéro d'éditeur&nbsp;: LDR 71028)"
+                  "text": "<em>Petrouchka (Tableau 2&nbsp;: Chez Petrouchka)</em>, Igor Stravinsky, interprété par l'Orchestre symphonique de Montréal sous la direction de Charles Dutoit, piste 2 (4:21), extrait de l'album paru en 1987 sous l'étiquette London (numéro d'éditeur&nbsp;: 417 619-2)"
                 }
               ]
             }
@@ -382,7 +382,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Charles Dutoit&nbsp;: un homme neuf à l'OSM&nbsp;», Claude Gingras, publié le 17 septembre 1977 dans La Presse"
+                  "text": "«&nbsp;Charles Dutoit&nbsp;: un homme neuf à l'OSM&nbsp;», Claude Gingras, publié le 17 septembre 1977 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -412,7 +412,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Je vais mettre l'orchestre sur la carte du monde !&nbsp;», Claude Gingras, publié le 8 mars 1980 dans La Presse"
+                  "text": "«&nbsp;Je vais mettre l'orchestre sur la carte du monde !&nbsp;», Claude Gingras, publié le 8 mars 1980 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -431,7 +431,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Le Ravel de Dutoit, l'OSM et London&nbsp;: un éclatant succès, à tous égards&nbsp;», Claude Gingras, publié le 28 mars 1981 dans La Presse"
+                  "text": "«&nbsp;Le Ravel de Dutoit, l'OSM et London&nbsp;: un éclatant succès, à tous égards&nbsp;», Claude Gingras, publié le 28 mars 1981 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -485,7 +485,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Le «Petrouchka» de Dutoit et l'OSM&nbsp;: comme un opéra où les voix sont celles de l'orchestre&nbsp;», Claude Gingras, publié le 17 octobre 1987 dans La Presse"
+                  "text": "«&nbsp;Le «Petrouchka» de Dutoit et l'OSM&nbsp;: comme un opéra où les voix sont celles de l'orchestre&nbsp;», Claude Gingras, publié le 17 octobre 1987 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -499,7 +499,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Le Pelléas de Dutoit et l'OSM&nbsp;: très beau, avec des imperfections&nbsp;», Claude Gingras, publié le 13 avril 1991 dans La Presse"
+                  "text": "«&nbsp;Le Pelléas de Dutoit et l'OSM&nbsp;: très beau, avec des imperfections&nbsp;», Claude Gingras, publié le 13 avril 1991 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -513,7 +513,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Dutoit-OSM&nbsp;: De Berlioz à ... Piazzolla&nbsp;», Claude Gingras, publié le 10 novembre 2001 dans La Presse"
+                  "text": "«&nbsp;Dutoit-OSM&nbsp;: De Berlioz à ... Piazzolla&nbsp;», Claude Gingras, publié le 10 novembre 2001 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -530,7 +530,7 @@
           ]
         },
         {
-          "title": "Tatoué sur le coeur",
+          "title": "Tatoué sur le cœur",
           "object": [
             {
               "id": "charles12",
@@ -538,7 +538,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Charles Dutoit lance un cri d'alarme&nbsp;», Claude Gingras, publié le 1er octobre 1998 dans La Presse"
+                  "text": "«&nbsp;Charles Dutoit lance un cri d'alarme&nbsp;», Claude Gingras, publié le 1er octobre 1998 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -547,7 +547,7 @@
       ]
     },
     {
-      "title": "Oeuvres préférées ",
+      "title": "Œuvres préférées ",
       "id": "art",
       "section": [
         {
@@ -557,7 +557,7 @@
               "sources": [
                 {
                   "type": "Animation",
-                  "text": "<em>Sonate pour piano no 29 en si bémol majeur (début du 4e mouvement)</em>, Ludwig van Beethoven, interprétée par Louis Lortie, extrait de la piste 8 (7:42), extrait de l'album paru en 1996 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: CHAN 9435)"
+                  "text": "<em>Sonate pour piano no&nbsp;29 en si bémol majeur (début du 4e mouvement)</em>, Ludwig van Beethoven, interprétée par Louis Lortie, extrait de la piste 8 (7:42), extrait de l'album paru en 1996 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: CHAN 9435)"
                 }
               ]
             }
@@ -572,11 +572,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Symphonie no 5 en ré mineur (début du 3e mouvement)</em>, Dmitri Chostakovitch, interprétée par le New York Philharmonic sous la direction de Leonard Bernstein, extrait de la piste 3 (10:11), extrait de l'album paru en 1981 sous l'étiquette CBS (numéro d'éditeur&nbsp;: MY 37218)"
+                  "text": "<em>Symphonie no&nbsp;5 en ré mineur (début du 3e mouvement)</em>, Dmitri Chostakovitch, interprétée par le New York Philharmonic sous la direction de Leonard Bernstein, extrait de la piste 3 (10:26), extrait de l'album paru en 1981 sous l'étiquette CBS (numéro d'éditeur&nbsp;: MY 37218)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;“Great performances” de CBS&nbsp;: deuxième arrivage&nbsp;: l'impression est moins bonne...&nbsp;», Claude Gingras, publié le 3 avril 1982 dans La Presse"
+                  "text": "«&nbsp;“Great performances” de CBS&nbsp;: deuxième arrivage&nbsp;: l'impression est moins bonne...&nbsp;», Claude Gingras, publié le 3 avril 1982 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -586,7 +586,7 @@
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             },
@@ -596,7 +596,7 @@
               "sources": [
                 {
                   "type": "Partition",
-                  "text": "<em>Symphonie no 5 en ré mineur</em>, Dmitri Chostakovitch, édition publiée en 1961 par Sovetskij kompozitor (numéro d'éditeur&nbsp;: S. 1806 K.)"
+                  "text": "<em>Symphonie no&nbsp;5 en ré mineur</em>, Dmitri Chostakovitch, édition publiée en 1961 par Sovetskij kompozitor (numéro d'éditeur&nbsp;: S. 1806 K.)"
                 }
               ]
             }
@@ -621,14 +621,14 @@
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             }
           ]
         },
         {
-          "title": "Beethoven, Sonate no 29, op. 106 (Hammerklavier)",
+          "title": "Beethoven, Sonate no&nbsp;29, op.&nbsp;106 (Hammerklavier)",
           "object": [
             {
               "id": "art7",
@@ -636,28 +636,28 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Sonate pour piano no 29 en si bémol majeur (début du 4e mouvement)</em>, Ludwig van Beethoven, interprétée par Louis Lortie, extrait de la piste 8 (7:42), extrait de l'album paru en 1996 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: CHAN 9435)"
+                  "text": "<em>Sonate pour piano no&nbsp;29 en si bémol majeur (début du 4e mouvement)</em>, Ludwig van Beethoven, interprétée par Louis Lortie, extrait de la piste 8 (7:42), extrait de l'album paru en 1996 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: CHAN 9435)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Lortie&nbsp;: une magistrale Hammerklavier&nbsp;», Claude Gingras, publié le 23 mars 1996 dans La Presse"
+                  "text": "«&nbsp;Lortie&nbsp;: une magistrale Hammerklavier&nbsp;», Claude Gingras, publié le 23 mars 1996 dans <em>La Presse</em>"
                 }
               ]
             },
             {
               "id": "art8",
-              "title": "La plus grande oeuvre de piano selon Claude Gingras",
+              "title": "La plus grande œuvre de piano selon Claude Gingras",
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             }
           ]
         },
         {
-          "title": "Schumann, Fantaisie en do majeur op.17",
+          "title": "Schumann, Fantaisie en do majeur op.&nbsp;17",
           "object": [
             {
               "id": "art9",
@@ -665,18 +665,18 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Fantaisie op. 17</em> (début du <em>1er mouvement</em>), Robert Schumann, interprétée par Louis Lortie, extrait de la piste 7 (5:06), extrait de l'album <em>To the distant beloved</em> paru en 2000 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: CHAN 9793)"
+                  "text": "<em>Fantaisie op.&nbsp;17</em> (début du <em>1er mouvement</em>), Robert Schumann, interprétée par Louis Lortie, extrait de la piste 7 (5:06), extrait de l'album <em>To the distant beloved</em> paru en 2000 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: CHAN 9793)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Lortie&nbsp;: égal dans Beethoven et Schumann&nbsp;», Claude Gingras, publié le 26 février 2000 dans La Presse"
+                  "text": "«&nbsp;Lortie&nbsp;: égal dans Beethoven et Schumann&nbsp;», Claude Gingras, publié le 26 février 2000 dans <em>La Presse</em>"
                 }
               ]
             }
           ]
         },
         {
-          "title": "Saint-Saëns, Concerto pour piano no 2 en sol mineur op. 22",
+          "title": "Saint-Saëns, Concerto pour piano no&nbsp;2 en sol mineur op.&nbsp;22",
           "object": [
             {
               "id": "art10",
@@ -684,11 +684,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Concerto pour piano no 2 en sol mineur (2e mouvement)</em>, Camille Saint-Saëns, interprété par Stephen Hough au piano avec le City of Birmingham Symphony Orchestra sous la direction de Sakari Oramo, piste 5 (5:23), extrait de l'album  <em>Saint-Saëns&nbsp;: the complete works for piano and orchestra</em> paru en 2001 sous l'étiquette Hyperion (numéros d'éditeur&nbsp: CDA67331--CDA67332)"
+                  "text": "<em>Concerto pour piano no&nbsp;2 en sol mineur (2e mouvement)</em>, Camille Saint-Saëns, interprété par Stephen Hough au piano avec le City of Birmingham Symphony Orchestra sous la direction de Sakari Oramo, piste 5 (5:23), extrait de l'album  <em>Saint-Saëns&nbsp;: the complete works for piano and orchestra</em> paru en 2001 sous l'étiquette Hyperion (numéros d'éditeur&nbsp: CDA67331--CDA67332)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Les cinq grands de l'année&nbsp;», Claude Gingras, publié le 28 décembre 2002 dans La Presse"
+                  "text": "«&nbsp;Les cinq grands de l'année&nbsp;», Claude Gingras, publié le 28 décembre 2002 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -698,17 +698,17 @@
               "sources": [
                 {
                   "type": "Partition",
-                  "text": "<em>Concerto pour piano no 2 en sol mineur</em>, Camille Saint-Saëns, édition publiée en 1967 par Durand (numéro d'éditeur&nbsp;: D. & F. 7137)"
+                  "text": "<em>Concerto pour piano no&nbsp;2 en sol mineur</em>, Camille Saint-Saëns, édition publiée en 1967 par Durand (numéro d'éditeur&nbsp;: D. & F. 7137)"
                 }
               ]
             },
             {
               "id": "art12",
-              "title": "Claude Gingras nous parle du Concerto pour piano n 2",
+              "title": "Claude Gingras nous parle du Concerto pour piano no&nbsp;2",
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             }
@@ -727,33 +727,33 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Lortie, Laplante, Hamelin et... Franz Liszt&nbsp;», Claude Gingras, publié le 7 mai 2011 dans La Presse"
+                  "text": "«&nbsp;Lortie, Laplante, Hamelin et... Franz Liszt&nbsp;», Claude Gingras, publié le 7 mai 2011 dans <em>La Presse</em>"
                 }
               ]
             }
           ]
         },
         {
-          "title": "Bruch - Concerto pour violon no 1 en sol mineur op. 26",
+          "title": "Bruch - Concerto pour violon no&nbsp;1 en sol mineur op.&nbsp;26",
           "object": [
             {
               "id": "art14",
-              "title": "Le concerto pour violon no 1 op. 26 en sol mineur de Bruch",
+              "title": "Le concerto pour violon no&nbsp;1 op.&nbsp;26 en sol mineur de Bruch",
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Concerto pour violon no 1 en sol mineur (3e mouvement)</em>, (11:58), Max Bruch, interprété par Jascha Heifetz au violon avec le London Symphony Orchestra sous la direction de Malcolm Sargent, piste 2 (6:18), extrait de l'album paru sous l'étiquette RCA Victor (numéro d'éditeur&nbsp;: LM 9007)"
+                  "text": "<em>Concerto pour violon no&nbsp;1 en sol mineur (3e mouvement)</em>, (11:58), Max Bruch, interprété par Jascha Heifetz au violon avec le London Symphony Orchestra sous la direction de Malcolm Sargent, piste 2 (6:18), extrait de l'album paru sous l'étiquette RCA Victor (numéro d'éditeur&nbsp;: LM 9007)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Quatre œuvres pour violon de Bruch&nbsp;», Claude Gingras, publié le 17 mars 1979 dans La Presse"
+                  "text": "«&nbsp;Quatre œuvres pour violon de Bruch&nbsp;», Claude Gingras, publié le 17 mars 1979 dans <em>La Presse</em>"
                 }
               ]
             }
           ]
         },
         {
-          "title": "Tchaïkovski, Trio en la mineur pour piano, violon et violoncelle, op. 50",
+          "title": "Tchaïkovski, Trio en la mineur pour piano, violon et violoncelle, op.&nbsp;50",
           "object": [
             {
               "id": "art15",
@@ -761,21 +761,21 @@
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             },
             {
               "id": "art16",
-              "title": "Le trio pour piano en la mineur op. 50 de Piotr Ilitch Tchaïkovski par le Trio Borodine",
+              "title": "Le Trio pour piano en la mineur op.&nbsp;50 de Piotr Ilitch Tchaïkovski par le Trio Borodine",
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Trio pour piano op. 50 en la mineur (3e mouvement)</em>, Piotr Ilitch Tchaïkovski, interprété par le Trio Borodin, extrait de la face 2 (7:43), extrait de l'album paru en 1982 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: ABRD1049)"
+                  "text": "<em>Trio pour piano op.&nbsp;50 en la mineur (3e mouvement)</em>, Piotr Ilitch Tchaïkovski, interprété par le Trio Borodin, extrait de la face 2 (7:43), extrait de l'album paru en 1982 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: ABRD1049)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Le Trio Borodine et la musique russe&nbsp;», Claude Gingras, publié le 3 mars 1984 dans La Presse"
+                  "text": "«&nbsp;Le Trio Borodine et la musique russe&nbsp;», Claude Gingras, publié le 3 mars 1984 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -785,7 +785,7 @@
               "sources": [
                 {
                   "type": "Partition",
-                  "text": "<em>Trio pour piano op. 50 en la mineur</em>, Piotr Ilitch Tchaïkovski, édition publiée par Eulenburg (numéro d'éditeur&nbsp;: 251)"
+                  "text": "<em>Trio pour piano op.&nbsp;50 en la mineur</em>, Piotr Ilitch Tchaïkovski, édition publiée par Eulenburg (numéro d'éditeur&nbsp;: 251)"
                 }
               ]
             }
@@ -804,13 +804,13 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Cinq fois le “Requiem” de Verdi&nbsp;», Claude Gingras, publié le 19 avril 1986 dans La Presse"
+                  "text": "«&nbsp;Cinq fois le “Requiem” de Verdi&nbsp;», Claude Gingras, publié le 19 avril 1986 dans <em>La Presse</em>"
                 }
               ]
             },
             {
               "id": "art19",
-              "title": "La version pirate de Toscanini",
+              "title": "En concert à la Scala de Milan, direction Toscanini (version pirate)",
               "sources": [
                 {
                   "type": "Disque",
@@ -818,7 +818,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Un “Requiem” de Verdi avec une Tebaldi de 28 ans!&nbsp;», Claude Gingras, publié le 3 janvier 1976 dans La Presse"
+                  "text": "«&nbsp;Un “Requiem” de Verdi avec une Tebaldi de 28 ans!&nbsp;», Claude Gingras, publié le 3 janvier 1976 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -843,11 +843,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Symphonie no 4 en mi bémol majeur (3e mouvement)</em>, Anton Bruckner, interprétée par le Saarbrücken Radio Symphony Orchestra sous la direction de Stanislas Skrowaczewski, disque 6, piste 3 (10:51), extrait de l'album <em>11 symphonies</em> paru en 2001 sous l'étiquette Arte Nova Classics (numéro d'éditeur&nbsp;: 74321 85290 2)"
+                  "text": "<em>Symphonie no&nbsp;4 en mi bémol majeur (3e mouvement)</em>, Anton Bruckner, interprétée par le Saarbrücken Radio Symphony Orchestra sous la direction de Stanislas Skrowaczewski, disque 6, piste 3 (10:51), extrait de l'album <em>11 symphonies</em> paru en 2001 sous l'étiquette Arte Nova Classics (numéro d'éditeur&nbsp;: 74321 85290 2)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Deux intégrales&nbsp;: Bruckner et Widor&nbsp;», Claude Gingras, publié le 29 décembre 2001 dans La Presse"
+                  "text": "«&nbsp;Deux intégrales&nbsp;: Bruckner et Widor&nbsp;», Claude Gingras, publié le 29 décembre 2001 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -857,11 +857,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Symphonie no 4 en mi bémol majeur (3e mouvement)</em>, Anton Bruckner, interprétée par l'Orchestre métropolitain sous la direction de Yannick Nézet-Séguin, piste 3 (10:48), extrait de l'album <em>Bruckner 4</em> paru en 2011 sous l'étiquette ATMA Classique (numéro d'éditeur&nbsp;: ACD2 2667)"
+                  "text": "<em>Symphonie no&nbsp;4 en mi bémol majeur (3e mouvement)</em>, Anton Bruckner, interprétée par l'Orchestre métropolitain sous la direction de Yannick Nézet-Séguin, piste 3 (10:48), extrait de l'album <em>Bruckner 4</em> paru en 2011 sous l'étiquette ATMA Classique (numéro d'éditeur&nbsp;: ACD2 2667)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Nézet-Séguin plutôt que Nagano&nbsp;», Claude Gingras, publié le 18 décembre 2011 dans La Presse"
+                  "text": "«&nbsp;Nézet-Séguin plutôt que Nagano&nbsp;», Claude Gingras, publié le 18 décembre 2011 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -880,7 +880,7 @@
               "sources": [
                 {
                   "type": "Animation",
-                  "text": "<em>Il barbiere di Siviglia</em> (air «<em>&nbsp;Una voce poco fa</em>&nbsp;»), Gioacchino Rossini, interprété par Maria Callas, soprano, avec le Philharmonia Orchestra sous la direction de Tullio Serafin, disque 1, face A, piste 2 (6:33), extrait de l'album <em>La Divina</em> paru en 1977 sous l'étiquette Angel (numéro d'éditeur&nbsp;: SB 3841)"
+                  "text": "<em>Il barbiere di Siviglia (air de Rosina «&nbsp;Una voce poco fa&nbsp;»</em>), Gioacchino Rossini, interprété par Ewa Podleś, contralto, avec l'Orchestre de chambre Leopoldinum sous la direction de Wojciech Michniewski, piste 6 (5:57), extrait de l'album Rossini gala paru en 1998 sous l'étiquette DUX Recording Producers (numéro d'éditeur&nbsp;: DUX 0124)"
                 }
               ]
             }
@@ -895,14 +895,14 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;L'Amphithéâtre de Lanaudière&nbsp;: une réussite sur tous les plans&nbsp;», Claude Gingras, publié le 22 juillet 1989 dans La Presse"
+                  "text": "«&nbsp;L'Amphithéâtre de Lanaudière&nbsp;: une réussite sur tous les plans&nbsp;», Claude Gingras, publié le 22 juillet 1989 dans <em>La Presse</em>"
                 }
               ]
             }
           ]
         },
         {
-          "title": "Des oeuvres à découvrir: Tournemine",
+          "title": "Des œuvres à découvrir: Tournemire",
           "object": [
             {
               "id": "festival2",
@@ -910,11 +910,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Symphonie no 6 op. 48 (fin de la Deuxième partie)</em>, Charles Tournemire, interprétée par le Chœur symphonique de Namur et de la Communité française, le Chœur polyphonia de Bruxelles et l'Orchestre philharmonique de Liège et de la Communauté française sous la direction de Pierre Bartholomée, extrait de la piste 2 (7:56), extrait de l'album paru en 1995 sous l'étiquette Auvidis-Valois (numéro d'éditeur&nbsp;: V 4757)"
+                  "text": "<em>Symphonie no&nbsp;6 op.&nbsp;48 (fin de la Deuxième partie)</em>, Charles Tournemire, interprétée par le Chœur symphonique de Namur et de la Communité française, le Chœur polyphonia de Bruxelles et l'Orchestre philharmonique de Liège et de la Communauté française sous la direction de Pierre Bartholomée, extrait de la piste 2 (7:56), extrait de l'album paru en 1995 sous l'étiquette Auvidis-Valois (numéro d'éditeur&nbsp;: V 4757)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Une découverte&nbsp;: la sixième symphonie de Tournemire&nbsp;», Claude Gingras, publié le 10 août 1996 dans La Presse"
+                  "text": "«&nbsp;Une découverte&nbsp;: la sixième symphonie de Tournemire&nbsp;», Claude Gingras, publié le 10 août 1996 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -924,7 +924,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Antoine Reboulot&nbsp;: Tournemire, un génie !&nbsp;», Claude Gingras, publié le 25 juillet 1998 dans La Presse"
+                  "text": "«&nbsp;Antoine Reboulot&nbsp;: Tournemire, un génie !&nbsp;», Claude Gingras, publié le 25 juillet 1998 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -939,7 +939,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Ewa Podles&nbsp;: stupéfiant et troublant&nbsp;», Claude Gingras, publié le 25 juillet 1998 dans La Presse"
+                  "text": "«&nbsp;Ewa Podles&nbsp;: stupéfiant et troublant&nbsp;», Claude Gingras, publié le 25 juillet 1998 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -953,7 +953,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Ewa Podles, immense, unique&nbsp;», Claude Gingras, publié le 23 octobre 2004 dans La Presse"
+                  "text": "«&nbsp;Ewa Podles, immense, unique&nbsp;», Claude Gingras, publié le 23 octobre 2004 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -963,7 +963,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Lanaudière&nbsp;: belle fin de saison&nbsp;», Claude Gingras, publié le 24 août 1988 dans La Presse"
+                  "text": "«&nbsp;Lanaudière&nbsp;: belle fin de saison&nbsp;», Claude Gingras, publié le 24 août 1988 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -977,7 +977,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Des cadeaux d'ici en vidéo et en CD&nbsp;», Claude Gingras, publié le 18 décembre 1999 dans La Presse"
+                  "text": "«&nbsp;Des cadeaux d'ici en vidéo et en CD&nbsp;», Claude Gingras, publié le 18 décembre 1999 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -992,11 +992,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Quatuor avec piano op. 8 (3e mouvement)</em>, Zygmunt Noskowski, interprété par Szabolcs Esztenyi, piano, et le Quatuor Wilanow, piste 3 (4:49), extrait de l'album <em>Festival international de Lanaudière &nbsp;: les grands moments</em> paru en 1991 sous l'étiquette Atma (numéro d'éditeur&nbsp;: ATM 2 9705)"
+                  "text": "<em>Quatuor avec piano op.&nbsp;8 (3e mouvement)</em>, Zygmunt Noskowski, interprété par Szabolcs Esztenyi, piano, et le Quatuor Wilanow, piste 3 (4:49), extrait de l'album <em>Festival international de Lanaudière &nbsp;: les grands moments</em> paru en 1991 sous l'étiquette Atma (numéro d'éditeur&nbsp;: ATM 2 9705)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Lanaudière&nbsp;: une image incomplète&nbsp;», Claude Gingras, publié le 6 juillet 1991 dans La Presse"
+                  "text": "«&nbsp;Lanaudière&nbsp;: une image incomplète&nbsp;», Claude Gingras, publié le 6 juillet 1991 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1011,11 +1011,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Symphonie no 6 en fa majeur «&nbsp;Pastorale&nbsp;» (3e mouvement)</em>, Ludwig van Beethoven, interprétée par l'Academy of St. Martin-in-the-Fields sous la direction de Neville Mariner, face 2, piste 3 (5:11), extrait de l'album paru en 1986 sous l'étiquette Philips (numéro d'éditeur&nbsp;: 416 385-1)"
+                  "text": "<em>Symphonie no&nbsp;6 en fa majeur «&nbsp;Pastorale&nbsp;» (3e mouvement)</em>, Ludwig van Beethoven, interprétée par l'Academy of St. Martin-in-the-Fields sous la direction de Neville Mariner, face 2, piste 3 (5:11), extrait de l'album paru en 1986 sous l'étiquette Philips (numéro d'éditeur&nbsp;: 416 385-1)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Souvenirs et projets du Père Lindsay&nbsp;», Claude Gingras, publié le 28 juin 1997 dans La Presse"
+                  "text": "«&nbsp;Souvenirs et projets du Père Lindsay&nbsp;», Claude Gingras, publié le 28 juin 1997 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1069,7 +1069,7 @@
               "sources": [
                 {
                   "type": "Animation",
-                  "text": "<em>Concerto pour piano no 3 (1er mouvement)</em>, Béla Bartók, interprété par Ditta Pásztory-Bartók au piano avec le Vienna Symphony Orchestra sous la direction de Tibor Serly, face 2, piste 1 (7:47), extrait de l'album <em>The Music of Tibor Serly & Béla Bartok</em> paru en 1976 sous l'étiquette Musical Heritage Society (numéro d'éditeur&nbsp;: MHS 3337)"
+                  "text": "<em>Concerto pour piano no&nbsp;3 (1er mouvement)</em>, Béla Bartók, interprété par Ditta Pásztory-Bartók au piano avec le Vienna Symphony Orchestra sous la direction de Tibor Serly, face 2, piste 1 (7:47), extrait de l'album <em>The Music of Tibor Serly & Béla Bartok</em> paru en 1976 sous l'étiquette Musical Heritage Society (numéro d'éditeur&nbsp;: MHS 3337)"
                 }
               ]
             }
@@ -1088,7 +1088,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Des enregistrements rarissimes&nbsp;», Claude Gingras, publié le 1er décembre 2007 dans La Presse"
+                  "text": "«&nbsp;Des enregistrements rarissimes&nbsp;», Claude Gingras, publié le 1er décembre 2007 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1103,7 +1103,7 @@
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             },
@@ -1113,11 +1113,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Concerto pour piano no 3 (1er mouvement)</em>, Béla Bartók, interprété par Ditta Pásztory-Bartók au piano avec le Vienna Symphony Orchestra sous la direction de Tibor Serly, face 2, piste 1 (7:47), extrait de l'album <em>The Music of Tibor Serly & Béla Bartok</em> paru en 1976 sous l'étiquette Musical Heritage Society (numéro d'éditeur&nbsp;: MHS 3337)"
+                  "text": "<em>Concerto pour piano no&nbsp;3 (1er mouvement)</em>, Béla Bartók, interprété par Ditta Pásztory-Bartók au piano avec le Vienna Symphony Orchestra sous la direction de Tibor Serly, face 2, piste 1 (7:47), extrait de l'album <em>The Music of Tibor Serly & Béla Bartok</em> paru en 1976 sous l'étiquette Musical Heritage Society (numéro d'éditeur&nbsp;: MHS 3337)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Des enregistrements rarissimes&nbsp;», Claude Gingras, publié le 1er décembre 2007 dans La Presse"
+                  "text": "«&nbsp;Des enregistrements rarissimes&nbsp;», Claude Gingras, publié le 1er décembre 2007 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1132,7 +1132,7 @@
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             },
@@ -1146,7 +1146,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Des enregistrements rarissimes&nbsp;», Claude Gingras, publié le 1er décembre 2007 dans La Presse"
+                  "text": "«&nbsp;Des enregistrements rarissimes&nbsp;», Claude Gingras, publié le 1er décembre 2007 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1161,7 +1161,7 @@
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             },
@@ -1175,7 +1175,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Dialogues en CD&nbsp;: deux versions&nbsp;», Claude Gingras, publié le 11 mars 2000 dans La Presse"
+                  "text": "«&nbsp;Dialogues en CD&nbsp;: deux versions&nbsp;», Claude Gingras, publié le 11 mars 2000 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1197,21 +1197,21 @@
           ]
         },
         {
-          "title": "Lynnwood Farnham",
+          "title": "Lynnwood Farnam",
           "object": [
             {
               "id": "rarete10",
-              "title": "Claude Gingras nous parle de Lynnwood Farnham",
+              "title": "Claude Gingras nous parle de Lynnwood Farnam",
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             },
             {
               "id": "rarete11",
-              "title": "An Organ Recital by Lynnwood Farnams",
+              "title": "An Organ Recital by Lynnwood Farnam",
               "sources": [
                 {
                   "type": "Disque",
@@ -1219,7 +1219,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Des enregistrements rarissimes&nbsp;», Claude Gingras, publié le 1er décembre 2007 dans La Presse"
+                  "text": "«&nbsp;Des enregistrements rarissimes&nbsp;», Claude Gingras, publié le 1er décembre 2007 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1249,7 +1249,7 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Frauenliebe und Leben</em> (4e et 5e lieder&nbsp;: <em>Du Ring an meinem Finger et Helft mir, ihr Schwestern</em>), Robert Schumann, interprété par Uta Graf, soprano, et John Newmark, piano, face A (4:04), extrait de l'album <em>Frauenliebe und Leben</em> paru sous l'étiquette Allegro Elite (numéro d'éditeur&nbsp;: 4034)"
+                  "text": "<em>Frauenliebe und Leben</em> (4e et 5e lieder&nbsp;: <em>Du Ring an meinem Finger</em> et <em>Helft mir, ihr Schwestern</em>), Robert Schumann, interprété par Uta Graf, soprano, et John Newmark, piano, face A (4:04), extrait de l'album <em>Frauenliebe und Leben</em> paru sous l'étiquette Allegro Elite (numéro d'éditeur&nbsp;: 4034)"
                 }
               ]
             }
@@ -1293,38 +1293,18 @@
               "sources": [
                 {
                   "type": "Animation",
-                  "text": "<em>Concerto pour piano no 2 en sol mineur (2e mouvement)</em>, Camille Saint-Saëns, interprété par Stephen Hough au piano avec le City of Birmingham Symphony Orchestra sous la direction de Sakari Oramo, piste 5 (5:23), extrait de l'album  <em>Saint-Saëns&nbsp;: the complete works for piano and orchestra</em> paru en 2001 sous l'étiquette Hyperion (numéros d'éditeur&nbsp: CDA67331--CDA67332)"
+                  "text": "<em>Concerto pour piano no&nbsp;2 en sol mineur (2e mouvement)</em>, Camille Saint-Saëns, interprété par Stephen Hough au piano avec le City of Birmingham Symphony Orchestra sous la direction de Sakari Oramo, piste 5 (5:23), extrait de l'album  <em>Saint-Saëns&nbsp;: the complete works for piano and orchestra</em> paru en 2001 sous l'étiquette Hyperion (numéros d'éditeur&nbsp: CDA67331--CDA67332)"
                 }
               ]
             }
           ]
         },
         {
-          "title": "Claude parle de son métier",
+          "title": "Claude Gingras parle de son métier",
           "object": [
             {
               "id": "metier1",
-              "title": "Brouillon (non daté) - extrait choisi 1",
-              "sources": [
-                {
-                  "type": "Document",
-                  "text": "Notes à propos du métier de critique musical, notes tapuscrites, archives personnelles de Claude Gingras, droits réservés à la succession Gingras"
-                }
-              ]
-            },
-            {
-              "id": "metier2",
-              "title": "Brouillon (non daté) - extrait choisi 2",
-              "sources": [
-                {
-                  "type": "Document",
-                  "text": "Notes à propos du métier de critique musical, notes tapuscrites, archives personnelles de Claude Gingras, droits réservés à la succession Gingras"
-                }
-              ]
-            },
-            {
-              "id": "metier3",
-              "title": "Brouillon (non daté) - extrait choisi 3",
+              "title": "Brouillon (non daté)",
               "sources": [
                 {
                   "type": "Document",
@@ -1335,7 +1315,7 @@
           ]
         },
         {
-          "title": "Travail de critique: dans la peau de Claude",
+          "title": "Travail de critique: dans la peau de Claude Gingras",
           "object": [
             {
               "id": "metier4",
@@ -1343,7 +1323,7 @@
               "sources": [
                 {
                   "type": "Partition",
-                  "text": "<em>Sonate pour orgue no 8 en la majeur</em>, Alexandre Guilmant, édition publiée en 1986 par Schott (numéro d'éditeur&nbsp;: ED 1868)"
+                  "text": "<em>Sonate pour orgue no&nbsp;8 en la majeur</em>, Alexandre Guilmant, édition publiée en 1986 par Schott (numéro d'éditeur&nbsp;: ED 1868)"
                 }
               ]
             },
@@ -1363,7 +1343,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Daveluy&nbsp;: la puissance&nbsp;», Claude Gingras, publié le 2 septembre 1993 dans La Presse"
+                  "text": "«&nbsp;Daveluy&nbsp;: la puissance&nbsp;», Claude Gingras, publié le 2 septembre 1993 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1388,7 +1368,7 @@
               "sources": [
                 {
                   "type": "Livre",
-                  "text": "<em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes.</em>, Claude Gingras, publié en 2014 aux Éditions La Presse (ISBN&nbsp;: 9782897051907)"
+                  "text": "<em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes.</em>, Claude Gingras, publié en 2014 aux Éditions <em>La Presse</em> (ISBN&nbsp;: 9782897051907)"
                 }
               ]
             },
@@ -1398,7 +1378,7 @@
               "sources": [
                 {
                   "type": "Livre",
-                  "text": "<em>Auditions&nbsp;: j'ai rencontré les plus grands</em>, Claude Gingras, publié en 2017 aux Éditions La Presse (ISBN&nbsp;: 9782897055264)"
+                  "text": "<em>Auditions&nbsp;: j'ai rencontré les plus grands</em>, Claude Gingras, publié en 2017 aux Éditions <em>La Presse</em> (ISBN&nbsp;: 9782897055264)"
                 }
               ]
             }
@@ -1423,7 +1403,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;La première encyclopédie de la musique au Canada&nbsp;», Claude Gingras, publié le 9 avril 1983 dans La Presse"
+                  "text": "«&nbsp;La première encyclopédie de la musique au Canada&nbsp;», Claude Gingras, publié le 9 avril 1983 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1516,7 +1496,7 @@
               "sources": [
                 {
                   "type": "Animation",
-                  "text": "<em>Un train pour l'enfer (début)</em>, Denis Gougeon, interprété par le Nouvel ensemble moderne et Les Percussions de Strasbourg sous la direction de Lorraine Vaillancourt, extrait de la piste 3 (7:34), extrait de l'album <em>Gougeon, Lesage, Perron, Provost</em> paru en 1996 sous l'étiquette UMMUS (numéro d'éditeur&nbsp;: UMM 109)"
+                  "text": "<em>Sonate en mi mineur K.304 (2e mouvement)</em>, Wolfgang Amadeus Mozart, interprétée par David Breitman, pianoforte, et Jean-François Rivest, violon, piste 8 (4:50), extrait de l'album <em>Sonates pour pianoforte et violon Vol. 1</em>  paru en 1996 sous l'étiquette UMMUS (numéro d'éditeur&nbsp;: UMM 307)"
                 }
               ]
             }
@@ -1535,7 +1515,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Réjean Poirier, claveciniste&nbsp;», Claude Gingras, publié le 31 octobre 1981 dans La Presse"
+                  "text": "«&nbsp;Réjean Poirier, claveciniste&nbsp;», Claude Gingras, publié le 31 octobre 1981 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1549,7 +1529,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;UMMUS, le label de l'Université de Montréal&nbsp;», Claude Gingras, publié le 23 février 1991 dans La Presse"
+                  "text": "«&nbsp;UMMUS, le label de l'Université de Montréal&nbsp;», Claude Gingras, publié le 23 février 1991 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1563,7 +1543,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Brillants, Lacombe et l'Orchestre du Conservatoire&nbsp;», Claude Gingras, publié le 11 décembre 1993 dans La Presse"
+                  "text": "«&nbsp;Brillants, Lacombe et l'Orchestre du Conservatoire&nbsp;», Claude Gingras, publié le 11 décembre 1993 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1577,7 +1557,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Les soeurs Vaillancourt, apôtres de la musique actuelle&nbsp;», Claude Gingras, publié le 29 juin 1996 dans La Presse"
+                  "text": "«&nbsp;Les sœurs Vaillancourt, apôtres de la musique actuelle&nbsp;», Claude Gingras, publié le 29 juin 1996 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1587,11 +1567,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Symphonie no 7 en la majeur (début du 1er mouvement)</em>, Ludwig van Beethoven, interprétée par l'Orchestre de l'Université de Montréal sous la direction de Jean-François Rivest, extrait de la piste 1 (3:51), extrait de l'album <em>OUM&nbsp;: Beethoven - Mozart</em> paru en 1996 sous l'étiquette UMMUS (numéro d'éditeur&nbsp;: UMM 306)"
+                  "text": "<em>Symphonie no&nbsp;7 en la majeur (début du 1er mouvement)</em>, Ludwig van Beethoven, interprétée par l'Orchestre de l'Université de Montréal sous la direction de Jean-François Rivest, extrait de la piste 1 (3:51), extrait de l'album <em>OUM&nbsp;: Beethoven - Mozart</em> paru en 1996 sous l'étiquette UMMUS (numéro d'éditeur&nbsp;: UMM 306)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Le premier disque de l'OUM&nbsp;: une réussite&nbsp;», Claude Gingras, publié le 1er juin 1996 dans La Presse"
+                  "text": "«&nbsp;Le premier disque de l'OUM&nbsp;: une réussite&nbsp;», Claude Gingras, publié le 1er juin 1996 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1605,7 +1585,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Mozart dans une nouvelle sonorité&nbsp;», Claude Gingras, publié le 22 juin 1996 dans La Presse"
+                  "text": "«&nbsp;Mozart dans une nouvelle sonorité&nbsp;», Claude Gingras, publié le 22 juin 1996 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1624,7 +1604,7 @@
                 },
                 {
                   "type": "Extrait audio",
-                  "text": "<em>Symphonie no 6 en fa majeur «&nbsp;Pastorale&nbsp;» (4e mouvement)</em>, Ludwig van Beethoven, interprétée par l'Orchestre de l'Université de Montréal sous la direction de Jean-François Rivest (3:41), extrait du concert du 5 octobre 2013 à l'Église St-Jean Baptiste (Montréal)"
+                  "text": "<em>Symphonie no&nbsp;6 en fa majeur «&nbsp;Pastorale&nbsp;» (4e mouvement)</em>, Ludwig van Beethoven, interprétée par l'Orchestre de l'Université de Montréal sous la direction de Jean-François Rivest (3:41), extrait du concert du 5 octobre 2013 à l'Église St-Jean Baptiste (Montréal)"
                 }
               ]
             }
@@ -1639,7 +1619,7 @@
               "sources": [
                 {
                   "type": "Livre",
-                  "text": "<em>Serge Garant et la révolution musicale au Quebec</em>, Marie-Thérèse Lefebvre, publié en 1986 chez Louise Courteau, éditrice (ISBN&nbsp;: 9782892390360)"
+                  "text": "<em>Serge Garant et la révolution musicale au Québec</em>, Marie-Thérèse Lefebvre, publié en 1986 chez Louise Courteau, éditrice (ISBN&nbsp;: 9782892390360)"
                 }
               ]
             },
@@ -1678,7 +1658,7 @@
                 },
                 {
                   "type": "Document",
-                  "text": "Photo «&nbsp;Un autre doctorat à Nagano&nbsp;», prise par André Pichette (La Presse), publiée avec un court texte de Claude Gingras le 20 avril 2006 dans La Presse"
+                  "text": "Photo «&nbsp;Un autre doctorat à Nagano&nbsp;», prise par André Pichette (<em>La Presse</em>), publiée avec un court texte de Claude Gingras le 20 avril 2006 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1688,7 +1668,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;L'ex-iconoclaste devenu docteur&nbsp;: Pierre Boulez&nbsp;», Claude Gingras, publié le 17 décembre 1993 dans La Presse"
+                  "text": "«&nbsp;L'ex-iconoclaste devenu docteur&nbsp;: Pierre Boulez&nbsp;», Claude Gingras, publié le 17 décembre 1993 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1722,7 +1702,7 @@
               "sources": [
                 {
                   "type": "Vidéo",
-                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (La Presse)"
+                  "text": "<em>Le monde de Claude Gingras</em>, produit en 2009, capsules réalisées par Top multimédias inc. (<em>La Presse</em>)"
                 }
               ]
             },
@@ -1742,7 +1722,7 @@
               "sources": [
                 {
                   "type": "Document",
-                  "text": "Photo de Maria Callas et Claude Gingras, prise le 19 novembre 1955 par Roger St-Jean (La Presse)"
+                  "text": "Photo de Maria Callas et Claude Gingras, prise le 19 novembre 1955 par Roger St-Jean (<em>La Presse</em>)"
                 }
               ]
             },
@@ -1758,11 +1738,11 @@
             },
             {
               "id": "maria5",
-              "title": "“Lisez La Presse!”",
+              "title": "“Lisez <em>La Presse</em>!”",
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;La Callas et moi&nbsp;», Claude Gingras, publié le 9 novembre 2007 dans La Presse"
+                  "text": "«&nbsp;La Callas et moi&nbsp;», Claude Gingras, publié le 9 novembre 2007 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1777,7 +1757,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Tout Callas en cinq enregistrements&nbsp;», Claude Gingras, publié le 21 septembre 2002 dans La Presse"
+                  "text": "«&nbsp;Tout Callas en cinq enregistrements&nbsp;», Claude Gingras, publié le 21 septembre 2002 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1797,11 +1777,11 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Norma</em> (air «&nbsp;<em>Casta diva</em>&nbsp;»), Vincenzo Bellini, interprété par Maria Callas, soprano, avec l'Orchestra del Teatro alla Scala di Milano sous la direction de Tullio Serafin, piste 9 (7:18), extrait de l'album<em>Norma</em> paru en 1985 sous l'étiquette EMI (numéro d'éditeur&nbsp;: CDS 7 47304 8)"
+                  "text": "<em>Norma</em> (air «&nbsp;<em>Casta diva</em>&nbsp;»), Vincenzo Bellini, interprété par Maria Callas, soprano, avec l'Orchestra del Teatro alla Scala di Milano sous la direction de Tullio Serafin, piste 9 (7:18), extrait de l'album <em>Norma</em> paru en 1985 sous l'étiquette EMI (numéro d'éditeur&nbsp;: CDS 7 47304 8)"
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Discographie&nbsp;», Claude Gingras, publié 17 septembre 2005 dans La Presse"
+                  "text": "«&nbsp;Discographie&nbsp;», Claude Gingras, publié 17 septembre 2005 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1825,7 +1805,7 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Tout Callas en cinq enregistrements&nbsp;», Claude Gingras, publié le 21 septembre 2002 dans La Presse"
+                  "text": "«&nbsp;Tout Callas en cinq enregistrements&nbsp;», Claude Gingras, publié le 21 septembre 2002 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1836,7 +1816,7 @@
           "object": [
             {
               "id": "maria11",
-              "title": "LOREMIPSUM",
+              "title": "Claude Gingras interviewe Maria Callas",
               "sources": [
                 {
                   "type": "Cassette audio",
@@ -1850,7 +1830,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Lettre ouverte à Maria Callas&nbsp;», Claude Gingras, publié le 23 mars 1974 dans La Presse"
+                  "text": "«&nbsp;Lettre ouverte à Maria Callas&nbsp;», Claude Gingras, publié le 23 mars 1974 dans <em>La Presse</em>"
                 }
               ]
             },
@@ -1889,14 +1869,14 @@
                 },
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Callas revit sur compact&nbsp;», Claude Gingras, publié le 16 avril 1988 dans La Presse"
+                  "text": "«&nbsp;Callas revit sur compact&nbsp;», Claude Gingras, publié le 16 avril 1988 dans <em>La Presse</em>"
                 }
               ]
             }
           ]
         },
         {
-          "title": "Biographie: Le livre du souvenir",
+          "title": "Biographie&nbsp;: Le livre du souvenir",
           "object": [
             {
               "id": "maria16",
@@ -1914,7 +1894,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Mahler, Callas, Horowitz et Vishnevskaya&nbsp;», Claude Gingras, publié le 14 décembre 1985 dans La Presse"
+                  "text": "«&nbsp;Mahler, Callas, Horowitz et Vishnevskaya&nbsp;», Claude Gingras, publié le 14 décembre 1985 dans <em>La Presse</em>"
                 }
               ]
             }
@@ -1939,7 +1919,7 @@
               "sources": [
                 {
                   "type": "Article",
-                  "text": "«&nbsp;Musique canadienne, Callas, Schwarzkopf...&nbsp;», Claude Gingras, publié le 10 décembre 1983 dans La Presse"
+                  "text": "«&nbsp;Musique canadienne, Callas, Schwarzkopf...&nbsp;», Claude Gingras, publié le 10 décembre 1983 dans <em>La Presse</em>"
                 }
               ]
             }
