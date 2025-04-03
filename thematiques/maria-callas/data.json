@@ -10,7 +10,7 @@
   },
   "listing": {
     "title": "L’admiration d’une légende",
-    "description": "<p>En 1955, deux ans seulement après son arrivée à <em>La Presse</em>, Claude Gingras démontre sa détermination et son ingéniosité en obtenant un entretien exclusif avec Maria Callas, alors en transit à Montréal à la suite du tumulte engendré par le du scandale des huissiers de Chicago. Il cerne immédiatement la complexité de cette artiste hors du commun. L’admiration de Claude Gingras envers Maria Callas l’amène à suivre sa carrière de près, documentant ses triomphes, mais aussi les moments plus difficiles de sa vie.<br>Le 13 mai 1974, la Divina revient à Montréal dans le contexte de sa tournée mondiale d'adieux. La cantatrice ne possédait plus la même agilité et précision vocale, mais Gingras voit au-delà. Il met en lumière son incroyable intensité dramatique, son dévouement à l’art et cette capacité unique à donner vie à chaque mot. Le critique considère Callas comme une véritable comédienne qui marque d’une émotion incomparable chacune de ses représentations</p>",
+    "description": "<p>En 1955, deux ans seulement après son arrivée à <em>La Presse</em>, Claude Gingras démontre sa détermination et son ingéniosité en obtenant un entretien exclusif avec Maria Callas, alors en transit à Montréal à la suite du tumulte engendré par le scandale des huissiers de Chicago. Il cerne immédiatement la complexité de cette artiste hors du commun. L’admiration de Claude Gingras envers Maria Callas l’amène à suivre sa carrière de près, documentant ses triomphes, mais aussi les moments plus difficiles de sa vie.<br/>Le 13 mai 1974, la Divina revient à Montréal dans le contexte de sa tournée mondiale d'adieux. La cantatrice ne possédait plus la même agilité et précision vocale, mais monsieur Gingras voit au-delà. Il met en lumière son incroyable intensité dramatique, son dévouement à l’art et cette capacité unique à donner vie à chaque mot. Le critique considère Callas comme une véritable comédienne qui marque d’une émotion incomparable chacune de ses représentations.</p>",
     "section": [
       {
         "title": "Une première rencontre marquante",
@@ -26,7 +26,7 @@
             "description": "<p>Le critique a une admiration sans bornes pour la cantatrice.</p>"
           },
           {
-            "title": "<em>Una voce poco fa</em>",
+            "title": "«&nbsp;Una voce poco fa&nbsp;»",
             "id": "maria2",
             "type": "vinyl",
             "note": null,
@@ -52,15 +52,15 @@
             "slug": "la-photo-avec-un-huissier",
             "type": "article",
             "article": "images/Maria_Callas_Huissier_1955.jpg",
-            "description": "<p>«&nbsp;Les deux passages en transit [de Maria Callas] suivaient les deux plus médiatisés parmi les nombreux incidents hors scène qui marquèrent la carrière de l'impétueuse cantatrice. Le premier se déroula en deux jours&nbsp;: les vendredi 18 et samedi 19 novembre 1955. Le jeudi 17, Callas chantait <em>Madama Butterfly</em> à l'Opéra de Chicago. En sortant de scène, elle est interpellée par huit huissiers venus lui signifier des procédures intentées par un avocat new-yorkais qui lui réclame 300 000 $, prétendant qu'elle s'était engagée à lui verser un pourcentage de ses cachets pendant un certain nombre d'années. Tous les détails sur cette affaire se trouvent dans les nombreuses biographies de Callas.<br>Résumons. L'un des huissiers tente de la toucher avec le document - geste qui, aux États-Unis, constitue la signification. Callas lui hurle des “Don't touch me !” et d'autres invectives. Curieux hasard, un photographe est sur les lieux et croque la scène: le huissier “numéro un” au premier plan, Callas derrière, en costume de Butterfly, la bouche grande ouverte, le regard en feu. Callas et son mari, Giambattista Meneghini, un millionnaire véronais, manufacturier de briques, qui est aussi son manager, cherchent à sortir du pays le plus vite possible pour rentrer en Italie.&nbsp;»<br>Claude Gingras dans <em>Notes: 60 ans de vie musicale en confidences et anecdotes.</em></p>"
+            "description": "<p>«&nbsp;Les deux passages en transit [de Maria Callas] suivaient les deux plus médiatisés parmi les nombreux incidents hors scène qui marquèrent la carrière de l'impétueuse cantatrice. Le premier se déroula en deux jours&nbsp;: les vendredi 18 et samedi 19 novembre 1955. Le jeudi 17, Callas chantait <em>Madama Butterfly</em> à l'Opéra de Chicago. En sortant de scène, elle est interpellée par huit huissiers venus lui signifier des procédures intentées par un avocat new-yorkais qui lui réclame 300 000 $, prétendant qu'elle s'était engagée à lui verser un pourcentage de ses cachets pendant un certain nombre d'années. Tous les détails sur cette affaire se trouvent dans les nombreuses biographies de Callas.<br>Résumons. L'un des huissiers tente de la toucher avec le document - geste qui, aux États-Unis, constitue la signification. Callas lui hurle des “Don't touch me !” et d'autres invectives. Curieux hasard, un photographe est sur les lieux et croque la scène: le huissier “numéro un” au premier plan, Callas derrière, en costume de Butterfly, la bouche grande ouverte, le regard en feu. Callas et son mari, Giambattista Meneghini, un millionnaire véronais, manufacturier de briques, qui est aussi son manager, cherchent à sortir du pays le plus vite possible pour rentrer en Italie.&nbsp;»<br>Claude Gingras dans <em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes.</em></p>"
           },
           {
-            "title": "«&nbsp;Lisez La Presse!&nbsp;»",
+            "title": "«&nbsp;Lisez <em>La Presse</em>!&nbsp;»",
             "id": "maria5",
             "slug": "lisez-la-presse",
             "type": "article",
             "article": "images/757666904_articles_2.jpg",
-            "description": "<p>«&nbsp;La fois où la Diva a presque dit “Lisez La Presse”&nbsp;»<br><em>La Presse</em>, 20 novembre 1955<br></p><p>Dans son livre <em>Notes</em>, Claude Gingras revient sur les événements&nbsp;:<br> «&nbsp;Bien des années plus tard, je trouve dans une boutique de disques d'occasion un compact annonçant <em>Maria Callas - The Unknown Recordings, vol. 1</em>. Le livret contient plusieurs photos dont une montrant, ô surprise, Callas exactement comme je l'ai vue dans le hall du Ritz ce matin du samedi 19 novembre 1955&nbsp;: même chapeau-assiette, même large sac à main, mêmes deux livres sous le bras - en fait, deux de ces partitions chant-piano avec lesquelles les chanteurs travaillent. <br>Bref, je crois revivre la scène. Et pour cause&nbsp;: la photo a été prise à la descente d'avion à l'aéroport de Milan, le dimanche matin 20 novembre. (Le texte indique erronément 18 novembre. Le 18 novembre, elle arrivait à Montréal !) Mieux encore, le disque contient quelques très brèves interviews dont une en italien, de 48 secondes, où un journaliste lui demande ce qui s'est passé à Chicago. Elle répond évasivement et conclut&nbsp;: “Lisez les journaux de Montréal !” <br>Autrement dit&nbsp;: “Lisez <em>La Presse</em> !” Car cet exemplaire que je lui avais remis, avec à la une la photo de l'incident de Chicago, Callas en avait manifestement pris connaissance dans l'avion.&nbsp;»<br>Claude Gingras dans <em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes.</em></p>"
+            "description": "<p>«&nbsp;La fois où la Diva a presque dit “Lisez <em>La Presse</em>!”&nbsp;»<br><em>La Presse</em>, 20 novembre 1955<br></p><p>Dans son livre <em>Notes</em>, Claude Gingras revient sur les événements&nbsp;:<br> «&nbsp;Bien des années plus tard, je trouve dans une boutique de disques d'occasion un compact annonçant <em>Maria Callas - The Unknown Recordings, vol. 1</em>. Le livret contient plusieurs photos dont une montrant, ô surprise, Callas exactement comme je l'ai vue dans le hall du Ritz ce matin du samedi 19 novembre 1955&nbsp;: même chapeau-assiette, même large sac à main, mêmes deux livres sous le bras - en fait, deux de ces partitions chant-piano avec lesquelles les chanteurs travaillent. <br>Bref, je crois revivre la scène. Et pour cause&nbsp;: la photo a été prise à la descente d'avion à l'aéroport de Milan, le dimanche matin 20 novembre. (Le texte indique erronément 18 novembre. Le 18 novembre, elle arrivait à Montréal !) Mieux encore, le disque contient quelques très brèves interviews dont une en italien, de 48 secondes, où un journaliste lui demande ce qui s'est passé à Chicago. Elle répond évasivement et conclut&nbsp;: “Lisez les journaux de Montréal !” <br>Autrement dit&nbsp;: “Lisez <em>La Presse</em> !” Car cet exemplaire que je lui avais remis, avec à la une la photo de l'incident de Chicago, Callas en avait manifestement pris connaissance dans l'avion.&nbsp;»<br>Claude Gingras dans <em>Notes&nbsp;: 60 ans de vie musicale en confidences et anecdotes.</em></p>"
           }
         ]
       },
@@ -68,7 +68,7 @@
         "title": "Maria Callas&nbsp;: ses meilleurs enregistrements",
         "objects": [
           {
-            "title": "«&nbsp;Tout Callas en 5 enregistrements&nbsp;»",
+            "title": "«&nbsp;Tout Callas en cinq enregistrements&nbsp;»",
             "id": "maria6",
             "slug": "tout-callas-en-5-enregistrements",
             "type": "article",
@@ -110,7 +110,7 @@
             "pochette_recto": "textures/1057072788_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/1057072788_pochette_verso_stitch.jpg",
             "tranche": "#b9c771",
-            "description": "<p>«&nbsp;(Cet enregistrement “live”, maintenant publié en disques, était considéré par Callas comme “le plus parfait” de tous les documents sonores existant sur elle: c'est du moins ce qu'elle avait répondu lorsque je lui posai la question en conférence de presse, à New York, en 1974)&nbsp;»<br><em>La Presse</em>, 4 décembre 1982</p>"
+            "description": "<p>«&nbsp;... (Cet enregistrement “live”, maintenant publié en disques, était considéré par Callas comme “le plus parfait” de tous les documents sonores existant sur elle: c'est du moins ce qu'elle avait répondu lorsque je lui posai la question en conférence de presse, à New York, en 1974).&nbsp;»<br><em>La Presse</em>, 4 décembre 1982</p>"
           },
           {
             "title": "<em>Lucia di Lammermoor</em>, de Donizetti, dirigé par Tullio Serafin (1953)",

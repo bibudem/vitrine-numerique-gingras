@@ -5,11 +5,11 @@
   "cta": "Découvrir",
   "bgColor": "253, 246, 250",
   "seo": {
-    "title": "Yannick Nézet-Séguin : Une ascension sous la plume de Claude Gingras",
+    "title": "Yannick Nézet-Séguin&nbsp;: Une ascension sous la plume de Claude Gingras",
     "description": "Découvrez la relation unique entre Yannick Nézet-Séguin et le critique musical Claude Gingras, témoin de son parcours vers les grandes scènes internationales."
   },
   "listing": {
-    "title": "Yannick Nézet-Séguin : l’ascension d’un grand chef",
+    "title": "Yannick Nézet-Séguin&nbsp;: l’ascension d’un grand chef",
     "description": "<p>En 1996, Yannick Nézet-Séguin fait ses premiers pas comme chef d'orchestre. Le critique influent Claude Gingras est parmi les premiers à reconnaître son talent. « Ce garçon pourrait être le futur chef de l'OSM », écrit-il alors, impressionné par l'énergie et la maîtrise du jeune chef. Ce moment marque le début d’une relation unique entre les deux hommes. Le critique suit l’évolution de la carrière de Nézet-Séguin depuis ses débuts avec La Chapelle de Montréal, jusqu'aux scènes internationales en compagnie de l'Orchestre Métropolitain. Gingras témoigne de sa capacité à réinventer des œuvres majeures et à émouvoir par sa rigueur technique et son sens musical profond. Tout au long de sa carrière, Gingras va suivre celle de Nézet-Séguin, saluant régulièrement ses interprétations sincères et émotives. Pour le critique, Yannick Nézet-Séguin est un interprète unique, capable de faire vibrer les musicien·nes et le public à travers des concerts marquant les mémoires.</p>",
     "section": [
       {
@@ -39,7 +39,7 @@
             "article": null,
             "video": "videos/yns-extrait1.webm",
             "poster": "yns4.png",
-            "description": "<p>«&nbsp;Il avait un enthousiasme, il avait une espèce de ferveur […] ce gars-là il connaît ses partitions. […] Non seulement, il dirigeait, mais il chantait.&nbsp;» <br>«&nbsp;[…] c’était pas de la façade, […] c’était pas de la fumisterie, c’était vrai !&nbsp;»<br>«&nbsp;Il a la musique en lui. […] c’est un interprète […] C'est très rare que ce qu’il fait n’est pas intéressant.&nbsp;»<br>Claude Gingras dans <em>Claude Gingras critique</em>, 2016</p>"
+            "description": "<p>«&nbsp;Il avait un enthousiasme, il avait une espèce de ferveur […] ce gars-là il connaît ses partitions. […] Non seulement, il dirigeait, mais il chantait.&nbsp;» <br>«&nbsp;[…] c’était pas de la façade, […] c’était pas de la fumisterie, c’était vrai !&nbsp;»<br>«&nbsp;Il a la musique en lui. […] c’est un interprète. C'est très rare que ce qu’il fait n’est pas intéressant.&nbsp;»<br>Claude Gingras dans <em>Claude Gingras critique</em>, 2016</p>"
           }
         ]
       },
@@ -52,7 +52,7 @@
             "type": "article",
             "slug": "titres-de-journaux",
             "article": "images/titresdejournaux.jpg",
-            "description": "<p>«&nbsp;En moins de 15 ans, il a accompli ce qui habituellement prend toute une vie.&nbsp;»<br>Claude Gingras, <em>Notes</em>.<br><br><strong>12 juin 1999</strong><br>REQUIEM GÉNIAL DE NÉZET-SÉGUIN<br/><br/><strong>19 mars 2002</strong><br>NÉZET-SÉGUIN ET L'OMGM GAGNENT ENCORE!<br/><br/><strong>10 septembre 2002</strong><br/>NÉZET-SÉGUIN : UN AUTRE COUP DE GÉNIE<br/><br/><strong>24 octobre 2004</strong><br>NÉZET ET L'OM ÉCLIPSENT LEURS SOLISTES<br/><br/><strong>24 décembre 2004</strong><br/>YANNICK NÉZET-SÉGUIN À LA CONQUÊTE DU MONDE<br/><br/><strong>4 octobre 2014</strong><br>OM : UN SOIR MÉMORABLE !</p>"
+            "description": "<p>«&nbsp;En moins de 15 ans, il a accompli ce qui habituellement prend toute une vie.&nbsp;»<br>Claude Gingras, <em>Notes</em>.<br><br><strong>12 juin 1999</strong><br>REQUIEM GÉNIAL DE NÉZET-SÉGUIN<br/><br/><strong>19 mars 2002</strong><br>NÉZET-SÉGUIN ET L'OMGM GAGNENT ENCORE!<br/><br/><strong>10 septembre 2002</strong><br/>NÉZET-SÉGUIN&nbsp;: UN AUTRE COUP DE GÉNIE<br/><br/><strong>24 octobre 2004</strong><br>NÉZET ET L'OM ÉCLIPSENT LEURS SOLISTES<br/><br/><strong>24 décembre 2004</strong><br/>YANNICK NÉZET-SÉGUIN À LA CONQUÊTE DU MONDE<br/><br/><strong>4 octobre 2014</strong><br>OM&nbsp;: UN SOIR MÉMORABLE !</p>"
           }
         ]
       },
@@ -73,7 +73,7 @@
         "title": "Les enregistrements",
         "objects": [
           {
-            "title": "Œuvre de Nino Rota",
+            "title": "Œuvres de Nino Rota",
             "id": "yns7",
             "type": "cd",
             "note": 4,
@@ -82,7 +82,7 @@
             "article": "images/77030826_article.jpg",
             "pochette_recto": "textures/77030826_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/77030826_pochette_verso_nouv.jpg",
-            "description": "<p>«&nbsp;[…] Le premier disque de l’OMGM avec son titulaire depuis trois ans, Yannick Nézet-Séguin, et le tout premier disque du jeune musicien de 27 ans qui, également pianiste, était bien le seul de nos artistes connus à ne pas encore avoir son nom sur un enregistrement.&nbsp;»<br>«&nbsp;Au plan de l’exécution et de la prise de son, il mérite les plus hauts points. Masse orchestrale, virtuosité et couleur, thèmes amoureusement chantés par les cordes, brillants et touchants solos de trompette et de violon : tout sonne comme dans un grand orchestre.&nbsp;»<br>«&nbsp;Il existe d’autres enregistrements de ces concertos. Je ne les connais pas, la section Nino Rota de ma discothèque étant fort mince. Mais je ne vois pas comment ils pourraient être mieux joués et enregistrés qu’ils ne le sont ici.&nbsp;»<br><em>La Presse</em>, 8 février 2003</p>"
+            "description": "<p>«&nbsp;[…] Le premier disque de l’OMGM avec son titulaire depuis trois ans, Yannick Nézet-Séguin, et le tout premier disque du jeune musicien de 27 ans qui, également pianiste, était bien le seul de nos artistes connus à ne pas encore avoir son nom sur un enregistrement.&nbsp;»<br>«&nbsp;Au plan de l’exécution et de la prise de son, il mérite les plus hauts points. Masse orchestrale, virtuosité et couleur, thèmes amoureusement chantés par les cordes, brillants et touchants solos de trompette et de violon&nbsp;: tout sonne comme dans un grand orchestre.&nbsp;»<br>«&nbsp;Il existe d’autres enregistrements de ces concertos. Je ne les connais pas, la section Nino Rota de ma discothèque étant fort mince. Mais je ne vois pas comment ils pourraient être mieux joués et enregistrés qu’ils ne le sont ici.&nbsp;»<br><em>La Presse</em>, 8 février 2003</p>"
           },
           {
             "title": "<em>Mahler 4</em>",
@@ -107,7 +107,7 @@
             "article": "images/833438052_articles.jpg",
             "pochette_recto": "textures/833438052_pochette_recto_nouv.jpg",
             "pochette_verso": "textures/833438052_pochette_verso_nouv.jpg",
-            "description": "<p>«&nbsp;L’entreprise semblait téméraire. La mer de Debussy, l'un des sommets du répertoire symphonique, exige un orchestre à la fois très virtuose, très subtil et très coloré.&nbsp;»<br>«&nbsp;Sans modifier quoi que ce soit à la partition, Nézet-Séguin anime La mer comme un grand romantique, avec un sens aigu de la description et en faisant pleinement chanter les thèmes. La tradition debussyste veut qu'on s'arrête à l’impression, à une vue un peu distante de l'événement. Nézet-Séguin plonge carrément dans le sujet. Les miroitements de l’onde, le mouvement terrifiant des vagues, le danger qu’elles représentent, la profondeur de l'eau, les sirènes de détresse, et jusqu'aux mouettes: tout y est. Parfait instrument de sa conception, le Métropolitain sonne puissant, avec des premiers-pupitres tous du plus haut niveau.&nbsp;»<br><em>La Presse</em>, 21 octobre 2007</p>"
+            "description": "<p>«&nbsp;L’entreprise semblait téméraire. La mer de Debussy, l'un des sommets du répertoire symphonique, exige un orchestre à la fois très virtuose, très subtil et très coloré.&nbsp;»<br>«&nbsp;Sans modifier quoi que ce soit à la partition, Nézet-Séguin anime La mer comme un grand romantique, avec un sens aigu de la description et en faisant pleinement chanter les thèmes. La tradition debussyste veut qu'on s'arrête à l’impression, à une vue un peu distante de l'événement. Nézet-Séguin plonge carrément dans le sujet. Les miroitements de l’onde, le mouvement terrifiant des vagues, le danger qu’elles représentent, la profondeur de l'eau, les sirènes de détresse, et jusqu'aux mouettes&nbsp;: tout y est. Parfait instrument de sa conception, le Métropolitain sonne puissant, avec des premiers-pupitres tous du plus haut niveau.&nbsp;»<br><em>La Presse</em>, 21 octobre 2007</p>"
           }
         ]
       },
@@ -120,7 +120,7 @@
             "type": "article",
             "slug": "echanges-21-decembre",
             "article": "images/Courriel_du_21_decembre_2015.jpg",
-            "description": "<p>Décembre 2015 :<br>La correspondance entre Yannick Nézet-Séguin et Claude Gingras continue jusqu’à la retraite de ce dernier, une amitié qui résiste au temps.</p>"
+            "description": "<p>Décembre 2015&nbsp;:<br>La correspondance entre Yannick Nézet-Séguin et Claude Gingras continue jusqu’à la retraite de ce dernier, une amitié qui résiste au temps.</p>"
           },
           {
             "title": "Extrait d'un documentaire",
