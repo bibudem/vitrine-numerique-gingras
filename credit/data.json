@@ -148,21 +148,21 @@
               "sources": [
                 {
                   "type": "Photographie",
-                  "text": "Photo représentant un pan de la collection de Claude Gingras à son domicile, prise en 2017 par la Direction des bibliothèques de l'Université de Montréal."
+                  "text": "Photo représentant Claude Gingras chez lui, prise en 2014 par Annik MH de Carufel (<em>Le Devoir</em>)."
                 }
               ]
             }
           ]
         },
         {
-          "title": "La collection Claude-Gingras",
+          "title": "La Collection Claude-Gingras",
           "object": [
             {
               "id": "collection2",
               "sources": [
                 {
                   "type": "Photographie",
-                  "text": "Photo représentant Claude Gingras chez lui, prise en 2014 par Annik MH de Carufel (<em>Le Devoir</em>)."
+                  "text": "Photo représentant un pan de la collection de Claude Gingras à son domicile, prise en 2017 par la Direction des bibliothèques de l'Université de Montréal."
                 }
               ]
             }
@@ -771,7 +771,7 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Trio pour piano op.&nbsp;50 en la mineur (3e mouvement)</em>, Piotr Ilitch Tchaïkovski, interprété par le Trio Borodin, extrait de la face 2 (7:43), extrait de l'album paru en 1982 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: ABRD1049)"
+                  "text": "<em>Trio pour piano op.&nbsp;50 en la mineur (3e mouvement)</em>, Piotr Ilitch Tchaïkovski, interprété par le Trio Borodine, extrait de la face 2 (7:43), extrait de l'album paru en 1982 sous l'étiquette Chandos (numéro d'éditeur&nbsp;: ABRD1049)"
                 },
                 {
                   "type": "Article",
@@ -1171,7 +1171,7 @@
               "sources": [
                 {
                   "type": "Disque",
-                  "text": "<em>Dialogues des carmélites</em> (fin du 1er tableau de l'Acte I), Francis Poulenc, interprété Virginia Zeani, soprano, et Scipio Colombo, baryton, avec l'orchestre du Teatro alla Scala sous la direction de Nino Sanzogno, extrait de la face 1 (4:55), extrait de l'album paru sous l'étiquette Legendary Recordings (numéro d'éditeur&nbsp;: LR 144-3)"
+                  "text": "<em>Dialogues des Carmélites</em> (fin du 1er tableau de l'Acte I), Francis Poulenc, interprété Virginia Zeani, soprano, et Scipio Colombo, baryton, avec l'orchestre du Teatro alla Scala sous la direction de Nino Sanzogno, extrait de la face 1 (4:55), extrait de l'album paru sous l'étiquette Legendary Recordings (numéro d'éditeur&nbsp;: LR 144-3)"
                 },
                 {
                   "type": "Article",
@@ -1861,7 +1861,7 @@
           "object": [
             {
               "id": "maria15",
-              "title": "Redécouvrir la jeunesse de sa Tosca",
+              "title": "Une rareté : la dernière apparition en public",
               "sources": [
                 {
                   "type": "Disque",
@@ -1929,16 +1929,16 @@
     }
   ],
   "seo": {
-    "title": "La collection Claude Gingras",
+    "title": "La Collection Claude Gingras",
     "description": "description - a remplir",
     "socials": {
       "facebook": {
-        "title": "La collection Claude Gingras",
+        "title": "La Collection Claude Gingras",
         "description": "description - a rempli",
         "image": false
       },
       "twitter": {
-        "title": "La collection Claude Gingras",
+        "title": "La Collection Claude Gingras",
         "description": "description - a rempli",
         "image": false
       }
