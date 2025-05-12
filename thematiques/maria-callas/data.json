@@ -10,7 +10,7 @@
   },
   "listing": {
     "title": "L’admiration d’une légende",
-    "description": "<p>En 1955, deux ans seulement après son arrivée à <em>La Presse</em>, Claude Gingras démontre sa détermination et son ingéniosité en obtenant un entretien exclusif avec Maria Callas, alors en transit à Montréal à la suite du tumulte engendré par le scandale des huissiers de Chicago. Il cerne immédiatement la complexité de cette artiste hors du commun. L’admiration de Claude Gingras envers Maria Callas l’amène à suivre sa carrière de près, documentant ses triomphes, mais aussi les moments plus difficiles de sa vie.<br/>Le 13 mai 1974, la Divina revient à Montréal dans le contexte de sa tournée mondiale d'adieux. La cantatrice ne possédait plus la même agilité et précision vocale, mais monsieur Gingras voit au-delà. Il met en lumière son incroyable intensité dramatique, son dévouement à l’art et cette capacité unique à donner vie à chaque mot. Le critique considère Callas comme une véritable comédienne qui marque d’une émotion incomparable chacune de ses représentations.</p>",
+    "description": "<p>En 1955, deux ans seulement après son arrivée à <em>La Presse</em>, Claude Gingras démontre sa détermination et son ingéniosité en obtenant un entretien exclusif avec Maria Callas, alors en transit à Montréal à la suite du tumulte engendré par le scandale des huissiers de Chicago. Il cerne immédiatement la complexité de cette artiste hors du commun. L’admiration de Claude Gingras envers Maria Callas l’amène à suivre sa carrière de près, documentant ses triomphes, mais aussi les moments plus difficiles de sa vie.</p><p>Le 13 mai 1974, la Divina revient à Montréal dans le contexte de sa tournée mondiale d'adieux. La cantatrice ne possédait plus la même agilité et précision vocale, mais monsieur Gingras voit au-delà. Il met en lumière son incroyable intensité dramatique, son dévouement à l’art et cette capacité unique à donner vie à chaque mot. Le critique considère Callas comme une véritable comédienne qui marque d’une émotion incomparable chacune de ses représentations.</p>",
     "section": [
       {
         "title": "Une première rencontre marquante",
@@ -110,7 +110,7 @@
             "pochette_recto": "textures/1057072788_pochette_recto_stitch.jpg",
             "pochette_verso": "textures/1057072788_pochette_verso_stitch.jpg",
             "tranche": "#b9c771",
-            "description": "<p>«&nbsp;... (Cet enregistrement “live”, maintenant publié en disques, était considéré par Callas comme “le plus parfait” de tous les documents sonores existant sur elle: c'est du moins ce qu'elle avait répondu lorsque je lui posai la question en conférence de presse, à New York, en 1974).&nbsp;»<br><em>La Presse</em>, 4 décembre 1982</p>"
+            "description": "<p>«&nbsp;... (cet enregistrement “live”, maintenant publié en disques, était considéré par Callas comme “le plus parfait” de tous les documents sonores existant sur elle: c'est du moins ce qu'elle avait répondu lorsque je lui posai la question en conférence de presse, à New York, en 1974).&nbsp;»<br><em>La Presse</em>, 4 décembre 1982</p>"
           },
           {
             "title": "<em>Lucia di Lammermoor</em>, de Donizetti, dirigé par Tullio Serafin (1953)",
@@ -184,7 +184,7 @@
         "title": "Dernier concert en public",
         "objects": [
           {
-            "title": "Redécouvrir la jeunesse de sa Tosca",
+            "title": "Une rareté : la dernière apparition en public",
             "id": "maria15",
             "type": "vinyl",
             "note": null,
